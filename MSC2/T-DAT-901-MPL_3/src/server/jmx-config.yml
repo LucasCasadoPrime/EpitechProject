@@ -1,0 +1,34 @@
+defaultExporterConfig:
+  lowercaseOutputName: true
+  lowercaseOutputLabelNames: true
+  
+rules:
+  - pattern: "kafka.server<type=(.+), name=(.+)>"
+    name: "kafka_server_$1_$2"
+    labels:
+      type: "$1"
+      name: "$2"
+
+  - pattern: "kafka.network<type=(.+), name=(.+)>"
+    name: "kafka_network_$1_$2"
+    labels:
+      type: "$1"
+      name: "$2"
+
+  - pattern: "kafka.log<type=(.+), name=(.+)>"
+    name: "kafka_log_$1_$2"
+    labels:
+      type: "$1"
+      name: "$2"
+
+  - pattern: "kafka.controller<type=(.+), name=(.+)>"
+    name: "kafka_controller_$1_$2"
+    labels:
+      type: "$1"
+      name: "$2"
+
+  - pattern: "java.lang<type=(.+), name=(.+)>"
+    name: "java_lang_$1_$2"
+    labels:
+      type: "$1"
+      name: "$2"

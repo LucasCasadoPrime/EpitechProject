@@ -1,0 +1,66 @@
+J'ai un projet, dans lequel je prend le rôle de l'architecte solution, qui a pour but de créer une application web big-data.
+
+Il faut que :
+- je collecte continuellement un fil d'actualité sur le bitcoin
+- je process continuellement les données collectés pour fournir des analyses
+- visualise (avec une échelle temporaire) dynamiquement les analyses fournit dans des graphiques appropriés
+
+Mon client veut que j'utilise le paradigme producer/consumer, mon système d'analyse doit être toujours en ligne et le plus rapide possible et il doit également respecter le paradigme producer/consumer, tout en gardant en tête que l'affichage des analyses évolue avec le temps afin d'avoir une visualisation sur l'évolution du bitcoin.
+
+
+
+
+
+
+Pour réaliser ce projet en respectant les exigences du paradigme producer/consumer et en assurant un traitement rapide et en temps réel, voici une architecture suggérée :
+1. Collecte continue du fil d'actualité Bitcoin (Producer)
+
+    Technologies : Utiliser des API comme celles de Twitter, Reddit, ou des agrégateurs spécialisés dans les cryptomonnaies (CoinGecko, CoinMarketCap) pour récupérer les actualités en continu. Une autre approche pourrait être de souscrire à un service de flux RSS ou WebSocket.
+    Mise en place :
+        Un module (producer) collectera les données d'actualité en temps réel.
+        Utilisation de Kafka ou RabbitMQ pour implémenter la file d'attente des messages. Chaque nouvelle information est mise en file d'attente.
+    Pipeline de collecte : Ces informations seront formatées et envoyées à une file de traitement via Kafka (par exemple). Chaque message contient des métadonnées comme l'heure, la source et le contenu de l'article ou des tweets.
+
+2. Traitement des données (Consumer)
+
+    Technologies :
+        Utiliser des frameworks comme Apache Flink ou Apache Spark Streaming pour traiter les données en temps réel.
+        Le traitement peut inclure des opérations comme l'analyse de sentiment, la catégorisation des nouvelles, et la détection des tendances ou événements significatifs.
+    Mise en place :
+        Les consumers reçoivent les messages de la file Kafka et lancent le traitement des informations.
+        Les données peuvent être stockées dans une base de données NoSQL comme Cassandra ou Elasticsearch pour les requêtes rapides et efficaces, ou InfluxDB pour le stockage de séries temporelles.
+
+3. Système d’analyse toujours en ligne et performant
+
+    Mise en place :
+        Utiliser un cluster de traitement distribué avec Kubernetes pour assurer l'élasticité et la disponibilité. Cela garantit que le système peut traiter un grand volume de données en augmentant ou réduisant automatiquement les ressources selon la charge.
+        Pour que le traitement soit le plus rapide possible, envisager l'optimisation des algorithmes d'analyse, en particulier pour les analyses de sentiments ou les tendances, en utilisant des modèles préentraînés de machine learning.
+
+4. Visualisation dynamique des analyses (Consumer - Dashboard)
+
+    Technologies :
+        Utiliser un framework de visualisation comme D3.js, Chart.js ou des outils de tableau de bord comme Grafana.
+        Pour la gestion en temps réel, utiliser WebSockets afin de mettre à jour dynamiquement les graphiques à chaque nouvelle analyse traitée.
+    Mise en place :
+        Les résultats des analyses (sentiment, évolution des tendances) sont envoyés à une autre file Kafka.
+        Un module consumer côté frontend consomme les analyses et met à jour dynamiquement les graphiques.
+        L’échelle temporelle peut être gérée à l’aide de time-series databases comme InfluxDB pour visualiser les données historiques et actuelles en continu.
+
+5. Exemple de flow Producer/Consumer
+
+    Producer :
+        Producteurs d’actualités récupèrent et envoient les nouvelles à Kafka.
+        Un autre producteur pourrait aussi surveiller les prix du Bitcoin en temps réel via des API financières.
+    Consumer :
+        Les consumers reçoivent et analysent en temps réel chaque actualité.
+        Les résultats des analyses sont envoyés vers la base de données et visualisés en continu dans l’interface utilisateur.
+
+Outils clés à utiliser :
+
+    Kafka : Gestion des files d'attente.
+    Apache Flink/Spark Streaming : Traitement des flux de données.
+    Elasticsearch/InfluxDB : Stockage et gestion des séries temporelles.
+    D3.js/Grafana : Visualisation des données et analyses en temps réel.
+    Kubernetes : Gestion des containers pour assurer la scalabilité.
+
+Ce système respecte le paradigme producer/consumer avec une architecture scalable et permet une visualisation dynamique de l'évolution du Bitcoin à travers les données collectées et analysées en temps réel.

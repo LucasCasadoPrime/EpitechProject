@@ -1,0 +1,6 @@
+﻿/src/server/Shared/Dto/bin/*
+/src/server/Shared/Dto/obj/*
+
+/src/server/Api/.idea/*
+/src/server/Api/.vs/*
+/src/server/DataGenerationService/.vs/*

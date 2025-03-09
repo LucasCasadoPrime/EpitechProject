@@ -1,0 +1,1572 @@
+trip_id,Departure,Arrival,Duration,Departure_City,Arrival_City
+OCESN003100F140147152,Gare de Le Havre,Gare de Paris-St-Lazare,138,Fécamp,Paris
+OCESN003190F040047309,Gare de Dieppe,Gare de Paris-St-Lazare,145,Dieppe,Paris
+OCESN003198F030037315,Gare de Paris-St-Lazare,Gare de Rouen-Rive-Droite,97,Paris,Rouen
+OCESN003300F030037323,Gare de Cherbourg,Gare de Paris-St-Lazare,194,Cherbourg-en-Cotentin,Paris
+OCESN003313F380387526,Gare de Caen,Gare de Paris-St-Lazare,149,Caen,Paris
+OCESN003371F080087908,Gare de Paris-St-Lazare,Gare de Trouville-Deauville,147,Paris,Deauville
+OCESN003410F120128075,Gare de Granville,Gare de Paris-Montp.3-Vaug,201,Granville,Paris
+OCESN003460F010018083,Gare de Granville,Gare de Paris-Montparnasse 1-2,195,Granville,Paris
+OCESN003463F030038093,Gare de Dreux,Gare de Granville,142,Dreux,Granville
+OCESN003903F030038704,Gare de Bourges,Gare de Paris-Austerlitz,122,Bourges,Paris
+OCESN003903F040048703,Gare de Paris-Austerlitz,Gare de Vierzon,101,Paris,Vierzon
+OCESN003917F090098744,Gare de Bourges,Gare de Paris-Bercy,131,Bourges,Paris
+OCESN003917F130138743,Gare de Nevers,Gare de Paris-Austerlitz,177,Nevers,Paris
+OCESN003933F010018761,Gare de Bourges,Gare de Nevers,38,Bourges,Nevers
+OCESN005900F0500510094,Gare de Nevers,Gare de Paris-Bercy,154,Nevers,Paris
+OCESN005905F4304310108,Gare de Nevers,Gare de Paris-Gare-de-Lyon,146,Nevers,Paris
+OCESN013272F09009-1367954595,Gare de Argentan,Gare de Paris-Montp.3-Vaug,121,Flers,Paris
+OCESN014030F0900915588,Gare de Orléans,Gare de Paris-Austerlitz,75,Orléans,Paris
+OCESN014033F0700715600,Gare de Paris-Austerlitz,Gare de Tours,131,Paris,Tours
+OCESN014033F0900915597,Gare de Orléans,Gare de Tours,72,Orléans,Tours
+OCESN014035F0800815607,Gare de Aubrais-(les),Gare de Paris-Austerlitz,71,Fleury-les-Aubrais,Paris
+OCESN014041F1201215628,Gare de Paris-Bercy,Gare de Tours,146,Paris,Tours
+OCESN014043F1801815630,Gare de Orléans,Gare de Paris-Bercy,84,Orléans,Paris
+OCESN014081F2102115781,Gare de Paris-Austerlitz,Gare de St-Pierre-des-Corps,118,Paris,Saint-Pierre-des-Corps
+OCESN016350F0100115870,Gare de Calais Ville,Gare de Paris Gare du Nord,183,Calais,Paris
+OCESN016372F0100115902,Gare de Boulogne Ville,Gare de Paris Gare du Nord,145,Fréthun,Paris
+OCESN016380F0100115910,Gare de Amiens,Gare de Calais Ville,107,Amiens,Calais
+OCESN016380F0300315908,Gare de Boulogne Ville,Gare de Calais Ville,28,Fréthun,Calais
+OCESN016442F0100115983,Gare de Amiens,Gare de Boulogne Ville,75,Amiens,Fréthun
+OCESN016444F0500515989,Gare de Amiens,Gare de Paris Gare du Nord,74,Amiens,Paris
+OCESN016450F0100115993,Gare de Cambrai Ville,Gare de Paris Gare du Nord,155,Villers-Guislain,Paris
+OCESN016451F0100115996,Gare de Maubeuge,Gare de Paris Gare du Nord,119,Maubeuge,Paris
+OCESN016453F0400416001,Gare de Paris Gare du Nord,Gare de St Quentin,100,Paris,Pontarlier
+OCESN016468F0200216048,Gare de Compiègne,Gare de Maubeuge,80,Compiègne,Maubeuge
+OCESN016514F0900916097,Gare de Argentan,Gare de Dreux,69,Flers,Dreux
+OCESN016550F0200216123,Gare de Caen,Gare de Le Mans,111,Caen,Le Mans
+OCESN016550F0400416121,Gare de Caen,Gare de Tours,182,Caen,Tours
+OCESN016750F0900916155,Gare de Le Mans,Gare de Paris-Montparnasse 1-2,135,Le Mans,Paris
+OCESN016765F1401416187,Gare de Nogent-le-Rotrou,Gare de Paris-Montparnasse 1-2,102,Nogent-le-Rotrou,Paris
+OCESN016766F1801816197,Gare de Chartres,Gare de Paris-Montparnasse 1-2,70,Chartres,Paris
+OCESN016782F1501516255,Gare de Chartres,Gare de Le Mans,70,Chartres,Le Mans
+OCESN016812F1601616283,Gare de Blois-Chambord,Gare de Tours,38,Blois,Tours
+OCESN016840F1201216363,Gare de Lyon-Perrache,Gare de Tours,366,Lyon,Tours
+OCESN016840F1601616364,Gare de Lyon-Perrache,Gare de Nevers,211,Lyon,Nevers
+OCESN017301F0200216375,Gare de Latour-de-Carol-Enveitg,Gare de Villefranche-Vernet-l.B,174,Enveitg,Prades
+OCESN017303F0200216376,Gare de Font-Romeu-Odeillo-Via,Gare de Villefranche-Vernet-l.B,88,Font-Romeu-Odeillo-Via,Prades
+OCESN017350F0300316385,Gare de Briançon,Gare de Romans-Bourg-de-Péage,241,La Léchère,Romans-sur-Isère
+OCESN017352F0800816391,Gare de Briançon,Gare de Veynes-Dévoluy,97,La Léchère,Veynes
+OCESN017354F0200216399,Gare de Romans-Bourg-de-Péage,Gare de Veynes-Dévoluy,153,Romans-sur-Isère,Veynes
+OCESN017369F0700716416,Gare de Gap,Gare de Romans-Bourg-de-Péage,172,Gap,Romans-sur-Isère
+OCESN017369F1001016420,Gare de Briançon,Gare de Gap,75,La Léchère,Gap
+OCESN017370F0200216422,Gare de Briançon,Gare de Valence-Ville,247,La Léchère,Valence
+OCESN017402F2102116431,Gare de Briançon,Gare de Marseille-St-Charles,302,La Léchère,Marseille
+OCESN017408F1001016439,Gare de Gap,Gare de Marseille-St-Charles,216,Gap,Marseille
+OCESN017421F2402416443,Gare de Aix-en-Provence,Gare de Marseille-St-Charles,50,Aix-en-Provence,Marseille
+OCESN017473F0300316464,Gare de Marseille-St-Charles,Gare de Nice-Ville,159,Marseille,Nice
+OCESN017473F0400416463,Gare de Les Arcs-Draguignan,Gare de Marseille-St-Charles,83,Les Arcs,Marseille
+OCESN017500F0200216492,Gare de Grenoble,Gare de Valence-Ville,74,Gières,Valence
+OCESN017503F0300316493,Gare de Chambéry-Chal.-les-Eaux,Gare de Valence-Ville,125,Chambéry,Valence
+OCESN017506F0700716496,Gare de Annecy,Gare de Valence-Ville,181,Annecy,Valence
+OCESN017516F0500516499,Gare de Annecy,Gare de Chambéry-Chal.-les-Eaux,53,Annecy,Chambéry
+OCESN017532F0900916508,Gare de Annecy,Gare de Avignon-Centre,277,Annecy,Morières-lès-Avignon
+OCESN017544F0800816517,Gare de Annecy,Gare de Grenoble,103,Annecy,Gières
+OCESN017600F0300316547,Gare de Grenoble,Gare de Lyon-Part-Dieu,82,Gières,Lyon
+OCESN017702F1301316607,Gare de Avignon-Centre,Gare de Lyon-Part-Dieu,141,Morières-lès-Avignon,Lyon
+OCESN017704F2702716611,Gare de Lyon-Part-Dieu,Gare de Marseille-St-Charles,246,Lyon,Marseille
+OCESN017714F1501516644,Gare de Avignon-Centre,Gare de Marseille-St-Charles,78,Morières-lès-Avignon,Marseille
+OCESN017750F1401416694,Gare de Dijon-Ville,Gare de Paris-Bercy,171,Dijon,Paris
+OCESN017750F2702716692,Gare de Dijon-Ville,Gare de Paris-Gare-de-Lyon,170,Dijon,Paris
+OCESN017751F0800816699,Gare de Lyon-Part-Dieu,Gare de Sens,262,Lyon,Saint-Loup-d'Ordon
+OCESN017753F1901916708,Gare de Lyon-Part-Dieu,Gare de Paris-Bercy,308,Lyon,Paris
+OCESN017753F4304316713,Gare de Dijon-Ville,Gare de Lyon-Part-Dieu,124,Dijon,Lyon
+OCESN017753F4804816704,Gare de Lyon-Part-Dieu,Gare de Paris-Gare-de-Lyon,309,Lyon,Paris
+OCESN017754F2002016721,Gare de Mâcon-Ville,Gare de Paris-Bercy,262,Mâcon,Paris
+OCESN017754F2602616715,Gare de Dijon-Ville,Gare de Mâcon-Ville,74,Dijon,Mâcon
+OCESN017754F4004016716,Gare de Mâcon-Ville,Gare de Paris-Gare-de-Lyon,263,Mâcon,Paris
+OCESN017774F1301316842,Gare de Lyon-Perrache,Gare de Paris-Bercy,324,Lyon,Paris
+OCESN017775F2502516851,Gare de Dijon-Ville,Gare de Lyon-Perrache,137,Dijon,Lyon
+OCESN017775F2902916854,Gare de Lyon-Perrache,Gare de Paris-Gare-de-Lyon,323,Lyon,Paris
+OCESN017972F0600616926,Gare de Bourg-St-Maurice,Gare de Lyon-Part-Dieu,217,Bourg-Saint-Maurice,Lyon
+OCESN017974F0300316929,Gare de Bourg-St-Maurice,Gare de Bourgoin-Jallieu,188,Bourg-Saint-Maurice,Bourgoin-Jallieu
+OCESN017974F0600616927,Gare de Albertville,Gare de Bourgoin-Jallieu,119,Albertville,Bourgoin-Jallieu
+OCESN018000F0100116931,Gare de Chambéry-Chal.-les-Eaux,Gare de Lyon-Part-Dieu,80,Chambéry,Lyon
+OCESN018024F0100116954,Gare de Bourgoin-Jallieu,Gare de Chambéry-Chal.-les-Eaux,55,Bourgoin-Jallieu,Chambéry
+OCESN018101F0200216959,Gare de La Chaux-de-Fonds,Gare de Morteau,29,La Chaux-de-Fonds,Morteau
+OCESN018108F0200216966,Gare de Besançon-Viotte,Gare de La Chaux-de-Fonds,118,Besançon,La Chaux-de-Fonds
+OCESN018108F0600616967,Gare de Besançon-Mouillère,Gare de La Chaux-de-Fonds,112,Besançon,La Chaux-de-Fonds
+OCESN018120F0200216981,Gare de Pontarlier,Gare de Vallorbe-Cff,33,Boujailles,Andelot-en-Montagne
+OCESN018122F0200216982,Gare de Frasne,Gare de Neuchâtel,60,Frasnes-lez-Buissenal,Neuchâtel
+OCESN018124F0300316985,Gare de Neuchâtel,Gare de Travers,22,Neuchâtel,Val-de-Travers
+OCESN018130F0100116991,Gare de Dole-Ville,Gare de Vallorbe-Cff,63,Montmirey-la-Ville,Andelot-en-Montagne
+OCESN018131F0200216992,Gare de Frasne,Gare de Vallorbe-Cff,17,Frasnes-lez-Buissenal,Andelot-en-Montagne
+OCESN018160F0200216999,Gare de Delémont,Gare de Meroux,69,Delémont,Meroux-Moval
+OCESN018160F0300316998,Gare de Delle,Gare de Delémont,52,Delle,Delémont
+OCESN018163F0300317001,Gare de Biel,Gare de Meroux,99,Biel/Bienne,Meroux-Moval
+OCESN018163F0400417000,Gare de Biel,Gare de Delle,82,Biel/Bienne,Delle
+OCESN018518F0100117063,Gare de Lyon-Part-Dieu,Gare de Modane,182,Lyon,Modane
+OCESN018520F0100117065,Gare de Aix-les-Bains-le-Revard,Gare de Lyon-Part-Dieu,78,Lovagny,Lyon
+OCESN018901F0100117119,Gare de St-Gervais-L-B-Le-Fayet,Gare de Vallorcine,95,Saint-Gervais-les-Bains,Vallorcine
+OCESN018901F0400417120,Gare de Chamonix-Mont-Blanc,Gare de Vallorcine,33,Chamonix-Mont-Blanc,Vallorcine
+OCESN018931F0200217178,Gare de Chamonix-Mont-Blanc,Gare de St-Gervais-L-B-Le-Fayet,45,Chamonix-Mont-Blanc,Saint-Gervais-les-Bains
+OCESN019201F0300317199,Gare de Aulnoye Aymeries,Gare de Mons,28,Aulnoye-Aymeries,Mons
+OCESN019701F0200217207,Gare de Courtrai/Kortrijk,Gare de Lille Flandres,36,Sint-Denijs,Lille
+OCESN019801F0200217254,Gare de Maubeuge,Gare de Namur,84,Maubeuge,Namur
+OCESN019900F0200217263,Gare de Lille Flandres,Gare de Tournai,30,Lille,Tournai
+OCESN021703F0100117430,Gare de Brive-la-Gaillarde,Gare de Ussel,106,Brive-la-Gaillarde,Maussac
+OCESN021901F0200217431,Gare de Dijon-Ville,Gare de Nevers,203,Dijon,Nevers
+OCESN021911F0200217435,Gare de Le Creusot,Gare de Montchanin,11,Le Creusot,Montchanin
+OCESN022945F0300317449,Gare de Nice-Ville,Gare de Tende,137,Nice,Tende
+OCESN022947F0700717451,Gare de Breil-sur-Roya,Gare de Nice-Ville,70,Touët-de-l'Escarène,Nice
+OCESN023101F0100117467,Gare de Annemasse,Gare de Coppet,51,Annemasse,Coppet
+OCESN023196F0100117538,Gare de Decize,Gare de Nevers,33,Decize,Nevers
+OCESN023212F0100117551,Gare de Annemasse,Gare de Genève,23,Annemasse,Chêne-Bourg
+OCESN023312F0100117644,Gare de Coppet,Gare de Evian-les-Bains,94,Coppet,Évian-les-Bains
+OCESN023314F0100117646,Gare de Coppet,Gare de Thonon-les-Bains,85,Coppet,Évian-les-Bains
+OCESN023360F0200217661,Gare de Annemasse,Gare de Thonon-les-Bains,33,Annemasse,Évian-les-Bains
+OCESN023410F0100117673,Gare de Annecy,Gare de Genève,89,Annecy,Chêne-Bourg
+OCESN023410F0200217674,Gare de Annecy,Gare de Coppet,117,Annecy,Coppet
+OCESN023416F0300317685,Gare de Coppet,Gare de La Roche-sur-Foron,79,Coppet,La Roche-sur-Foron
+OCESN023456F0100117742,Gare de Coppet,Gare de St-Gervais-L-B-Le-Fayet,132,Coppet,Saint-Gervais-les-Bains
+OCESN023462F0200217748,Gare de Cluses (Hte-Savoie),Gare de Coppet,108,Cluses,Coppet
+OCESN023722F0300317768,Gare de Forbach,Gare de Metz-Ville,47,Forbach,Strasbourg
+OCESN023740F0400417808,Gare de Bening,Gare de Metz-Ville,41,Béning-lès-Saint-Avold,Strasbourg
+OCESN030000R0200217969,Bitche,Gare de Haguenau,69,Bitche,Haguenau
+OCESN030001R0300317970,Bitche,Gare de Niederbronn,26,Bitche,Niederbronn-les-Bains
+OCESN030002R0300317973,Bitche-Camp,Gare de Niederbronn,38,Bitche,Niederbronn-les-Bains
+OCESN030006R0200217979,Gare de Haguenau,Gare de Niederbronn,40,Haguenau,Niederbronn-les-Bains
+OCESN030030R0400418029,Bitche-Camp,Gare de Haguenau,76,Bitche,Haguenau
+OCESN030052R0200218051,Gare de Haguenau,Gare de Strasbourg,50,Haguenau,Strasbourg
+OCESN030064R0200218057,Gare de Haguenau,Gare de Wissembourg,37,Haguenau,Wissembourg
+OCESN030081R0600618069,Bouxwiller-Schattenmann,Haguenau-Moulin-Neuf,43,Bouxwiller,Haguenau
+OCESN030082R0500518070,Gare de Saverne,Niedermodern/Uberach,50,Saverne,Niedermodern
+OCESN030083R0200218071,Gare de Ingwiller,Haguenau-Moulin-Neuf,41,Ingwiller,Haguenau
+OCESN030085R1201218074,Dossenheim-(Mairie),Haguenau-Moulin-Neuf,69,Dossenheim-sur-Zinsel,Haguenau
+OCESN030086R0200218075,Gare de Obermodern,Saverne-(Ht-Barr),47,Obermodern-Zutzendorf,Saverne
+OCESN030088R0200218077,Gare de Ingwiller,Saverne-(Ht-Barr),56,Ingwiller,Saverne
+OCESN030089R0700718078,Gare de Saverne,Haguenau-Moulin-Neuf,81,Saverne,Haguenau
+OCESN030091R0200218080,Bouxwiller-Babenhausen,Dossenheim-(Mairie),20,Bouxwiller,Dossenheim-sur-Zinsel
+OCESN030092R0300318082,Bouxwiller-Schattenmann,Niedermodern/Uberach,25,Bouxwiller,Niedermodern
+OCESN030095R0500518086,Bouxwiller-Schattenmann,Gare de Obermodern,10,Bouxwiller,Obermodern-Zutzendorf
+OCESN030097R0800818089,Gare de Obermodern,Haguenau-Moulin-Neuf,31,Obermodern-Zutzendorf,Haguenau
+OCESN030099R1301318093,Gare de Obermodern,Gare de Saverne,36,Obermodern-Zutzendorf,Saverne
+OCESN030100R0400418095,Gare de Obermodern,Niedermodern/Uberach,12,Obermodern-Zutzendorf,Niedermodern
+OCESN030103R0400418103,Bouxwiller-Babenhausen,Niedermodern/Uberach,20,Bouxwiller,Niedermodern
+OCESN030122R0600618127,Dossenheim-(Mairie),Gare de Obermodern,23,Dossenheim-sur-Zinsel,Obermodern-Zutzendorf
+OCESN030123R0200218128,Gare de Saverne,Neuwiller-R.-Bouxwiller,18,Saverne,Bouxwiller
+OCESN030137R0300318141,Gare de Obermodern,Pfaffenhoffen-(Mairie),8,Obermodern-Zutzendorf,Pfaffenhoffen
+OCESN030138R0500518142,Gare de Saverne,Pfaffenhoffen-(Mairie),43,Saverne,Pfaffenhoffen
+OCESN030148R0200218147,Gare de Strasbourg,Gare de Sélestat,53,Strasbourg,SELESTAT
+OCESN030150R0200218149,Gare de Benfeld,Gare de Strasbourg,42,Benfeld,Strasbourg
+OCESN030157R0300318151,Gare de Colmar,Gare de Raedersheim,45,Colmar,Raedersheim
+OCESN030163R0400418153,Buswiller-Eglise,Gare de Mommenheim,19,Buswiller,Mommenheim
+OCESN030165R0400418155,Bouxwiller-Babenhausen,Gare de Mommenheim,30,Bouxwiller,Mommenheim
+OCESN030166R0300318156,Gare de Diemeringen,Gare de Sarreguemines,31,Diemeringen,Sarreguemines
+OCESN030190R0200218175,Gare de Sarreguemines,Gare de Strasbourg,125,Sarreguemines,Strasbourg
+OCESN030191R0200218176,Gare de Diemeringen,Gare de Strasbourg,91,Diemeringen,Strasbourg
+OCESN030192R0300318178,Gare de Strasbourg,Gare de Wingen-sur-Moder,64,Strasbourg,Wingen-sur-Moder
+OCESN030194R0200218180,Gare de Ingwiller,Reipertswiller-SP,18,Ingwiller,Reipertswiller
+OCESN030200R0600618181,Gare de Ingwiller,Lichtenberg-(Eglise),23,Ingwiller,Lichtenberg
+OCESN030201R0500518183,Gare de Saverne,Gare de Strasbourg,57,Saverne,Strasbourg
+OCESN030222R0200218199,Gare de Lutzelbourg,Gare de Saverne,15,Lutzelbourg,Saverne
+OCESN030234R0400418205,Gare de Kruth,Thann Arrêt La Poste,32,Kruth,Cernay
+OCESN030241R0200218207,Gare de Kruth,Gare de Mulhouse,77,Kruth,Mulhouse
+OCESN030242R0200218208,Gare de Kruth,Gare de Thann,32,Kruth,Thann
+OCESN030244R0200218210,Gare de Kruth,Gare de Wesserling,7,Kruth,Fellering
+OCESN030250R0200218216,Gare de Colmar,Gare de Metzeral,43,Colmar,Metzeral
+OCESN030273R0300318231,Gare de Cernay (Haut-Rhin),Sewen-(Eglise),60,Cernay,Sewen
+OCESN030283R0300318235,Cernay-(Lycée),Sewen-(Eglise),66,Cernay,Sewen
+OCESN030283R0400418236,Gare de Basel-SBB,Gare de Mulhouse,60,Colombo,Mulhouse
+OCESN030290R0200218239,Gare de Ingwiller,Saverne-(Lycée-Verne),64,Ingwiller,Saverne
+OCESN030302R0200218245,Frohmuhl- (Lavoir),Saverne-(Ht-Barr),83,Frohmuhl,Saverne
+OCESN030303R0300318247,Frohmuhl- (Lavoir),Gare de Saverne,58,Frohmuhl,Saverne
+OCESN030303R0400418246,Frohmuhl- (Lavoir),Saverne-(Lycée-Verne),85,Frohmuhl,Saverne
+OCESN030304R0300318249,Gare de Saverne,Hattmatt-S.-Polyvalente,20,Saverne,Hattmatt
+OCESN030315R0300318255,Hattmatt-S.-Polyvalente,Saverne-(Pl.-Dragons),33,Hattmatt,Saverne
+OCESN030318R0200218258,Hattmatt-S.-Polyvalente,Saverne-(Lycée-Verne),42,Hattmatt,Saverne
+OCESN030319R0400418259,Hattmatt-S.-Polyvalente,Saverne-(Ht-Barr),43,Hattmatt,Savernes
+OCESN030320R0200218261,Gare de Herrlisheim (Bas-Rhin),Gare de Strasbourg,51,Herrlisheim,Strasbourg
+OCESN030342R0300318275,Gare de Lauterbourg,Gare de Roeschwoog,30,Lauterbourg,Rœschwoog
+OCESN030344R0400418278,Gare de Entzheim-Aéroport,Gare de Strasbourg,20,Saint-Gilles,Strasbourg
+OCESN030354R0200218282,Gare de Barr,Gare de Molsheim,33,Barr,Molsheim
+OCESN030355R0200218283,Gare de Molsheim,Gare de Strasbourg,40,Molsheim,Strasbourg
+OCESN030357R0200218285,Gare de Barr,Gare de Strasbourg,89,Barr,Strasbourg
+OCESN030360R0200218288,Gare de Molsheim,Gare de Sélestat,76,Molsheim,SELESTAT
+OCESN030361R0200218289,Gare de Rothau,Gare de Strasbourg,72,Rothau,Strasbourg
+OCESN030376R0500518295,Gare de Saales,Gare de Strasbourg,104,Saales,Strasbourg
+OCESN030380R0200218297,Gare de Altkirch,Gare de Mulhouse,25,Altkirch,Mulhouse
+OCESN030385R0300318299,Gare de Belfort-Ville,Gare de Mulhouse,77,Belfort,Mulhouse
+OCESN030386R0300318300,Gare de Belfort-Ville,Gare de Montreux-Vieux,30,Belfort,Montreux-Vieux
+OCESN030387R0200218301,Gare de Sélestat,Ribeauville-Gare-Routiè,20,SELESTAT,Ribeauvillé
+OCESN030395R0200218303,Gare de Sélestat,Riquewihr-Poste,36,SELESTAT,Riquewihr
+OCESN030399R0300318309,Gare de Sélestat,Ste-Marie-/-Mines-Maire,35,SELESTAT,Sainte-Marie-aux-Mines
+OCESN030427R1401418342,Gare de St-Dié-des-Vosges,Gare de Sélestat,71,Sainte-Marguerite,SELESTAT
+OCESN030428R1301318344,Gare de Sélestat,Ste-Marie/-Ms-(-Théâtre,36,SELESTAT,New York
+OCESN030430R0600618347,Ste-Croix/Mines-Sq-de-G,Sèlestat-(Schwilgué),55,Sainte-Croix-aux-Mines,Sélestat
+OCESN030433R0300318351,Gare de Sélestat,Ste-Marie-/-Ms-Pl-.CdG,35,SELESTAT,Mesa
+OCESN030434R1401418352,Ste-Marie-/-Mines-Maire,Sèlestat-(Schwilgué),64,Sainte-Marie-aux-Mines,Sélestat
+OCESN030435R0600618353,Liepvre-(-R.-GUTH-),Sèlestat-(Schwilgué),49,Lièpvre,Sélestat
+OCESN030437R0300318355,Ste-Marie-/-Ms-Pl-.CdG,Sélestat-(Schweisguth),69,Mesa,Sélestat
+OCESN030440R0400418359,Gare de Sélestat,Lièpvre-(Rte-Vancelle),45,SELESTAT,Lièpvre
+OCESN030441R0400418360,Gare de Montluçon-Ville,Gare de Vierzon,125,Villefranche-d'Allier,Vierzon
+OCESN031100R0300318408,Laqueuille,Le-Mont-Dore-Gare,24,Laqueuille,Montrevault-sur-Èvre
+OCESN031101R0200218409,Gare de Clermont-Ferrand,Gare de Gannat,57,Chamalières,Gannat
+OCESN031102R0200218410,Gare de Gannat,Gare de Riom-Châtel-Guyon,46,Gannat,Riom
+OCESN031103R0200218411,Gare de Aurillac,Gare de St-Denis-près-Martel,111,Aurillac,Saint-Denis-lès-Martel
+OCESN031106R0300318414,Gare de Aurillac,Gare de Capdenac,88,Aurillac,Capdenac-Gare
+OCESN031107R0300318415,Gare de Montluçon-Ville,Gare de Vichy,108,Villefranche-d'Allier,Vichy
+OCESN031109R0200218416,Gare de Clermont-Ferrand,Le-Mont-Dore-Gare,84,Chamalières,Montrevault-sur-Èvre
+OCESN031110R0300318417,Gare de Clermont-Ferrand,Saint-Etienne-Chtx GR,156,Chamalières,Saint-Étienne
+OCESN031111R0200218418,Gare de Thiers,Saint-Etienne-Chtx GR,118,Nice,Saint-Étienne
+OCESN031113R0300318421,Gare de Clermont-Ferrand,Gare de Le Puy-en-Velay,184,Chamalières,Saint-Vincent
+OCESN031117R0300318425,Gare de Clermont-Ferrand,Gare de Montluçon-Ville,146,Chamalières,Villefranche-d'Allier
+OCESN031119R0200218427,Gare de Montluçon-Ville,Gare de Riom-Châtel-Guyon,120,Villefranche-d'Allier,Riom
+OCESN031120R0200218428,Gare de Arvant,Gare de Aurillac,121,Bournoncle-Saint-Pierre,Aurillac
+OCESN031121R0200218429,Gare de Moulins-sur-Allier,Gare de Vichy,78,Villeneuve-sur-Allier,Vichy
+OCESN031125R0200218432,Gare de Clermont-Ferrand,Gare de Thiers,71,Chamalières,Nice
+OCESN031127R0200218433,Gare de Clermont-Ferrand,Gare de Volvic,39,Chamalières,Volvic
+OCESN031128R0200218434,Ancizes-St-Georges-Bour,Gare de Volvic,39,Poole,Volvic
+OCESN031135R0400418436,Gare de Montluçon-Ville,Urcay-Hotel-du-Lyon-d'O,44,Villefranche-d'Allier,Lyon
+OCESN031141R0200218442,Gare de Montluçon-Ville,Gare de St-Amand-Montrond-Orval,59,Villefranche-d'Allier,Orval
+OCESN031147R0200218446,Gare de Thiers,Gare de Vertaizon,40,Nice,Vertaizon
+OCESN031164R0100118462,Gare de Montluçon-Ville,St-Eloy,40,Villefranche-d'Allier,St-Eloy
+OCESN031165R0200218463,Gare de Lapeyrouse(Puy-de-Dôme),St-Eloy-les-Mines-Lycée,20,Lapeyrouse,Saint-Éloy-les-Mines
+OCESN031183R0200218476,Ancizes-St-Georges-Bour,Gare de Clermont-Ferrand,69,Poole,Chamalières
+OCESN031185R0300318478,Gare de Clermont-Ferrand,St-Gervais-Mairie,91,Chamalières,Saint-Gervais-sous-Meymont
+OCESN031186R0300318479,Gare de Clermont-Ferrand,Le Mont Dore Ski,98,Chamalières,Mont-Dore
+OCESN031189R0200218482,Gare de Clermont-Ferrand,Gare de Vertaizon,32,Chamalières,Vertaizon
+OCESN031196R0100118489,Gare de Volvic,St-Eloy,113,Volvic,St-Eloy
+OCESN031197R0200218490,Gare de Arvant,St-Flour-les-Allées,50,Bournoncle-Saint-Pierre,Saint-Genis-Laval
+OCESN031200R0200218493,Gare de Massiac-Blesle,St-Flour-les-Allées,30,Massiac,Saint-Genis-Laval
+OCESN031201R0200218494,Gare de Arvant,Gare de St-Chély-d'Apcher,77,Bournoncle-Saint-Pierre,Saint-Chély-d'Apcher
+OCESN031202R0200218495,Gare de Clermont-Ferrand,Mauriac-Lycée-Cortat,136,Chamalières,Mauriac
+OCESN031221R0300318508,Gare de Lapeyrouse(Puy-de-Dôme),St-Eloy,15,Lapeyrouse,St-Eloy
+OCESN031223R0200218509,Gare de Clermont-Ferrand,Mauriac,133,Chamalières,Mauriac
+OCESN031226R0200218510,Gare de Riom-Châtel-Guyon,St-Gervais-Ch-LPA,54,Riom,Collombey
+OCESN031235R0300318513,Gare de Montluçon-Ville,St-Gervais-Ch-LPA,60,Villefranche-d'Allier,Collombey
+OCESN031254R0300318525,Gare de Clermont-Ferrand,St-Flour-les-Allées,93,Chamalières,Saint-Genis-Laval
+OCESN031256R0300318528,Gare de Neussargues,Gare de St-Chély-d'Apcher,56,Neussargues-Moissac,Saint-Chély-d'Apcher
+OCESN031263R0200218534,Gare de Neussargues,Gare de St-Flour-Chaudes-Aigues,31,Neussargues-Moissac,Saint-Flour
+OCESN031265R0200218535,Gare de St-Chély-d'Apcher,St-Flour-les-Allées,30,Saint-Chély-d'Apcher,Saint-Genis-Laval
+OCESN031269R0200218538,Gare de Massiac-Blesle,Gare de St-Chély-d'Apcher,49,Massiac,Saint-Chély-d'Apcher
+OCESN031274R0200218542,Gare de Volvic,Pontgibaud-Ville,22,Volvic,Pontgibaud
+OCESN031290R0300318554,Brioude-Lycée-Lafayette,Gare de Brioude,5,Brioude,Brioude
+OCESN031301R0200218560,Gare de Langeac,Gare de St-Georges-d'Aurac,10,Langeac,Mazeyrat-d'Allier
+OCESN031304R0200218561,Gare de Langeac,St-George-d'Aurac-Bourg,12,Langeac,Saint-Georges-d'Aurac
+OCESN031309R0400418565,Gare de Brioude,Gare de Langeac,37,Brioude,Langeac
+OCESN031332R0400418585,Gare de Brioude,Gare de Le Puy-en-Velay,64,Brioude,Saint-Vincent
+OCESN031334R0500518587,Gare de Langeac,Gare de Le Puy-en-Velay,49,Langeac,Saint-Vincent
+OCESN031338R0200218591,Gare de Le Puy-en-Velay,Gare de St-Georges-d'Aurac,53,Saint-Vincent,Mazeyrat-d'Allier
+OCESN031342R0200218592,Gare de Arvant,Gare de Le Puy-en-Velay,81,Bournoncle-Saint-Pierre,Saint-Vincent
+OCESN031347R0200218596,Gare de Le Puy-en-Velay,Saint-Etienne-Chtx GR,80,Saint-Vincent,Saint-Étienne
+OCESN031354R0500518600,Gare de Le Puy-en-Velay,La Chaise-Dieu,47,Saint-Vincent,La Chaise-Dieu
+OCESN031360R0300318603,Ambert,Gare de Le Puy-en-Velay,107,Ambert,Saint-Vincent
+OCESN031363R0300318606,Ambert,Gare de Vichy,119,Ambert,Vichy
+OCESN031394R0400418612,Gare de Pont-de-Dore,Gare de Vichy,66,Peschadoires,Vichy
+OCESN031398R0300318613,Gare de Ussel,Laqueuille,39,Maussac,Laqueuille
+OCESN031407R0300318618,Gare de Arvant,Gare de Issoire,46,Bournoncle-Saint-Pierre,Issoire
+OCESN031471R0300318661,Gare de Vic-le-Comte,Issoire-Lycée-Deville,30,Vic-le-Comte,Issoire
+OCESN031473R0300318662,Gare de Issoire,Le-Breuil-sur-Couze-Lyc,13,Issoire,Le Breuil-sur-Couze
+OCESN031476R0300318663,Gare de Brioude,Gare de Issoire,54,Brioude,Issoire
+OCESN031478R0400418665,Gare de Clermont-Ferrand,Gare de Ussel,100,Chamalières,Maussac
+OCESN031479R0200218666,Gare de Luzy(Nièvre),Gare de Nevers,98,Luzy,Nevers
+OCESN031552R0200218681,Gare de Cercy-la-Tour,Gare de Nevers,68,Cercy-la-Tour,Nevers
+OCESN031554R0200218682,Gare de Autun,Gare de Etang,21,Torcy,Verneuil-l'Étang
+OCESN031679R0300318686,Gare de Autun,Gare de Le Creusot,49,Torcy,Le Creusot
+OCESN031679R0400418687,Gare de Autun,Gare de Montchanin,62,Torcy,Montchanin
+OCESN031684R0300318695,Gare de Moulins-sur-Allier,Gare de Nevers,68,Villeneuve-sur-Allier,Nevers
+OCESN031701R0200218722,Gare de Nevers,Gare de St-Pierre-le-Moûtier,33,Nevers,Moûtiers
+OCESN031712R0300318726,Gare de Moulins-sur-Allier,Gare de Paray-le-Monial,82,Villeneuve-sur-Allier,Paray-le-Monial
+OCESN031751R0200218729,Chauffailles-Gambetta,Gare de Digoin,67,Chauffailles,Digoin
+OCESN031784R0200218743,Gare de Digoin,Gare de Lozanne,133,Digoin,Lozanne
+OCESN031786R0200218744,Gare de Louhans,Gare de Seurre,48,Saint-Germain-du-Plain,Seurre
+OCESN031860R0200218747,Gare de Bourg-en-Bresse,Gare de Seurre,103,Montluel,Seurre
+OCESN031864R0200218749,Gare de Auxerre-St-Gervais,Gare de Avallon,63,Auxerre,Avallon
+OCESN031900R0200218753,Gare de Auxerre-St-Gervais,Gare de Clamecy,76,Auxerre,Corbigny
+OCESN031950R0200218768,Gare de Auxerre-St-Gervais,Gare de Corbigny,111,Auxerre,Corbigny
+OCESN031955R0400418774,Gare de Clamecy,Gare de Corbigny,35,Corbigny,Corbigny
+OCESN031970R0400418785,Gare de Lorient,Gare de Quimperlé,22,Languidic,Quimperlé
+OCESN032002R0200218790,Châteaubriant,Gare de Janzé,57,Châteaubriant,Janzé
+OCESN032300R1101118791,Châteaubriant,Gare de Retiers,33,Châteaubriant,Retiers
+OCESN032303R1001018793,Gare de Dinan,Gare de Dol,30,Dinant,Dol-de-Bretagne
+OCESN032400R0100118797,Gare de Valençay,Luçay-le-Male,15,Valençay,Luçay-le-Male
+OCESN032850R0200218821,Gare de Romorantin-Blanc-Argent,Gare de Salbris,50,Romorantin-Lanthenay,Salbris
+OCESN032857R0200218824,Gare de Faubourg-d'Orléans,Gare de Romorantin-Blanc-Argent,5,Orléans,Romorantin-Lanthenay
+OCESN032861R0200218827,Gare de Faubourg-d'Orléans,Gare de Valençay,55,Orléans,Valençay
+OCESN032867R0200218831,La Ferté-sur-Chiers,Sedan-Place-Calonne,59,La Ferté-sur-Chiers,Sedan
+OCESN033001R0200218842,Gare de Châlons-en-Champagne,Gare de Verdun,108,Châlons-en-Champagne,Paris
+OCESN033080R0200218851,Gare de St-Dizier,Gare de Vitry-le-François,51,Bayard-sur-Marne,Vitry-le-François
+OCESN033111R0200218869,Gare de Joinville,Gare de St-Dizier,50,Alfortville,Bayard-sur-Marne
+OCESN033120R0200218873,Gare de Chaumont,Gare de St-Dizier,123,Chaumont,Bayard-sur-Marne
+OCESN033140R0200218889,Gare de Chaumont,Gare de Joinville,77,Chaumont,Alfortville
+OCESN033141R0300318890,Gare de Chaumont,Langres-Gendarmerie,67,Chaumont,Varennes-sur-Amance
+OCESN033172R0300318904,Gare de Chaumont,Gare de Troyes,100,Chaumont,Troyes
+OCESN033208R0500518910,Gare de Bar-sur-Aube,Juvancourt,32,Bar-sur-Aube,Juvancourt
+OCESN033210R0400418913,Gare de Bar-sur-Aube,Gare de Troyes,98,Bar-sur-Aube,Troyes
+OCESN033212R0200218914,Gare de Troyes,Gare de Vendeuvre (Aube),55,Troyes,Vendeuvre-sur-Barse
+OCESN033215R0200218915,Bayel-Eglise,Juvancourt,18,Bayel,Juvancourt
+OCESN033219R0200218919,Gare de Chaumont,Gare de Vendeuvre (Aube),60,Chaumont,Vendeuvre-sur-Barse
+OCESN033230R0200218924,Gare de Vendeuvre (Aube),Juvancourt,85,Vendeuvre-sur-Barse,Juvancourt
+OCESN033233R0300318925,Gare de Chaumont,Ville-sous-La-Ferté,48,Chaumont,Ville-sous-La-Ferté
+OCESN033270R0300318934,Bricon(la Poste),Gare de Chaumont,19,Bricon,Chaumont
+OCESN033274R0200218938,Gare de St-Florentin-Vergigny,Gare de Troyes,97,Vergigny,Troyes
+OCESN033280R0400418944,Gare de Laroche-Migennes,Gare de Troyes,130,Migennes,Troyes
+OCESN033281R0300318945,Gare de Romilly-sur-Seine,Gare de Troyes,78,Romilly-sur-Seine,Troyes
+OCESN033340R0300318961,Gare de Troyes,Payns Abri Savières,26,Troyes,Payns
+OCESN033345R0200218966,Gare de Nogent-sur-Seine,Gare de Romilly-sur-Seine,35,Romilly-sur-Seine,Romilly-sur-Seine
+OCESN033370R0200218982,Gare de Charleville-Mézières,Gare de Hirson,60,Charleville-Mézières,Hirson
+OCESN033400R0200218990,Gare de Fismes,Gare de Reims,58,Fismes,Reims
+OCESN033460R0100119004,Gare de Aillevillers,Gare de Belfort-Ville,102,Corbenay,Belfort
+OCESN033531R0200219010,Gare de Aillevillers,Gare de Lure,37,Corbenay,Lure
+OCESN033540R0300319011,Gare de Besançon-Viotte,Gare de Morteau,88,Besançon,Morteau
+OCESN033652R0200219012,Gare de Le Locle,Gare de Morteau,20,Le Locle,Morteau
+OCESN033654R0200219014,Gare de Le Valdahon,Gare de Morteau,54,Valdahon,Morteau
+OCESN033658R0200219017,Gare de Dole-Ville,Gare de Mouchard,47,Montmirey-la-Ville,Mouchard
+OCESN033682R0200219020,Gare de Lons-le-Saunier,Gare de Mouchard,84,Lons-le-Saunier,Mouchard
+OCESN033714R0200219023,Gare de Mouchard,Gare de Poligny,28,Mouchard,Poligny
+OCESN033727R0200219030,Gare de Besançon-Viotte,Gare de Mouchard,58,Besançon,Mouchard
+OCESN033730R0200219031,Gare de Frasne,Gare de Pontarlier,30,Frasnes-lez-Buissenal,Boujailles
+OCESN033771R0200219032,Dompierre-Halte-Rout,Gare de Pontarlier,21,Dompierre-les-Tilleuls,Boujailles
+OCESN033773R0200219033,Gare de Pontarlier,Les Granges-Narboz,10,Boujailles,Granges-Narboz
+OCESN033782R0200219039,Gare de Frasne,Jougne,56,Frasnes-lez-Buissenal,Jougne
+OCESN033803R0200219046,Gare de Champagnole,Gare de Saint-Claude,87,Champagnole,Saint-Claude
+OCESN033891R0200219057,Gare de Champagnole-PE-Victor,Gare de Dole-Ville,102,London,Montmirey-la-Ville
+OCESN033892R0200219058,Gare de Andelot,Gare de Saint-Claude,107,Andelot-en-Montagne,Saint-Claude
+OCESN033893R0200219059,Gare de Dole-Ville,Gare de Saint-Claude,204,Montmirey-la-Ville,Saint-Claude
+OCESN033894R0200219060,Gare de Mouchard,Gare de Saint-Claude,124,Mouchard,Saint-Claude
+OCESN033895R0200219061,Gare de Alès,Gare de Nîmes,50,Venarey-les-Laumes,Nîmes
+OCESN034001R0200219062,Gare de La Bastide-St-Laurent,Gare de Langogne,25,Bordeaux,Langogne
+OCESN034063R0200219066,Gare de Langogne,Gare de Mende,90,Langogne,Manduel
+OCESN034065R0200219069,Gare de La Bastide-St-Laurent,Gare de Mende,68,Bordeaux,Manduel
+OCESN034071R0200219075,Gare de Millau,Marvejols Place Chayla,75,Millau,Marvejols
+OCESN034213R0300319079,Gare de Clermont-Ferrand,Gare de Mende,180,Chamalières,Manduel
+OCESN034220R0300319080,Gare de Le Puy-en-Velay,Gare de Marvejols,135,Saint-Vincent,Marvejols
+OCESN034240R0300319090,Gare de Mende,Gare de St-Chély-d'Apcher,84,Manduel,Saint-Chély-d'Apcher
+OCESN034251R0200219093,Gare de La Bastide-St-Laurent,Gare de Marvejols,133,Bordeaux,Marvejols
+OCESN034253R0300319095,Gare de Mende,Marvejols Place Chayla,50,Manduel,Marvejols
+OCESN034256R0200219097,Gare de Carcassonne,Quillan,90,Carcassonne,Quillan
+OCESN034350R0200219101,Gare de Carcassonne,Gare de Limoux,55,Carcassonne,Limoux
+OCESN034352R0200219103,Gare de Limoux,Quillan,45,Limoux,Quillan
+OCESN034354R0200219106,Gare de Bédarieux,Gare de Béziers,60,Bédarieux,Béziers
+OCESN034400R0200219131,Gare de Guéret,Gare de Montluçon-Ville,66,Guéret,Villefranche-d'Allier
+OCESN034535R0200219143,Gare de Tulle,Gare de Ussel,89,Saint-Priest-de-Gimel,Maussac
+OCESN034675R0200219145,Gare de Egletons,Gare de Tulle,40,Égletons,Saint-Priest-de-Gimel
+OCESN034677R0200219147,Gare de Egletons,Gare de Meymac,25,Égletons,Meymac
+OCESN034680R0200219150,Gare de Brive-la-Gaillarde,Gare de Egletons,63,Brive-la-Gaillarde,Égletons
+OCESN034682R0200219152,Bort-les-Orgues,Gare de Ussel,35,Bort-les-Orgues,Maussac
+OCESN034726R0200219154,Gare de Nancy-Ville,Mirecourt,74,Nancy,Mirecourt
+OCESN035000R0700719173,Martigny-les-B-Thiebaut,Vézelise Beauregard,90,Martigny-les-Bains,Vézelise
+OCESN035001R0400419174,Damblain Eglise,Gare de Nancy-Ville,150,Damblain,Nancy
+OCESN035002R0500519175,Gare de Contrexéville,Gare de Nancy-Ville,116,Contrexéville,Nancy
+OCESN035003R0400419176,Gare de Contrexéville,Mirecourt,39,Contrexéville,Mirecourt
+OCESN035004R0200219177,Gare de Vittel,Mirecourt,26,Vittel,Mirecourt
+OCESN035006R0200219179,Gare de Nancy-Ville,Martigny-les-B-Thiebaut,133,Nancy,Martigny-les-Bains
+OCESN035020R0400419193,Gare de Nancy-Ville,Gare de Vittel,92,Nancy,Vittel
+OCESN035026R0500519199,Gare de Nancy-Ville,Mirecourt (Lycée Agric),71,Nancy,Mirecourt
+OCESN035031R0500519204,Gare de Bening,Gare de Sarreguemines,34,Béning-lès-Saint-Avold,Sarreguemines
+OCESN035041R0600619205,Bitche-Quartier-Driant,Gare de Bening,71,Bitche,Béning-lès-Saint-Avold
+OCESN035073R0600619227,Gare de Charmes (Vosges),Gare de Vittel,60,Essegney,Vittel
+OCESN035100R0200219234,Gare de Charmes (Vosges),Mirecourt,30,Essegney,Mirecourt
+OCESN035101R0200219235,Gare de Charmes (Vosges),Mirecourt (Lycée Agric),33,Essegney,Mirecourt
+OCESN035103R0200219237,Igney (Centre),Sarrebourg-LP-Messmer,45,Igney,Sarrebourg
+OCESN035129R0300319263,Gare de Sarrebourg,Igney (Centre),39,Avricourt,Igney
+OCESN035129R0400419264,Gare de Longuyon,Gare de Longwy,32,Longuyon,Longwy
+OCESN035153R0200219281,Gare de Longuyon,Gare de Montmédy,39,Longuyon,Montmédy
+OCESN035169R0200219296,Gare de Longuyon,Vezin-Carrefour,33,Longuyon,Cocody
+OCESN035179R0200219303,Gare de Morhange,Gare de Sarrebourg,94,Morhange,Avricourt
+OCESN035187R0200219307,Gare de Sarrebourg,Loudrefing,34,Avricourt,Loudrefing
+OCESN035191R0200219309,Gare de Morhange,Gare de Rémilly,48,Morhange,Rémilly
+OCESN035195R0200219311,Longuyon (Collège),Vezin-Carrefour,23,Longuyon,Cocody
+OCESN035202R0200219313,Gare de Sarrebourg,St-Jean-de-Bassel-Eglis,35,Avricourt,Strasbourg
+OCESN035203R0300319314,Gare de Nancy-Ville,Gare de Neufchâteau,62,Nancy,Neufchâteau
+OCESN035211R0200219319,Fénétrange (Gendarm.),Sarrebourg-Hôpital,42,Fénétrange,Bioncourt
+OCESN035214R0200219320,Loudrefing,Sarrebourg-LP-Messmer,54,Loudrefing,Sarrebourg
+OCESN035216R0300319322,Sarrebourg (Place Math),St-Jean-de-Bassel-Eglis,24,Sarrebourg,Strasbourg
+OCESN035224R0300319325,Sarrebourg-LP-Messmer,St-Jean-de-Bassel-Eglis,31,Sarrebourg,Strasbourg
+OCESN035224R0400419326,Gare de Neufchâteau,Gare de Toul,45,Neufchâteau,Toulouse
+OCESN035225R0400419328,Gare de Toul,Neufchateau-Lp,59,Toulouse,Neufchâteau
+OCESN035225R0500519327,Gare de Nancy-Ville,Neufchateau-Lp,88,Nancy,Neufchâteau
+OCESN035232R0500519330,Allamps-Esat,Gare de Toul,30,Allamps,Toulouse
+OCESN035233R0200219331,Creutzwald G.R,Gare de Thionville,110,Creutzwald,Thionville
+OCESN035241R0200219338,Fénétrange (Gendarm.),Sarrebourg-LP-Messmer,30,Fénétrange,Sarrebourg
+OCESN035266R0200219351,Gare de St-Dié-des-Vosges,Laveline-d-Bruy. Mairie,64,Sainte-Marguerite,Laveline-devant-Bruyères
+OCESN035268R0800819352,Gare de Epinal,Gare de St-Dié-des-Vosges,65,Nomexy,Sainte-Marguerite
+OCESN035270R0200219353,Bruyères (Vosges),Gare de Epinal,43,Bruyères,Nomexy
+OCESN035272R0600619354,Bruyères (Vosges),Gare de St-Dié-des-Vosges,48,Bruyères,Sainte-Marguerite
+OCESN035274R0300319355,Bouzonville,Gare de Thionville,67,Bruyères,Thionville
+OCESN035277R0200219357,Gare de Epinal,Laveline-d-Bruy. Mairie,52,Nomexy,Laveline-devant-Bruyères
+OCESN035282R0500519360,Gare de Thionville,Kédange (Eglise),22,Thionville,Kédange-sur-Canner
+OCESN035291R0300319370,Gare de Thionville,Hombourg (Chapelle),26,Thionville,Hombourg-Haut
+OCESN035300R0200219378,Gare de Epinal,Saint-Léonard Centre,94,Nomexy,Saint-Léonard
+OCESN035305R0600619385,Corcieux Le Conti,Gare de Epinal,81,Corcieux,Nomexy
+OCESN035305R0800819384,Gare de Arches,Gare de St-Dié-des-Vosges,85,Issy-les-Moulineaux,Sainte-Marguerite
+OCESN035315R0400419395,Bruyères Chanzy Gare,Gare de Epinal,35,Bruyères,Nomexy
+OCESN035323R0300319405,Gare de Arches,Gare de Epinal,20,Issy-les-Moulineaux,Nomexy
+OCESN035366R0200219450,Bruyères Chanzy Gare,Gare de St-Dié-des-Vosges,48,Bruyères,Sainte-Marguerite
+OCESN035389R0500519461,Gare de Thionville,Perl Gare DB,39,Thionville,Allemagne
+OCESN035392R0200219463,Gare de Sarreguemines,Sarre-Union,52,Sarreguemines,Sarre-Union
+OCESN035410R0500519477,Herbitzheim R. Hambach,Sarre-Union,25,Herbitzheim,Sarre-Union
+OCESN035411R0400419478,Gare de Sarreguemines,Sarralbe Centre,33,Sarreguemines,Sarralbe
+OCESN035412R0400419479,Loudrefing,Sarrebourg (Place Math),50,Loudrefing,Sarrebourg
+OCESN035413R0200219480,Herbitzheim Mairie,Sarre-Union,23,Herbitzheim,Sarre-Union
+OCESN035415R0400419482,Gare de Sarrebourg,Gare de Sarreguemines,85,Avricourt,Sarreguemines
+OCESN035416R0500519483,Fénétrange (Gendarm.),Sarrebourg-Abri-Phalsbo,33,Fénétrange,Sarrebourg
+OCESN035417R0200219484,Gare de Sarreguemines,Sarrebourg (Place Math),116,Sarreguemines,Sarrebourg
+OCESN035424R0800819492,Berthelming-Mairie,Sarrebourg-Abri-Phalsbo,17,Berthelming,Sarrebourg
+OCESN035435R0200219504,Gare de Metz-Ville,Gare de Nancy-Ville,105,Strasbourg,Nancy
+OCESN035440R0200219509,Gare de Saverne,Sarralbe,64,Saverne,Sarralbe
+OCESN035459R0400419530,Keskastel,Sarre-Union,11,Keskastel,Sarre-Union
+OCESN035460R0400419531,Gare de Saverne,Sarre-Union,45,Saverne,Sarre-Union
+OCESN035461R0200219532,Bruyères (Vosges),Saint-Léonard Centre,39,Bruyères,Saint-Léonard
+OCESN035473R0300319546,Gare de Bar-le-Duc,Gare de Revigny,21,Bar-le-Duc,Revigny-sur-Ornain
+OCESN035480R0100119547,Gare de Charmes (Vosges),Gare de Epinal,40,Essegney,Nomexy
+OCESN035481R0100119548,Gare de Conflans-Jarny,Gare de Pagny-sur-Moselle,45,Jarny,Pagny-sur-Moselle
+OCESN035482R0100119549,Gare de Figeac,Gare de Gramat,52,Figeac,Gramat
+OCESN035532R0200219552,Gare de Mazamet,Gare de Toulouse-Matabiau,133,Caucalières,Toulouse
+OCESN035576R0200219554,Gare de Muret,Gare de Pau,218,Muret,Paris
+OCESN035589R0200219559,Gare de Pau,Gare de Toulouse-Matabiau,253,Paris,Toulouse
+OCESN035593R0200219560,Gare de Agen,Gare de Castelsarrasin,56,Bourg-la-Reine,Puygaillard-de-Lomagne
+OCESN035603R0200219561,Gare de Longages-Noé,St-Sulpice-sur-Lèze,11,Longages,St-Sulpice-sur-Lèze
+OCESN035608R0200219563,Gare de Montréjeau-Gourdan-Pol,Luchon-Richelieu,56,Gourdan-Polignan,Bagnères-de-Luchon
+OCESN035663R0700719574,Gare de Ax-les-Thermes,Gare de Toulouse-Matabiau,145,Ax-les-Thermes,Toulouse
+OCESN035691R0300319579,Gare de Ax-les-Thermes,Gare de Foix,47,Ax-les-Thermes,Vitry-sur-Seine
+OCESN035693R0200219581,Gare de Ax-les-Thermes,Gare de Pamiers,83,Ax-les-Thermes,Pamiers
+OCESN035695R0200219583,Gare de Montréjeau-Gourdan-Pol,Luchon,50,Gourdan-Polignan,Bagnères-de-Luchon
+OCESN035696R0500519584,Gare de Ax-les-Thermes,Latour de Carol,49,Ax-les-Thermes,Latour de Carol
+OCESN035741R0200219591,Gare de Foix,Gare de Pamiers,33,Vitry-sur-Seine,Pamiers
+OCESN035819R0200219594,Gare de Souillac,Gare de St-Denis-près-Martel,27,Laroquebrou,Saint-Denis-lès-Martel
+OCESN035824R0200219595,Gare de Albi-Ville,Gare de Toulouse-Matabiau,90,Albigny-sur-Saône,Toulouse
+OCESN035852R0300319599,Gare de Foix,Gare de Toulouse-Matabiau,139,Vitry-sur-Seine,Toulouse
+OCESN035866R0200219607,Comines (France),Gare de Lille Flandres,54,Comines,Lille
+OCESN036000R0200219609,Gare de Lille Flandres,Wambrechies,30,Lille,Wambrechies
+OCESN036002R0200219611,Gare de Abbeville,Gare de Boulogne Ville,104,Abbeville,Fréthun
+OCESN036004R0200219613,Gare de Abbeville,Gare de Rue,40,Abbeville,Paris
+OCESN036006R0200219615,Gare de Lens,Gare de Lille Flandres,80,Lens,Lille
+OCESN036009R0100119618,Gare de Avesnes,Gare de Hirson-Ecoles,55,Avesnes-sur-Helpe,Hirson
+OCESN036019R0200219628,Gare de Arras,Gare de Douai,40,Arras,Douai
+OCESN036022R0100119629,Gare de Hazebrouck,Gare de Lille Flandres,77,Hazebrouck,Lille
+OCESN036024R0100119630,Gare de Busigny,Gare de St Quentin,60,Busigny,Pontarlier
+OCESN036030R0100119632,Gare de Calais Fréthun,Gare de Calais Ville,15,Fréthun,Calais
+OCESN036200R0200219633,Gare de Coutances,Gare de Lison,54,Coutances,Moon-sur-Elle
+OCESN036500R0400419661,Gare de Granville,Gare de Lison,84,Granville,Moon-sur-Elle
+OCESN036516R0100119680,Gare de Coutances,Gare de Granville,36,Coutances,Granville
+OCESN036524R0100119688,Gare de Coutances,Gare de Pontorson-Mt-St-Michel,85,Coutances,Pontorson
+OCESN036562R0300319700,Gare de Granville,Vire-Centre,75,Granville,Chezal-Benoît
+OCESN036631R0300319702,Gare de Argentan,Gare de Flers,53,Flers,Flers
+OCESN036640R0300319704,Bagnoles- Orne Egl.Mad,Gare de Briouze,40,Bagnoles-de-l'Orne,Briouze
+OCESN036670R0500519723,Bagnoles- Orne Egl.Mad,Gare de Argentan,60,Bagnoles-de-l'Orne,Flers
+OCESN036690R0500519748,Gare de Alençon,Gare de Surdon,34,Les Ventes-de-Bourse,Le Château-d'Almenêches
+OCESN036700R0300319753,Gare de L'Aigle,Gare de Surdon,58,Aigle,Le Château-d'Almenêches
+OCESN036701R0300319754,Gare de Dreux,Gare de L'Aigle,79,Dreux,Aigle
+OCESN036730R0200219775,Gare de Lisieux,Gare de Trouville-Deauville,50,Lisieux,Deauville
+OCESN036801R0100119776,Gare de Dives-Cabourg,Gare de Trouville-Deauville,35,Gaujac,Deauville
+OCESN036810R0400419778,Gare de Caen,Gare de Rouen-Rive-Droite,100,Caen,Rouen
+OCESN036850R0200219797,Gare de Evreux,Normandie,50,Nonancourt,Normandie
+OCESN036860R0100119801,Gare de Villedieu (Gare),Le Mont St Michel,45,Villedieu-sur-Indre,Latina
+OCESN036871R0100119802,Gare de Granville,Gare de Rennes,110,Granville,Rennes
+OCESN036882R0300319811,Gare de Caen,Gare de Rennes,170,Caen,Rennes
+OCESN036890R0200219821,Gare de Bréauté-Beuzeville,Gare de Fécamp,30,Bréauté,Fécamp
+OCESN037000R0100119826,Gare de Mantes-la-Jolie,Gare de Rouen-Rive-Droite,125,Mantes-la-Ville,Rouen
+OCESN037071R0100119847,Pont-Audemer-Gare-SNCF,Rouen-Gare-Routière,65,Pont-Audemer,Rouen
+OCESN037200R0500519848,Rouen-Gare-Routière,Routot-Place-de-mairie,50,Rouen,Routot
+OCESN037202R0500519850,Bourg-Achard Champ de F,Pont-Audemer-Gare-SNCF,35,Bourg-Achard,Pont-Audemer
+OCESN037214R0300319864,Gare de Nantes,Gare de St-Gilles-Croix-de-Vie,104,Nantes,Saint-Hilaire-de-Riez
+OCESN037563R0300319872,Gare de Cholet,Gare de Nantes,85,Cholet,Nantes
+OCESN037600R0300319877,Gare de Cholet,Gare de Clisson,60,Cholet,Clisson
+OCESN037615R0200219885,Gare de Albert,Gare de Amiens,46,Leval-Trahegnies,Amiens
+OCESN038000R0200219893,Gare de Beauvais-Gare-SNCF,Gare de Creil,70,Beauvais,Creil
+OCESN038060R0200219896,Gare de Hirson,Laon-Gare-Routière-Poma,80,Hirson,Lambatara
+OCESN038100R0200219898,Gare de Compiègne,Gare de Ribécourt,28,Compiègne,Ribécourt-Dreslincourt
+OCESN038310R0200219901,Gare de Compiègne,Gare de St Quentin,100,Compiègne,Pontarlier
+OCESN038313R0100119904,Gare de Compiègne,Gare de Tergnier,94,Compiègne,Tergnier
+OCESN038314R0200219905,Gare de Chatellerault,Gare de Poitiers,44,Châtellerault,Poitiers
+OCESN038604R0200219949,Gare de Mauzé,Gare de Niort,40,Mauzé-sur-le-Mignon,Niort
+OCESN038683R0200219950,Gare de Niort,Gare de Prissé-la-Charrière,49,Niort,Plaine-d'Argenson
+OCESN038701R0200219951,Gare de Bressuire,Gare de Saumur,87,Bressuire,Saumur
+OCESN038852R0200219952,Gare de Bressuire,Gare de Thouars,37,Bressuire,Thouars
+OCESN038859R0200219954,Gare de La Roche-sur-Yon,Gare de Saumur,177,La Roche-sur-Yon,Saumur
+OCESN038881R0200219962,Gare de Chambéry-Chal.-les-Eaux,Lyon-Part-Dieu-Gare-Rou,90,Chambéry,Lyon
+OCESN039513R0300319965,Gare de Annecy,Lyon-Part-Dieu-Gare-Rou,112,Annecy,Lyon
+OCESN039518R0200219966,Gare de Aix-les-Bains-le-Revard,Gare de Annecy,35,Lovagny,Annecy
+OCESN039525R0400419972,Gare de Valence-TGV,Grenoble-Gare-Routière,60,Alixan,Grenoble
+OCESN039530R0200219975,Gare de Chambéry-Chal.-les-Eaux,Grenoble-Gare-Routière,70,Chambéry,Grenoble
+OCESN039535R0300319979,Grenoble-Gare-Routière,Valence-Gare-Routière,100,Grenoble,Chabeuil
+OCESN039536R0200219980,Grenoble-Gare-Routière,Lyon-Part-Dieu-Gare-Rou,119,Grenoble,Lyon
+OCESN039549R0200219987,Gare de St-André-le-Gaz,Lyon-Perrache-Gare-Rout,110,Saint-André-le-Gaz,Lyon
+OCESN039550R0200219988,Lyon-Part-Dieu-Gare-Rou,Saint-Etienne-Chtx GR,71,Lyon,Saint-Étienne
+OCESN039561R0200219993,Gare de Lozanne,Gare de Lyon-Gorge-de-Loup,37,Lozanne,Lyon
+OCESN039608R0200219997,Gare de Lozanne,Lyon-St-Paul-Quai-Bondy,48,Lozanne,Lyon
+OCESN039621R0200220009,Lyon-Part-Dieu-Gare-Rou,Roanne-Gare-Routière,115,Lyon,Roanne
+OCESN039640R0200220010,Gare de Lozanne,Grandris-Centre,42,Lozanne,Grandrieu
+OCESN039650R0200220012,Gare de Lamure-sur-Azergues,Gare de Lozanne,46,Lamure-sur-Azergues,Lozanne
+OCESN039651R0200220013,Gare de Lozanne,Poule-Mairie,60,Lozanne,Poulaines
+OCESN039652R0200220014,Gare de Lozanne,Gare de Paray-le-Monial,120,Lozanne,Paray-le-Monial
+OCESN039654R0200220016,Bois-d'Oingt-Centre,Gare de Lozanne,23,Val d'Oingt,Lozanne
+OCESN039655R0200220017,Gare de Die,Valence-Gare-Routière,75,Saint-Dié-des-Vosges,Chabeuil
+OCESN039690R0200220046,Gare de Valence-TGV,Gare de Veynes-Dévoluy,185,Alixan,Veynes
+OCESN039693R0300320049,Gare de Veynes-Dévoluy,Valence-Gare-Routière,165,Veynes,Chabeuil
+OCESN039694R0200220051,Gare de Luc-en-Diois,Valence-Gare-Routière,105,Luc-en-Diois,Chabeuil
+OCESN039694R0300320050,Gare de Luc-en-Diois,Gare de Valence-TGV,125,Luc-en-Diois,Alixan
+OCESN039697R0200220053,Gare de Evian-les-Bains,Grenoble-Gare-Routière,210,Évian-les-Bains,Grenoble
+OCESN039710R0200220054,Saint-Etienne-Chtx GR,Valence-Gare-Routière,110,Saint-Étienne,Chabeuil
+OCESN039712R0200220055,Gare de Modane,Grenoble-Gare-Routière,130,Modane,Grenoble
+OCESN039716R0200220058,Gare de Annecy,Gare de Chamonix-Mont-Blanc,120,Annecy,Chamonix-Mont-Blanc
+OCESN039719R0200220060,Annonay-Gare-Route,Grenoble-Gare-Routière,170,Vernosc-lès-Annonay,Grenoble
+OCESN039721R0200220061,Gare de St-Gervais-L-B-Le-Fayet,Grenoble-Gare-Routière,190,Saint-Gervais-les-Bains,Grenoble
+OCESN039726R0200220064,Privas-Cours-du-Palais,Valence-Gare-Routière,50,Privas,Chabeuil
+OCESN039727R0200220065,Gare de Annemasse,Grenoble-Gare-Routière,180,Annemasse,Grenoble
+OCESN039730R0300320067,Grenoble-Gare-Routière,Montélimar-G-Routière,127,Grenoble,Montélimar
+OCESN039731R0200220068,Gare de Moûtiers-Salins-Brides,Grenoble-Gare-Routière,105,Moûtiers,Grenoble
+OCESN039733R0300320069,Gare de Chambéry-Chal.-les-Eaux,Gare de Cluses (Hte-Savoie),130,Chambéry,Cluses
+OCESN039735R0300320070,Gare de Bonneville,Lyon-Part-Dieu-Gare-Rou,145,La Bonneville-sur-Iton,Lyon
+OCESN039736R0200220071,Gare de Chambéry-Chal.-les-Eaux,Gare de St-Gervais-L-B-Le-Fayet,165,Chambéry,Saint-Gervais-les-Bains
+OCESN039737R0300320072,Aubenas-Pl.-de-la-Paix,Grenoble-Gare-Routière,198,Aubenas,Grenoble
+OCESN039742R0200220075,Gare de Annemasse,Gare de Chambéry-Chal.-les-Eaux,110,Annemasse,Chambéry
+OCESN039743R0300320076,Gare de Chambéry-Chal.-les-Eaux,Gare de Chamonix-Mont-Blanc,200,Chambéry,Chamonix-Mont-Blanc
+OCESN039744R0300320077,Gare de Annemasse,Gare de Evian-les-Bains,60,Annemasse,Évian-les-Bains
+OCESN039745R0200220078,Grenoble-Gare-Routière,Privas-Cours-du-Palais,130,Grenoble,Privas
+OCESN039748R0200220079,Bourg-en-Bresse Gare R,Gare de Chambéry-Chal.-les-Eaux,170,Montluel,Chambéry
+OCESN039749R0300320080,Gare de Oyonnax,Lyon-Part-Dieu-Gare-Rou,90,Oyonnax,Lyon
+OCESN039753R0200220081,Gare de Chambéry-Chal.-les-Eaux,Gare de Evian-les-Bains,180,Chambéry,Évian-les-Bains
+OCESN039754R0300320082,Lyon-Part-Dieu-Gare-Rou,Morez Lycée,195,Lyon,Hauts de Bienne
+OCESN039755R0100120083,Gare de Chamonix-Mont-Blanc,Lyon-Part-Dieu-Gare-Rou,240,Chamonix-Mont-Blanc,Lyon
+OCESN039757R0200220084,Gare de Chambéry-Chal.-les-Eaux,Gare de Thonon-les-Bains,165,Chambéry,Évian-les-Bains
+OCESN039760R0300320086,Gare de Chamonix-Mont-Blanc,Grenoble-Gare-Routière,220,Chamonix-Mont-Blanc,Grenoble
+OCESN039762R0200220088,Chamberry-Jacob,Gare de St-Gervais-L-B-Le-Fayet,165,Chamberry,Saint-Gervais-les-Bains
+OCESN039770R0300320095,Gare de Bonneville,Gare de Chambéry-Chal.-les-Eaux,130,La Bonneville-sur-Iton,Chambéry
+OCESN039776R0300320096,Gare de Bourg-St-Maurice,Grenoble-Gare-Routière,160,Bourg-Saint-Maurice,Grenoble
+OCESN039780R0300320099,Aubenas-Pl.-de-la-Paix,St-Martin-d'Hères,185,Aubenas,Saint-Martin-d'Hères
+OCESN039782R0200220100,Montélimar-G-Routière,St-Martin-d'Hères,120,Montélimar,Saint-Martin-d'Hères
+OCESN039784R0200220101,Privas-Cours-du-Palais,St-Martin-d'Hères,145,Privas,Saint-Martin-d'Hères
+OCESN039786R0200220103,Annonay-Gare-Route,St-Martin-d'Hères,160,Vernosc-lès-Annonay,Saint-Martin-d'Hères
+OCESN039788R0200220105,Gare de Saint-Claude,Lyon-Part-Dieu-Gare-Rou,135,Saint-Claude,Lyon
+OCESN039794R0200220108,Gare de Bourgoin-Jallieu,Lyon-Part-Dieu-Gare-Rou,51,Bourgoin-Jallieu,Lyon
+OCESN039807R0200220112,Gare de Bourg-St-Maurice,Gare de Chambéry-Chal.-les-Eaux,145,Bourg-Saint-Maurice,Chambéry
+OCESN039815R0200220113,Gare de Chambéry-Chal.-les-Eaux,Gare de Pont-de-Beauvoisin,48,Chambéry,Pont-de-Beauvoisin
+OCESN039819R0400420115,Gare de Thonon-les-Bains,Grenoble-Gare-Routière,200,Évian-les-Bains,Grenoble
+OCESN039849R0200220116,Gare de Mâcon-Ville,Lyon-Part-Dieu-Gare-Rou,75,Mâcon,Lyon
+OCESN039991R0200220122,Gare de Diemeringen,Sarralbe Centre,36,Diemeringen,Sarralbe
+OCESN040011R0500520123,Gare de Diemeringen,Sarre-Union,20,Diemeringen,Sarre-Union
+OCESN040012R0500520124,Gare de Dinan,Gare de St-Brieuc,60,Dinant,Saint-Carreuc
+OCESN042100R0200220151,Gare de Dinan,Gare de Lamballe,73,Dinant,Lamballe-Armor
+OCESN042101R0200220152,Gare de Franois,Gare de St-Vit,14,Franois,Vitré
+OCESN043500R0200220161,Gare de Auxonne,Gare de Villers-les-Pots,10,Auxonne,Villers-lès-Nancy
+OCESN043508R0200220167,Gare de Dijon-Ville,Gare de Neuilly-lès-Dijon,25,Dijon,Neuilly-Crimolois
+OCESN043515R0200220171,Gare de Bellegarde-s-V. Gare,Gare de St-Gervais-L-B-Le-Fayet,135,Valserhône,Saint-Gervais-les-Bains
+OCESN049501R0100120186,Gare de Bellegarde-s-V. Gare,Gare de Evian-les-Bains,115,Valserhône,Évian-les-Bains
+OCESN049504R0100120189,Gare de Annemasse,Gare de St-Gervais-L-B-Le-Fayet,111,Annemasse,Saint-Gervais-les-Bains
+OCESN049507R0100120192,Gare de Bellegarde-s-V. Gare,Gare de Chamonix-Mont-Blanc,185,Valserhône,Chamonix-Mont-Blanc
+OCESN049511R0100120196,Gare de Annemasse,Gare de Bellegarde-s-V. Gare,71,Annemasse,Valserhône
+OCESN049514R0100120199,Gare de Evian-les-Bains,Gare de Thonon-les-Bains,20,Évian-les-Bains,Évian-les-Bains
+OCESN049521R0100120205,Gare de Cluses (Hte-Savoie),Gare de St-Gervais-L-B-Le-Fayet,40,Cluses,Saint-Gervais-les-Bains
+OCESN049523R0200220206,Gare de Annemasse,Gare de La Roche-sur-Foron,30,Annemasse,La Roche-sur-Foron
+OCESN049525R0100120208,Gare de Annecy,Gare de Annemasse,60,Annecy,Annemasse
+OCESN049540R0100120213,Gare de Ambérieu-en-Bugey,Gare de St-Rambert-en-Bugey,15,Ambérieu-en-Bugey,Saint-Rambert-en-Bugey
+OCESN049561R0200220229,Gare de Ambérieu-en-Bugey,Gare de Virieu-le-Grand-Belley,52,Ambérieu-en-Bugey,Virieu-le-Grand
+OCESN049562R0200220230,Gare de Boën,Noirétable,26,Boën-sur-Lignon,Noirétable
+OCESN049581R0200220236,Gare de Boën,Saint-Etienne-Chtx GR,92,Boën-sur-Lignon,Saint-Étienne
+OCESN049582R0200220237,Gare de Montbrison,Noirétable,44,Montbrison,Noirétable
+OCESN049583R0200220238,Noirétable,Saint-Etienne-Chtx GR,108,Noirétable,Saint-Étienne
+OCESN049584R0200220239,Gare de Boën,Gare de Montbrison,18,Boën-sur-Lignon,Montbrison
+OCESN049585R0200220240,Gare de Montbrison,Saint-Etienne-Chtx GR,60,Montbrison,Saint-Étienne
+OCESN049588R0200220242,Bourg-en-Bresse Gare R,Lyon-Part-Dieu-Gare-Rou,81,Montluel,Lyon
+OCESN049600R0200220253,Bourg-en-Bresse Gare R,Gare de Mâcon-Loché-TGV,42,Montluel,Mâcon
+OCESN049610R0200220259,Bourg-en-Bresse Gare R,Gare de Mâcon-Ville,62,Montluel,Mâcon
+OCESN049611R0200220260,Gare de Ambérieu-en-Bugey,Lyon-Part-Dieu-Gare-Rou,63,Ambérieu-en-Bugey,Lyon
+OCESN049634R0200220283,Gare de Chambéry-Chal.-les-Eaux,Gare de St-André-le-Gaz,71,Chambéry,Saint-André-le-Gaz
+OCESN049640R0300320287,Gare de Chambéry-Chal.-les-Eaux,Gare de La Tour-du-Pin,86,Chambéry,La Tour-du-Pin
+OCESN049645R0300320290,Gare de Gap,Grenoble-Gare-Routière,127,Gap,Grenoble
+OCESN049675R0200220305,Gare de Clelles-Mens,Gare de Gap,80,Clelles,Gap
+OCESN049679R0300320308,Clelles-Mairie,Grenoble-Gare-Routière,81,Clelles,Grenoble
+OCESN049680R0200220309,Gare de Vif,Grenoble-Gare-Routière,51,Vif,Grenoble
+OCESN049682R0200220310,Gare de Clelles-Mens,Grenoble-Gare-Routière,73,Clelles,Grenoble
+OCESN049684R0200220312,Gare de Sain-Bel,Lyon-St-Paul-la-Feuilée,60,Sainte-Anne-de-Bellevue,Lyon
+OCESN049691R0200220317,Gare de Sain-Bel,Lyon-St-Paul-Quai-Bondy,60,Sainte-Anne-de-Bellevue,Lyon
+OCESN049692R0300320318,Lyon-Perrache-Gare-Rout,Vienne-Gare-Routière,53,Lyon,Vienne
+OCESN049701R0200220325,Bourg-en-Bresse Gare R,Gare de Ambérieu-en-Bugey,40,Montluel,Ambérieu-en-Bugey
+OCESN049708R0200220329,Argentine,Gare de St-Pierre-d'Albigny,28,Paris,Saint-Pierre-d'Albigny
+OCESN049750R0200220348,Gare de St-Priest,St-Pierre-de-Chandieu-R,21,Saint-Priest,Saint-Pierre-de-Chandieu
+OCESN049780R0200220362,Gare de Villefranche-sur-Saône,Lyon-Perrache-Gare-Rout,60,Villefranche-sur-Saône,Lyon
+OCESN049799R0200220374,Gare de La Tour-du-Pin,Gare de Rives,55,La Tour-du-Pin,Rives
+OCESN049808R0200220375,Gare de Moûtiers-Salins-Brides,Gare de St-Pierre-d'Albigny,50,Moûtiers,Saint-Pierre-d'Albigny
+OCESN049819R0200220376,Gare de Albertville,Gare de Moûtiers-Salins-Brides,45,Albertville,Moûtiers
+OCESN049823R0200220379,Gare de Aix-les-Bains-le-Revard,Gare de Chambéry-Chal.-les-Eaux,30,Lovagny,Chambéry
+OCESN049825R0300320381,Gare de Bourg-St-Maurice,Gare de Moûtiers-Salins-Brides,37,Bourg-Saint-Maurice,Moûtiers
+OCESN049827R0200220383,Gare de Chambéry-Chal.-les-Eaux,Gare de Modane,113,Chambéry,Modane
+OCESN049842R0300320394,Gare de Chambéry-Chal.-les-Eaux,Gare de Epierre-St-Léger,82,Chambéry,Épierre
+OCESN049844R0300320396,Gare de Aix-les-Bains-le-Revard,Gare de Modane,157,Lovagny,Modane
+OCESN049846R0300320398,Gare de Chambéry-Chal.-les-Eaux,Gare de Culoz,65,Chambéry,Culoz-Béon
+OCESN049852R0500520404,Gare de Feurs,Saint-Etienne-Chtx GR,60,Feurs,Saint-Étienne
+OCESN049864R0200220414,Gare de Albens,Gare de Annecy,45,Entrelacs,Annecy
+OCESN049873R0300320418,Gare de Annecy,Gare de Rumilly,25,Annecy,Rumilly
+OCESN049877R0200220422,Gare de Sérézin,Ternay-Barbières,13,Sérézin-du-Rhône,Ternay
+OCESN049911R0200220426,Communay-Stade,Gare de Sérézin,15,Communay,Sérézin-du-Rhône
+OCESN049913R0200220428,Gare de Epierre-St-Léger,Gare de Montmélian,52,Épierre,Montmélian
+OCESN049962R0200220450,Gare de Epierre-St-Léger,Gare de St-Pierre-d'Albigny,36,Épierre,Saint-Pierre-d'Albigny
+OCESN049967R0200220452,Gare de St-Jean-de-Maurienne-A,Gare de St-Pierre-d'Albigny,70,Épierre,Saint-Pierre-d'Albigny
+OCESN049968R0200220453,Aiton-Salle-Polyvalente,Gare de St-Jean-de-Maurienne-A,58,Aiton,Épierre
+OCESN049969R0200220454,Gare de Chinon,Gare de Tours,82,Richelieu,Tours
+OCESN052500R0200220703,Chinon-Lycée-Rabelais,Gare de Tours,75,Chinon,Tours
+OCESN052501R0400420704,Gare de Tours,St Christophe / Nais C,60,Tours,Saint-Christophe-sur-le-Nais
+OCESN052520R0200220712,Gare de Château-du-Loir,Gare de Tours,75,Blois,Tours
+OCESN052521R0200220713,Droué (Centre),Gare de Courtalain-St-Pellerin,10,Droué,Arrou
+OCESN052540R0300320721,Courtalain-Centre,Droué (Centre),10,Arrou,Droué
+OCESN052541R0200220722,Chartres-Gare-Routière,Gare de Brou,55,Lyon,Brou
+OCESN052542R0200220723,Droué (Centre),Gare de Brou,36,Droué,Brou
+OCESN052543R0300320724,Gare de Brou,Gare de Chartres,50,Brou,Chartres
+OCESN052547R0200220728,Droué (Centre),Gare de Chartres,92,Droué,Chartres
+OCESN052553R0200220733,Gare de Vendôme,Mondoubleau-Rue-Leroy,60,Vendôme,Mondoubleau
+OCESN052560R0400420735,Aubigny-sur-Nere-Mail,Gare de Gien,44,Aubigny-sur-Nère,Gien
+OCESN052580R0200220746,Gare de Gien,Montargis-OT,49,Gien,Ottawa
+OCESN052600R0200220762,Gare de Cosne-sur-Loire,Sancerre-Porte-Cesar,27,La Charité-sur-Loire,Sancerre
+OCESN052632R0200220780,Bourges-Gare-Routière,Gare de St-Amand-Montrond-Orval,76,Bourges,Orval
+OCESN052635R0200220781,Gare de Bourges,Gare de St-Amand-Montrond-Orval,65,Bourges,Orval
+OCESN052636R0200220782,Châteauroux Gare Rout,Gare de Bourges,106,Châteauroux,Bourges
+OCESN052650R0200220783,Gare de Bourges,Issoudun-Place-de-la-G,71,Bourges,Issoudun
+OCESN052652R0200220785,Châteauroux Gare Rout,Issoudun-Jardin,40,Châteauroux,Issoudun
+OCESN052665R0200220798,Gare de Vierzon,Issoudun-Place-de-la-G,50,Vierzon,Issoudun
+OCESN052670R0200220799,Gare de Issoudun,Gare de Vierzon,56,Val-Fouzon,Vierzon
+OCESN052671R0200220800,Châteauroux Gare Rout,Poitiers-Gare-Routière,135,Châteauroux,Poitiers
+OCESN052700R0300320808,Le-Blanc-Pl-du-Bateau,Poitiers-Gare-Routière,68,Le Blanc,Poitiers
+OCESN052702R0200220810,Gare de Nouan-le-Fuzelier,Romorantin-BA-G.R,55,Nouan-le-Fuzelier,Millançay
+OCESN052720R0200220818,Chaumont-sur-Tharonne,Romorantin-BA-G.R,31,Chaumont-sur-Tharonne,Millançay
+OCESN052722R0200220820,Gare de Lamotte-Beuvron,Romorantin-BA-G.R,40,Lamotte-Beuvron,Millançay
+OCESN052723R0200220821,Gare de Lamotte-Beuvron,Romorantin-Lycée-de-F,35,Lamotte-Beuvron,Romorantin-Lanthenay
+OCESN052728R0200220823,Châteauroux-Ly-B-Pascal,Gare de Eguzon,60,Châteauroux,Éguzon-Chantôme
+OCESN052740R0200220824,Châteauroux Gare Rout,Gare de Argenton-sur-Creuse,45,Châteauroux,Argenton-sur-Creuse
+OCESN052741R0300320825,Châteauroux-Ly-B-Pascal,Gare de Argenton-sur-Creuse,60,Châteauroux,Argenton-sur-Creuse
+OCESN052741R0400420826,Châteauroux-Lycée-Agric,Gare de Argenton-sur-Creuse,55,Châteauroux,Argenton-sur-Creuse
+OCESN052742R0300320827,Châteauroux Gare Rout,Gare de Eguzon,80,Châteauroux,Éguzon-Chantôme
+OCESN052744R0300320830,Châteauroux Gare Rout,Issoudun-Place-de-la-G,36,Châteauroux,Issoudun
+OCESN052746R0200220831,Gare de Thesee,Romorantin-BA-G.R,60,Thésée,Millançay
+OCESN052750R0200220832,Romorantin-BA-G.R,St-Aignan-Lep,55,Millançay,Saint-Aignan
+OCESN052751R0200220833,Romorantin-BA-G.R,St-Aignan-Pl-Wilson,53,Millançay,Warszawa
+OCESN052752R0200220834,Gare de Loches,Gare de Tours,58,Loches,Tours
+OCESN052800R0200220838,Buzançais,Châteauroux Gare Rout,30,Buzançais,Châteauroux
+OCESN052801R0200220839,Châteauroux Gare Rout,Gare de Tours,150,Châteauroux,Tours
+OCESN052802R0200220840,Chatillon-Mail,Châteauroux-Charmilles,100,Châtillon-sur-Chalaronne,Neuillay-les-Bois
+OCESN052803R0200220841,Clion-sur-Indre,Gare de Loches,40,Palluau-sur-Indre,Loches
+OCESN052804R0200220842,Chatillon-Mail,Châteauroux Gare Rout,90,Châtillon-sur-Chalaronne,Châteauroux
+OCESN052805R0200220843,Châteauroux Gare Rout,Gare de Loches,101,Châteauroux,Loches
+OCESN052807R0200220845,Gare de Cormery,Gare de La Douzillère,47,Cormery,Esvres
+OCESN052810R0200220849,Gare de Loches,Gare de Montbazon,65,Loches,Montbazon
+OCESN052811R0200220850,Chambourg-Chopin,Gare de Cormery,25,Chambourg-sur-Indre,Cormery
+OCESN052812R0200220851,Loches-Lycee-St-Denis,Truyes-St-Blaise,40,Loches,Truyes
+OCESN052815R0200220854,Gare de Cormery,Gare de Loches,29,Cormery,Loches
+OCESN052822R0200220864,Gare de Loches,TOURS LYCEE GRANDMONT,55,Loches,Tours
+OCESN052829R0200220872,Gare de Esvres,Gare de Loches,45,Esvres,Loches
+OCESN052832R0200220875,Gare de Tours,Reignac-Bourg-Du-Fau,74,Tours,Reignac-sur-Indre
+OCESN052834R0200220877,Gare de Loches,Truyes-Pl-Du-Souvenir,40,Loches,Truyes
+OCESN052840R0200220883,Gare de La Douzillère,Gare de Veigné,15,Esvres,Veigné
+OCESN052845R0200220890,Loches-LEP,Truyes-Pl-Du-Souvenir,25,Val d'Arry,Truyes
+OCESN052848R0200220893,Gare de Tours,Loches-LEP,80,Tours,Val d'Arry
+OCESN052850R0400420895,Gare de Cormery,Gare de Tours,43,Cormery,Tours
+OCESN052857R0200220905,Buzançais,Châteauroux-Ly-B-Pascal,59,Buzançais,Châteauroux
+OCESN052860R0200220909,Gare de Esvres,Gare de La Douzillère,20,Esvres,Esvres
+OCESN052861R0200220910,Chatillon-Mail,Châteauroux-L-Giraudoux,93,Châtillon-sur-Chalaronne,Valençay
+OCESN052868R0400420918,Chatillon-Mail,Gare de Tours,95,Châtillon-sur-Chalaronne,Tours
+OCESN052878R0400420929,Gare de Vierzon,Romorantin-BA-G.R,43,Vierzon,Millançay
+OCESN052900R0200220941,Romorantin-BA-G.R,Vierzon-Médiathèque,48,Millançay,Vierzon
+OCESN052903R0200220944,Gare de Blois-Chambord,Gare de Limeray,35,Blois,Limeray
+OCESN052931R0200220960,Gare de Châteaudun,Gare de Dourdan,90,Châteaudun,Dourdan
+OCESN052940R0200220962,Châteaudun-LEP-Paulsen,Gare de Dourdan,102,Châteaudun,Dourdan
+OCESN052941R0200220963,Chartres-Gare-Routière,Gare de Tours,159,Lyon,Tours
+OCESN052950R0200220965,Chartres-Gare-Routière,Gare de Vendôme,84,Lyon,Vendôme
+OCESN052951R0200220966,Gare de Châteaudun,Gare de Vendôme,55,Châteaudun,Vendôme
+OCESN052952R0200220967,Gare de Tours,Gare de Vendôme,65,Tours,Vendôme
+OCESN052953R0200220968,Chartres-Gare-Routière,Gare de Châteaudun,56,Lyon,Châteaudun
+OCESN052960R0200220975,Gare de Châteaudun,Gare de Tours,111,Châteaudun,Tours
+OCESN052974R0200220989,Gare de Château-Renault,Gare de Vendôme-Villiers-s-Loir,47,Chançay,Villiers-sur-Loir
+OCESN052990R0200220994,Gare de Epinal,Gare de Neufchâteau,109,Nomexy,Neufchâteau
+OCESN055002R0200221027,Gare de Neufchâteau,Gare de Vittel,45,Neufchâteau,Vittel
+OCESN055003R0200221028,Gare de Lunéville,Rambervillers (11 Nov),54,Lunéville,Rambervillers
+OCESN055069R0500521037,Gare de Lunéville,Moyen,41,Lunéville,Moyen
+OCESN055074R0200221043,Luneville-LP,Rambervillers (11 Nov),72,Lunéville,Rambervillers
+OCESN055079R0300321047,Lunéville (Cité Scolai),Rambervillers,60,Lunéville,Rambervillers
+OCESN055081R0300321049,Gare de Lunéville,Rambervillers,52,Lunéville,Rambervillers
+OCESN055081R0400421050,Lunéville (Cité Scolai),Rambervillers (11 Nov),71,Lunéville,Rambervillers
+OCESN055082R0500521051,Gare de Epinal,Mirecourt,44,Nomexy,Mirecourt
+OCESN055097R0200221067,Bruyères (Vosges),Gare de Lunéville,80,Bruyères,Lunéville
+OCESN055098R0200221068,Gare de Remiremont,Gérardmer La Mauselaine,45,Remiremont,Gérardmer
+OCESN055121R0200221088,Gare de Contrexéville,Gare de Epinal,60,Contrexéville,Nomexy
+OCESN055123R0200221090,Gare de Longwy,Gare de Metz-Ville,55,Longwy,Strasbourg
+OCESN055145R0300321106,Bussang (Gare SNCF),Gare de Remiremont,54,Rennes,Remiremont
+OCESN055203R0200221140,Bresse-Claudel (la),Gare de Remiremont,57,La Bresse,Remiremont
+OCESN055219R0200221145,Gare de Remiremont,La-Bresse (Pl Champtel),63,Remiremont,La Bresse
+OCESN055220R0200221146,Gare de Remiremont,La Bresse Le Lispach,83,Remiremont,La Bresse
+OCESN055223R0200221150,Gare de Audun-le-Roman,Gare de Thionville,40,Audun-le-Roman,Thionville
+OCESN055267R0200221181,Bitche,Gare de Sarreguemines,48,Bitche,Sarreguemines
+OCESN055403R0200221218,Bitche-Quartier-Driant,Gare de Sarreguemines,56,Bitche,Sarreguemines
+OCESN055412R0400421227,Gare de Sarrebourg,St-Louis-57-Incliné,27,Avricourt,Garrebourg
+OCESN055430R0200221246,Gare de Lutzelbourg,Gare de Sarrebourg,50,Lutzelbourg,Avricourt
+OCESN055436R0200221250,Gare de Conflans-Jarny,Gare de Metz-Ville,40,Jarny,Strasbourg
+OCESN055437R0200221251,Gare de Metz-Ville,Gare de Verdun,90,Strasbourg,Paris
+OCESN055438R0200221252,Gare de Conflans-Jarny,Gare de Verdun,45,Jarny,Paris
+OCESN055488R0200221255,Gare de Marle-sur-Serre,Lugny,5,Marle,Lugny
+OCESN078000R0200222782,Barenton-Cel,Gare de Verneuil-sur-Serre,5,Barenton-Cel,Verneuil-sur-Serre
+OCESN078001R0300322783,Barenton-sur-Serre,Gare de Verneuil-sur-Serre,5,Barenton-sur-Serre,Verneuil-sur-Serre
+OCESN078002R0200222784,Gare de Strasbourg,Gare de WOERTH RHEIN,66,Strasbourg,Allemagne
+OCESN081390F0100122797,Gare de Neustadt (Weinstr) Hbf,Gare de Wissembourg,62,Neustadt an der Weinstraße,Wissembourg
+OCESN081400F0300322805,Gare de WINDEN PFALZ,Gare de Wissembourg,16,Winden,Wissembourg
+OCESN081401F0200222806,Gare de Landau-Pfalz-Hbf,Gare de Wissembourg,28,Landau in der Pfalz,Wissembourg
+OCESN081436F0300322841,Gare de Lauterbourg,Gare de WOERTH RHEIN,15,Lauterbourg,Allemagne
+OCESN081440F0300322842,Gare de Fougères,Gare de Rennes,70,Le Controis-en-Sologne,Rennes
+OCESN082201R03003~NAV55728,Gare de Nice-Ville,Gare de Ventimiglia-Stazione,53,Nice,Ventimiglia
+OCESN086000F0700723025,Gare de Grasse,Gare de Nice-Ville,71,Vallauris,Nice
+OCESN086000F0800823026,Gare de Grasse,Gare de Ventimiglia-Stazione,127,Vallauris,Ventimiglia
+OCESN086000F0900923027,Gare de Grasse,Gare de Menton,113,Vallauris,Menton
+OCESN086004F0300323032,Gare de Menton,Gare de Nice-Ville,39,Menton,Nice
+OCESN086004F0400423031,Gare de Cannes-la-Bocca,Gare de Ventimiglia-Stazione,107,Cannes,Ventimiglia
+OCESN086005F0800823036,Gare de Cannes-la-Bocca,Gare de Menton,90,Cannes,Menton
+OCESN086007F0600623042,Gare de Les Arcs-Draguignan,Gare de Ventimiglia-Stazione,138,Les Arcs,Ventimiglia
+OCESN086011F0100123054,Gare de Les Arcs-Draguignan,Gare de Menton,118,Les Arcs,Menton
+OCESN086011F0300323055,Gare de Cannes-la-Bocca,Gare de Monaco-Monte-Carlo,73,Cannes,Monaco
+OCESN086013F0500523058,Gare de Grasse,Gare de Monaco-Monte-Carlo,99,Vallauris,Monaco
+OCESN086013F0600623059,Gare de Monaco-Monte-Carlo,Gare de Nice-Ville,24,Monaco,Nice
+OCESN086013F0900923060,Gare de Cannes,Gare de Ventimiglia-Stazione,101,Cannes,Ventimiglia
+OCESN086015F1001023069,Gare de Cannes,Gare de Monaco-Monte-Carlo,70,Cannes,Monaco
+OCESN086017F0600623076,Gare de Menton,Gare de Ventimiglia-Stazione,16,Menton,Ventimiglia
+OCESN086069F0400423178,Gare de Monaco-Monte-Carlo,Gare de Ventimiglia-Stazione,30,Monaco,Ventimiglia
+OCESN086090F0100123221,Gare de Saarbrücken /Sarrebruck,Gare de Strasbourg,102,Saarbrücken,Strasbourg
+OCESN086380F0700723234,Gare de Mommenheim,Gare de Strasbourg,15,Mommenheim,Strasbourg
+OCESN086381F1201223237,Gare de Metz-Ville,Gare de Trier-Hbf (Trèves),96,Strasbourg,Saint-Maurice-en-Trièves
+OCESN086392F0500523255,Gare de Longwy,Gare de Luxembourg,35,Longwy,Luxembourg
+OCESN086550F0300323260,Gare de Luxembourg,Gare de Rodange,27,Luxembourg,Rodange
+OCESN086562F0600623275,Gare de Perpignan,Gare de Port-Bou,59,Cases-de-Pène,Espagne
+OCESN086960F0100123299,Gare de Avignon-Centre,Gare de Port-Bou,259,Morières-lès-Avignon,Espagne
+OCESN086966F0100123305,Gare de Narbonne,Gare de Port-Bou,102,Tuchan,Espagne
+OCESN086967F0100123308,Gare de Nîmes,Gare de Port-Bou,209,Nîmes,Espagne
+OCESN086969F0400423310,Gare de Port-Bou,Gare de Toulouse-Matabiau,220,Espagne,Toulouse
+OCESN086970F0200223317,Gare de Montpellier-Saint-Roch,Gare de Port-Bou,171,Montpellier,Espagne
+OCESN086983F1301323339,Gare de Saarbrücken /Sarrebruck,Gare de Sarreguemines,29,Saarbrücken,Sarreguemines
+OCESN087154F0200223368,Gare de Offenburg,Gare de Strasbourg,32,Offenburg,Strasbourg
+OCESN087403F0200223441,Gare de Kehl,Gare de Offenburg,22,Kehl,Offenburg
+OCESN087459F0400423488,Gare de Mulhouse,Gare de Mullheim-Baden-Bf,23,Mulhouse,Müllheim im Markgräflerland
+OCESN087480F0200223503,Gare de Freiburg-Breisgau,Gare de Mulhouse,45,Mulhouse,Mulhouse
+OCESN087488F0300323515,Gare de Luxembourg,Gare de Nancy-Ville,92,Luxembourg,Nancy
+OCESN088501F0300323533,Gare de Luxembourg,Gare de Thionville,25,Luxembourg,Thionville
+OCESN088501F0600623534,Gare de Nancy-Ville,Gare de Thionville,65,Nancy,Thionville
+OCESN088503F0800823537,Gare de Bettembourg,Gare de Nancy-Ville,79,Bettembourg,Nancy
+OCESN088503F1301323536,Gare de Luxembourg,Gare de Metz-Ville,49,Luxembourg,Strasbourg
+OCESN088507F0900923553,Gare de Bettembourg,Gare de Metz-Ville,36,Bettembourg,Strasbourg
+OCESN088710F0700723816,Gare de Metz-Ville,Gare de Thionville,27,Strasbourg,Thionville
+OCESN088716F1001023828,Gare de Forbach,Gare de Saarbrücken /Sarrebruck,10,Forbach,Saarbrücken
+OCESN088821F0200224092,Gare de Metz-Ville,Gare de Saarbrücken /Sarrebruck,60,Strasbourg,Saarbrücken
+OCESN088824F0300324099,Gare de Basel-SBB,Gare de Strasbourg,89,Colombo,Strasbourg
+OCESN096151F0300324706,Gare de Basel-SBB,Gare de Sélestat,69,Colombo,SELESTAT
+OCESN096151F0400424707,Gare de Genève,Gare de Lyon-Part-Dieu,117,Chêne-Bourg,Lyon
+OCESN096500F0300324843,Gare de Bellegarde-s-V. Gare,Gare de Genève,28,Valserhône,Chêne-Bourg
+OCESN096508F0100124850,Gare de Lyon-Part-Dieu,Gare de St-Gervais-L-B-Le-Fayet,228,Lyon,Saint-Gervais-les-Bains
+OCESN096536F0200224867,Gare de Genève,Gare de Grenoble,144,Chêne-Bourg,Gières
+OCESN096601F0300324904,Gare de Genève,Gare de Valence-Ville,195,Chêne-Bourg,Valence
+OCESN096608F0900924907,Gare de St-Pierre-des-Corps,Gare de Tours,5,Saint-Pierre-des-Corps,Tours
+OCESN105330F0300324982,Gare de Mommenheim,Gare de Sarreguemines,113,Mommenheim,Sarreguemines
+OCESN400000R0200233144,Gare de Mommenheim,Gare de Saarbrücken /Sarrebruck,154,Mommenheim,Saarbrücken
+OCESN400003R0100133147,Gare de Ingwiller,Gare de Mommenheim,35,Ingwiller,Mommenheim
+OCESN400012R0200233152,Gare de Ingwiller,Gare de Strasbourg,66,Ingwiller,Strasbourg
+OCESN400013R0200233153,Gare de Roeschwoog,Gare de Strasbourg,84,Rœschwoog,Strasbourg
+OCESN400021R0200233156,Gare de Lauterbourg,Gare de Strasbourg,114,Lauterbourg,Strasbourg
+OCESN400023R0100133157,Gare de Colmar,Gare de Munster,36,Colmar,Munster
+OCESN400039R0100133173,Gare de Kehl,Gare de Strasbourg,25,Kehl,Strasbourg
+OCESN400059R0300333193,Gare de Saales,Gare de St-Dié-des-Vosges,28,Saales,Sainte-Marguerite
+OCESN400061R0300333196,Gare de Molsheim,Gare de St-Dié-des-Vosges,105,Molsheim,Sainte-Marguerite
+OCESN400061R0400433197,Gare de Rothau,Gare de St-Dié-des-Vosges,50,Rothau,Sainte-Marguerite
+OCESN400063R0500533201,Gare de Molsheim,Gare de Rothau,55,Molsheim,Rothau
+OCESN400067R0200233206,Gare de Rothau,Gare de Saales,22,Rothau,Saales
+OCESN400073R0200233216,Gare de Kruth,Gare de Thann-Saint-Jacques,28,Kruth,Thann
+OCESN400075R0200233218,Gare de Molsheim,Gare de Saales,76,Molsheim,Saales
+OCESN400078R0200233221,Gare de Thann-Saint-Jacques,Gare de Wesserling,19,Thann,Fellering
+OCESN400079R0200233222,Gare de Molsheim,Mutzig-Passage-A-Niveau,8,Molsheim,Bourbon-Lancy
+OCESN400082R0200233224,Gare de Erstein,Gare de Strasbourg,26,Erstein,Strasbourg
+OCESN400240R0200233233,Gare de Colmar,Gare de Mulhouse,50,Colmar,Mulhouse
+OCESN400241R0300333235,Gare de Bayonne,Gare de Pau,145,Bayonne,Paris
+OCESN405004R0200233394,Gare de Bayonne,Gare de Puyoô,70,Bayonne,Puyoô
+OCESN405009R0200233395,Gare de Mont-de-Marsan,Gare de Morcenx,45,Mont-de-Marsan,Morcenx
+OCESN405021R0200233396,Gare de Bordeaux-St-Jean,Gare de Mont-de-Marsan,185,Bordeaux,Mont-de-Marsan
+OCESN405024R0200233397,Gare de Lesparre,Gare de Pauillac,25,Naujac-sur-Mer,Pauillac
+OCESN405109R0300333400,Gare de Bordeaux-St-Jean,Gare de Lesparre,157,Bordeaux,Naujac-sur-Mer
+OCESN405117R0200233401,Gare de Bordeaux-St-Jean,Gare de Le-Verdon,200,Bordeaux,Le Verdon-sur-Mer
+OCESN405123R0300333404,Gare de Dax,Gare de Lourdes,170,Dax,Lourdes
+OCESN405210R0300333407,Gare de Dax,Gare de Pau,110,Dax,Paris
+OCESN405212R0300333408,Gare de Dax,Gare de Tarbes,205,Dax,Rabastens-de-Bigorre
+OCESN405275R0100133413,Gare de Arcachon,Gare de Biganos-Facture,47,Arcachon,Biganos
+OCESN405313R0200233415,Gare de Brive-la-Gaillarde,Gare de Périgueux,105,Brive-la-Gaillarde,Marsac-sur-l'Isle
+OCESN405403R0200233423,Gare de Condat-le-Lardin,Gare de Tulle,85,Le Lardin,Saint-Priest-de-Gimel
+OCESN405410R0100133424,Gare de Brive-la-Gaillarde,Gare de Condat-le-Lardin,44,Brive-la-Gaillarde,Le Lardin
+OCESN405411R0100133425,Gare de Bedous,Gare de Pau,86,Bedous,Paris
+OCESN405449R0500533453,Gare de Oloron-Ste-Marie,Gare de Pau,52,Oloron-Sainte-Marie,Paris
+OCESN405454R0200233454,Gare de Bidos,Gare de Pau,58,Richmond,Paris
+OCESN405455R0200233455,Gare de Bedous,Gare de Oloron-Ste-Marie,35,Bedous,Oloron-Sainte-Marie
+OCESN405460R0100133459,Gare de Bayonne,Gare de St-Jean-Pied-de-Port,81,Bayonne,Saint-Jean-Pied-de-Port
+OCESN405483R0100133460,Gare de Bayonne,Gare de Cambo-les-Bains,38,Bayonne,Cambo-les-Bains
+OCESN405491R0200233462,Gare de Dax,Gare de Hendaye,140,Dax,Hendaye
+OCESN405520R0300333468,Gare de Bayonne,Gare de Morcenx,105,Bayonne,Morcenx
+OCESN405525R0200233470,Gare de Bordeaux-St-Jean,Gare de Dax,170,Bordeaux,Dax
+OCESN405572R0200233472,Gare de Bergerac,Gare de Libourne,104,Cours-de-Pile,Libourne
+OCESN405608R0100133474,Gare de Libourne,Gare de St-Emilion,19,Libourne,Saint-Émilion
+OCESN405638R0200233484,Gare de Bergerac,Gare de Sarlat,94,Cours-de-Pile,Sarlat-la-Canéda
+OCESN405652R0200233485,Gare de Bordeaux-St-Jean,Gare de Langon,87,Bordeaux,Langon
+OCESN405713R0300333494,Gare de Agen,Gare de Bordeaux-St-Jean,174,Bourg-la-Reine,Bordeaux
+OCESN405758R0300333496,Gare de Agen,Gare de Périgueux,212,Bourg-la-Reine,Marsac-sur-l'Isle
+OCESN405816R0300333499,Gare de Agen,Gare de Monsempron-Libos,65,Bourg-la-Reine,Monsempron-Libos
+OCESN405874R0300333503,Gare de Commentry,Gare de Montluçon-Ville,25,Louroux-de-Bouble,Villefranche-d'Allier
+OCESN406105R0200233512,Gare de Clermont-Ferrand,Gare de Moulins-sur-Allier,165,Chamalières,Villeneuve-sur-Allier
+OCESN406400R0200233521,Gare de Clermont-Ferrand,Gare de Riom-Châtel-Guyon,25,Chamalières,Riom
+OCESN406402R0100133523,Gare de Clermont-Ferrand,Gare de Vichy,85,Chamalières,Vichy
+OCESN406403R0100133524,Gare de Gannat,Gare de Vichy,32,Gannat,Vichy
+OCESN406500R0100133526,Gare de Arvant,Gare de Brioude,12,Bournoncle-Saint-Pierre,Brioude
+OCESN406602R0200233530,Gare de Alès,Gare de Clermont-Ferrand,344,Venarey-les-Laumes,Chamalières
+OCESN406680R0300333532,Gare de Alès,Gare de Brioude,254,Venarey-les-Laumes,Brioude
+OCESN406681R0200233533,Gare de Arvant,Gare de Langeac,46,Bournoncle-Saint-Pierre,Langeac
+OCESN406685R0200233535,Gare de Arvant,Gare de Nîmes,334,Bournoncle-Saint-Pierre,Nîmes
+OCESN406687R0200233536,Gare de Aurillac,Gare de Neussargues,74,Aurillac,Neussargues-Moissac
+OCESN406805R0100133552,Gare de Aurillac,Gare de Figeac,80,Aurillac,Figeac
+OCESN406906R0200233562,Gare de Aurillac,Gare de Brive-la-Gaillarde,162,Aurillac,Brive-la-Gaillarde
+OCESN407000R0200233567,Gare de Firminy,Gare de Le Puy-en-Velay,129,Firminy,Saint-Vincent
+OCESN407107R0200233578,Gare de Le Puy-en-Velay,Gare de Vorey,41,Saint-Vincent,Vorey
+OCESN407109R0200233579,Gare de Dijon-Ville,Gare de Laroche-Migennes,216,Dijon,Migennes
+OCESN408009R0200233582,Gare de Laroche-Migennes,Gare de Tonnerre,69,Migennes,Tonnerre
+OCESN408018R0200233585,Gare de Frasne,Gare de Travers,56,Frasnes-lez-Buissenal,Val-de-Travers
+OCESN408218R0200233602,Gare de Laroche-Migennes,Gare de Montereau,148,Migennes,Montereau-Fault-Yonne
+OCESN408281R0200233605,Gare de Clamecy,Gare de Laroche-Migennes,113,Corbigny,Migennes
+OCESN408428R0200233615,Gare de Auxerre-St-Gervais,Gare de Laroche-Migennes,28,Auxerre,Migennes
+OCESN408490R0200233620,Gare de Dijon-Ville,Gare de Is-sur-Tille,65,Dijon,Marcilly-sur-Tille
+OCESN408770R0200233630,Gare de Dijon-Porte-Neuve,Gare de Is-sur-Tille,32,Dijon,Marcilly-sur-Tille
+OCESN408827R0200233632,Gare de Dijon-Ville,Gare de Seurre,98,Dijon,Seurre
+OCESN408844R0200233634,Gare de Besançon-Viotte,Gare de Dijon-Ville,164,Besançon,Dijon
+OCESN408849R0100133636,Gare de Dijon-Ville,Gare de Les Laumes-Alésia,107,Dijon,Venarey-les-Laumes
+OCESN408897R0200233637,Gare de Avallon,Gare de Laroche-Migennes,110,Avallon,Migennes
+OCESN409172R0200233654,Gare de Chagny,Gare de Montchanin,57,Chagny,Montchanin
+OCESN409210R0200233655,Gare de Decize,Gare de Luzy(Nièvre),54,Decize,Luzy
+OCESN409268R0100133658,Gare de Cosne-sur-Loire,Gare de Nevers-Le-Banlay,118,La Charité-sur-Loire,Nevers
+OCESN409402R0100133665,Gare de Nevers,Gare de Nevers-Le-Banlay,13,Nevers,Nevers
+OCESN409406R0100133667,Gare de Lyon-Perrache,Gare de Paray-le-Monial,150,Lyon,Paray-le-Monial
+OCESN409505R0200233671,Gare de Besançon-Viotte,Gare de Dole-Ville,78,Besançon,Montmirey-la-Ville
+OCESN409761R0100133672,Gare de Belfort-Ville,Gare de Vesoul,115,Belfort,Frotey-lès-Vesoul
+OCESN409858R0100133674,Gare de Besançon-Viotte,Gare de Le Valdahon,62,Besançon,Valdahon
+OCESN410017R0200233676,Gare de Luzy(Nièvre),Gare de Montchanin,68,Luzy,Montchanin
+OCESN410210R0100133688,Gare de Le Creusot,Gare de Luzy(Nièvre),54,Le Creusot,Luzy
+OCESN410273R0100133715,Gare de Bourg-en-Bresse,Gare de Lons-le-Saunier,89,Montluel,Lons-le-Saunier
+OCESN410421R0200233724,Gare de Belfort-Ville,Gare de Meroux,24,Belfort,Meroux-Moval
+OCESN410600R0200233728,Gare de Belfort-Ville,Gare de Delle,75,Belfort,Delle
+OCESN410610R0200233730,Gare de Besançon-Franche-Comté,Gare de Besançon-Viotte,23,Besançon,Besançon
+OCESN410854R0100133734,Gare de Rennes,Gare de Vitré,60,Rennes,Vitré
+OCESN411057R0200233740,Gare de Rennes,Gare de St-Brieuc,115,Rennes,Saint-Carreuc
+OCESN411121R0200233742,Gare de Montauban-de-Bretagne,Gare de Rennes,50,Montauban-de-Bretagne,Rennes
+OCESN411125R0200233744,Gare de Messac-Guipry,Gare de Rennes,75,Guipry-Messac,Rennes
+OCESN411211R0200233747,Gare de Nantes,Gare de Rennes,100,Nantes,Rennes
+OCESN411225R0100133749,Gare de Rennes,Gare de Vannes,150,Rennes,Vannes
+OCESN411232R0200233751,Gare de Messac-Guipry,Gare de Vannes,115,Guipry-Messac,Vannes
+OCESN411281R0200233754,Gare de Redon,Gare de Rennes,105,Langon,Rennes
+OCESN411282R0300333755,Gare de Beslé,Gare de Redon,35,Guémené-Penfao,Langon
+OCESN411284R0100133756,Gare de Lorient,Gare de Quimper,95,Languidic,Bannalec
+OCESN411329R0300333758,Gare de Lorient,Gare de Rosporden,65,Languidic,Rosporden
+OCESN411330R0200233759,Gare de Lorient,Gare de Vannes,80,Languidic,Vannes
+OCESN411332R0200233760,Gare de Lorient,Gare de Redon,140,Languidic,Langon
+OCESN411356R0200233764,Gare de Brest,Gare de Morlaix,85,Brest,Morlaix
+OCESN411510R0200233770,Gare de Brest,Gare de Quimper,130,Brest,Bannalec
+OCESN411616R0200233773,Gare de Landerneau,Gare de Quimper,95,Landerneau,Bannalec
+OCESN411618R0200233774,Gare de Brest,Gare de La Forest,35,Brest,Foreste
+OCESN411639R0200233782,Gare de Brest,Gare de Landerneau,45,Brest,Landerneau
+OCESN411640R0200233783,Gare de Lannion,Gare de St-Brieuc,65,Lannion,Saint-Carreuc
+OCESN411716R0200233787,Gare de Guingamp,Gare de Lannion,55,Bourbriac,Lannion
+OCESN411719R0200233790,Gare de Carhaix,Gare de Guingamp,75,Carhaix-Plouguer,Bourbriac
+OCESN411850R0200233792,Gare de Aubrais-(les),Gare de Cosne-sur-Loire,135,Fleury-les-Aubrais,La Charité-sur-Loire
+OCESN414005R0200233821,Gare de Port-de-Piles,Gare de Tours,85,La Celle-Saint-Avant,Tours
+OCESN414047R0300333827,Gare de Châteauroux,Gare de Vierzon,90,Valençay,Vierzon
+OCESN414411R0200233832,Gare de Argenton-sur-Creuse,Gare de Vierzon,130,Argenton-sur-Creuse,Vierzon
+OCESN414428R0200233833,Gare de Aubrais-(les),Gare de Toury,45,Fleury-les-Aubrais,Toury
+OCESN414511R0100133834,Gare de Bourges,Gare de Vierzon,70,Bourges,Vierzon
+OCESN414565R0200233836,Gare de Bourges,Gare de Montluçon-Ville,160,Bourges,Villefranche-d'Allier
+OCESN414909R0300333840,Gare de Port-Boulet,Gare de Tours,77,Chouzé-sur-Loire,Tours
+OCESN415126R0200233841,Gare de Aubrais-(les),Gare de Tours,160,Fleury-les-Aubrais,Tours
+OCESN415179R0600633842,Gare de Aubrais-(les),Gare de Château-Gaillard,45,Fleury-les-Aubrais,Santilly
+OCESN415512R0300333844,Gare de Romorantin-Blanc-Argent,Gare de Valençay,45,Romorantin-Lanthenay,Valençay
+OCESN415959R0400433845,Gare de Chartres,Gare de Nogent-le-Rotrou,91,Chartres,Nogent-le-Rotrou
+OCESN416002R0200233854,Gare de Chartres,Gare de La Verrière,108,Chartres,La Verrière
+OCESN416005R0300333857,Gare de Chartres,Gare de Versailles-Chantiers,110,Chartres,Versailles
+OCESN416006R0200233858,Gare de Chartres,Gare de Courtalain-St-Pellerin,90,Chartres,Arrou
+OCESN416400R0200233873,Gare de Charleville-Mézières,Gare de Givet,107,Charleville-Mézières,Givet
+OCESN417001R0200233875,Gare de Charleville-Mézières,Gare de Nouzonville,20,Charleville-Mézières,Richmond
+OCESN417101R0300333884,Gare de Charleville-Mézières,Gare de Reims,80,Charleville-Mézières,Reims
+OCESN417301R0100133887,Gare de Reims,Gare de Sedan,163,Reims,Sedan
+OCESN417322R0100133888,Gare de Charleville-Mézières,Gare de Sedan,43,Charleville-Mézières,Sedan
+OCESN417328R0100133889,Gare de Rethel,Gare de Sedan,113,Asfeld,Sedan
+OCESN417404R0100133910,Gare de Laon,Gare de Reims,110,Laon,Reims
+OCESN417951R0100133911,Gare de Chaumont,Gare de Châlons-en-Champagne,164,Chaumont,Châlons-en-Champagne
+OCESN418003R0200233913,Gare de Châlons-en-Champagne,Gare de St-Dizier,75,Châlons-en-Champagne,Bayard-sur-Marne
+OCESN418009R0300333914,Gare de Châlons-en-Champagne,Gare de Château-Thierry,105,Châlons-en-Champagne,Château-Thierry
+OCESN418400R0100133922,Gare de Dormans,Gare de Epernay,30,Dormans,Épernay
+OCESN418402R0100133924,Gare de Bar-le-Duc,Gare de Epernay,155,Bar-le-Duc,Épernay
+OCESN418405R0100133927,Gare de Bar-le-Duc,Gare de St-Dizier,35,Bar-le-Duc,Bayard-sur-Marne
+OCESN418408R0100133930,Gare de Bar-le-Duc,Gare de Châlons-en-Champagne,110,Bar-le-Duc,Châlons-en-Champagne
+OCESN418410R0100133931,Gare de Culmont-Chalindrey,Gare de Troyes,161,Culmont,Troyes
+OCESN418802R0100133932,Gare de Dijon-Ville,Gare de Troyes,145,Dijon,Troyes
+OCESN418809R0100133934,Gare de Cerbère,Gare de Perpignan,107,Cerbère,Cases-de-Pène
+OCESN423011R0200233946,Gare de Le Grau-du-Roi,Gare de Vauvert,44,Le Grau-du-Roi,Vauvert
+OCESN423013R0200233948,Gare de Le Grau-du-Roi,Gare de Nîmes,93,Le Grau-du-Roi,Nîmes
+OCESN423016R0300333952,Gare de Carcassonne,Gare de Castelnaudary,59,Carcassonne,Castelnaudary
+OCESN423021R0200233958,Gare de Narbonne,Gare de Toulouse-Matabiau,218,Tuchan,Toulouse
+OCESN423028R0200233962,Gare de Castelnaudary,Gare de Narbonne,134,Castelnaudary,Tuchan
+OCESN423030R0200233963,Gare de Alès,Gare de Génolhac,57,Venarey-les-Laumes,Génolhac
+OCESN423100R0200233964,Gare de Alès,Gare de La Bastide-St-Laurent,111,Venarey-les-Laumes,Bordeaux
+OCESN423102R0200233966,Gare de Alès,Gare de Mende,187,Venarey-les-Laumes,Manduel
+OCESN423103R0200233967,Gare de Alès,Gare de Langogne,136,Venarey-les-Laumes,Langogne
+OCESN423106R0200233970,Gare de Marvejols,Gare de Mende,48,Marvejols,Manduel
+OCESN423111R0200233973,Gare de Alès,Gare de Arvant,263,Venarey-les-Laumes,Bournoncle-Saint-Pierre
+OCESN423112R0200233974,Gare de Langogne,Gare de Nîmes,180,Langogne,Nîmes
+OCESN423125R0200233986,Gare de Mende,Gare de Nîmes,247,Manduel,Nîmes
+OCESN423133R0200233994,Gare de Marvejols,Gare de Nîmes,297,Marvejols,Nîmes
+OCESN423135R0200233996,Gare de Castelnaudary,Gare de Toulouse-Matabiau,83,Castelnaudary,Toulouse
+OCESN423323R0200234002,Gare de Perpignan,Gare de Villefranche-Vernet-l.B,64,Cases-de-Pène,Prades
+OCESN425350R0200234006,Gare de Guéret,Gare de Limoges-Bénédictins,111,Guéret,Limoges
+OCESN426054R0200234023,Gare de Le Dorat,Gare de Limoges-Bénédictins,70,Le Dorat,Limoges
+OCESN426201R0200234027,Gare de Limoges-Bénédictins,Gare de Poitiers,205,Limoges,Poitiers
+OCESN426220R0300334030,Gare de Limoges-Bénédictins,Gare de Saillat-Chassenon,91,Limoges,Saillans
+OCESN426300R0200234035,Gare de Limoges-Bénédictins,Gare de Périgueux,147,Limoges,Marsac-sur-l'Isle
+OCESN426405R0200234039,Gare de St-Yrieix-la-Perche,Pompadour,47,SAINT-YRIEIX-LA-PERCHE,Arnac-Pompadour
+OCESN426503R0200234044,Gare de Nexon,Pompadour,83,Nexon,Arnac-Pompadour
+OCESN426503R0300334045,Gare de Limoges-Bénédictins,Gare de Nexon,33,Limoges,Nexon
+OCESN426505R0200234048,Gare de Objat,Pompadour,31,Objat,Arnac-Pompadour
+OCESN426550R0200234070,Gare de Brive-la-Gaillarde,Gare de Objat,46,Brive-la-Gaillarde,Objat
+OCESN426556R0200234073,Gare de Brive-la-Gaillarde,Gare de Limoges-Bénédictins,174,Brive-la-Gaillarde,Limoges
+OCESN426708R0100134084,Gare de Limoges-Bénédictins,Gare de Ussel,192,Limoges,Maussac
+OCESN426804R0200234085,Gare de Brive-la-Gaillarde,Gare de Tulle,44,Brive-la-Gaillarde,Saint-Priest-de-Gimel
+OCESN426956R0200234092,Gare de Lunéville,Gare de Nancy-Ville,71,Lunéville,Nancy
+OCESN429009R0100134099,Gare de Epinal,Gare de Nancy-Ville,79,Nomexy,Nancy
+OCESN429011R0300334100,Gare de Longwy,Gare de Rodange,16,Longwy,Rodange
+OCESN429021R0200234101,Gare de Bening,Gare de Saarbrücken /Sarrebruck,53,Béning-lès-Saint-Avold,Saarbrücken
+OCESN429027R0200234102,Gare de Longwy,Gare de Nancy-Ville,172,Longwy,Nancy
+OCESN429069R0200234118,Gare de Conflans-Jarny,Gare de Longwy,86,Jarny,Longwy
+OCESN429071R0200234120,Gare de Nancy-Ville,Gare de Pont-St-Vincent,60,Nancy,Pontarlier
+OCESN429073R0200234121,Gare de Bar-le-Duc,Gare de Metz-Ville,138,Bar-le-Duc,Strasbourg
+OCESN429085R0200234130,Gare de Bar-le-Duc,Gare de Nancy-Ville,88,Bar-le-Duc,Nancy
+OCESN429092R0200234137,Gare de Nancy-Ville,Gare de Remiremont,160,Nancy,Remiremont
+OCESN429097R0400434141,Gare de Châlons-en-Champagne,Gare de Metz-Ville,228,Châlons-en-Champagne,Strasbourg
+OCESN429098R0200234142,Gare de Epinal,Gare de Remiremont,37,Nomexy,Remiremont
+OCESN429100R0100134144,Gare de Baroncourt,Gare de Nancy-Ville,109,Dommary-Baroncourt,Nancy
+OCESN429116R0200234151,Gare de Conflans-Jarny,Gare de Hagondange,64,Jarny,Hagondange
+OCESN429121R0200234153,Gare de Hagondange,Gare de Verdun,113,Hagondange,Paris
+OCESN429123R0200234154,Gare de Nancy-Ville,Gare de St-Dié-des-Vosges,121,Nancy,Sainte-Marguerite
+OCESN429127R0300334157,Gare de Nancy-Ville,Gare de Revigny,144,Nancy,Revigny-sur-Ornain
+OCESN429139R0100134168,Gare de Liverdun,Gare de Nancy-Ville,25,Liverdun,Nancy
+OCESN429147R0200234173,Gare de Bar-le-Duc,Gare de Toul,77,Bar-le-Duc,Toulouse
+OCESN429153R0300334178,Gare de Lunéville,Gare de St-Dié-des-Vosges,41,Lunéville,Sainte-Marguerite
+OCESN429194R0100134187,Gare de Longwy,Gare de Sedan,108,Longwy,Sedan
+OCESN429218R0100134191,Gare de Charleville-Mézières,Gare de Longwy,151,Charleville-Mézières,Longwy
+OCESN429302R0100134203,Gare de Diemeringen,Gare de Saarbrücken /Sarrebruck,75,Diemeringen,Saarbrücken
+OCESN429384R0200234221,Gare de Nancy-Ville,Gare de Verdun,108,Nancy,Paris
+OCESN429401R0200234225,Gare de Dijon-Ville,Gare de Neufchâteau,120,Dijon,Neufchâteau
+OCESN429460R0100134226,Gare de Dijon-Ville,Gare de Nancy-Ville,190,Dijon,Nancy
+OCESN429469R0200234227,Gare de Bettembourg,Gare de Luxembourg,20,Bettembourg,Luxembourg
+OCESN429500R0200234228,Gare de Millau,Gare de Rodez,85,Millau,Saint-Christophe-Vallon
+OCESN433022R0300334319,Gare de Millau,Laissac-Foirail,60,Millau,Laissac-Sévérac l'Église
+OCESN433039R0400434326,Gare de Mazamet,Gare de St-Sulpice (Tarn),103,Caucalières,Saint-Sulpice-la-Pointe
+OCESN433102R0200234330,Gare de Castres,Gare de St-Sulpice (Tarn),60,Vielmur-sur-Agout,Saint-Sulpice-la-Pointe
+OCESN433110R0300334338,Gare de Capdenac,Gare de Figeac,20,Capdenac-Gare,Figeac
+OCESN433201R0300334341,Gare de Figeac,Gare de Tessonnières,160,Figeac,Gaillac
+OCESN433202R0200234342,Gare de Aurillac,Gare de Toulouse-Matabiau,244,Aurillac,Toulouse
+OCESN433296R0200234356,Gare de Auch,Gare de L'Isle-Jourdain (Gers),51,Auch,L'isle Jourdain
+OCESN433305R0200234357,Gare de Auch,Gare de Toulouse-Matabiau,122,Auch,Toulouse
+OCESN433306R0200234358,Gare de Auch,Gare de Colomiers,94,Auch,Colomiers
+OCESN433321R0200234366,Gare de L'Isle-Jourdain (Gers),Gare de Toulouse-Matabiau,72,L'isle Jourdain,Toulouse
+OCESN433353R0200234367,Gare de Colomiers,Gare de L'Isle-Jourdain (Gers),48,Colomiers,L'isle Jourdain
+OCESN433362R0300334372,Gare de Brive-la-Gaillarde,Gare de Montauban-Ville-Bourbon,198,Brive-la-Gaillarde,Montauban
+OCESN433612R0100134373,Gare de Cahors,Gare de Montauban-Ville-Bourbon,78,Cahors,Montauban
+OCESN433614R0100134374,Gare de Boussens,Gare de Pau,183,Boussens,Paris
+OCESN433710R0500534381,Gare de Muret,Gare de Tarbes,182,Muret,Rabastens-de-Bigorre
+OCESN433717R0500534384,Gare de Boussens,Gare de Muret,93,Boussens,Muret
+OCESN433718R0400434385,Gare de Boussens,Gare de Montréjeau-Gourdan-Pol,55,Boussens,Gourdan-Polignan
+OCESN433721R0400434387,Gare de Montréjeau-Gourdan-Pol,Gare de Muret,138,Gourdan-Polignan,Muret
+OCESN433733R0300334393,Gare de Pau,Gare de Tarbes,93,Paris,Rabastens-de-Bigorre
+OCESN433746R0300334402,Gare de Lourdes,Gare de Tarbes,35,Lourdes,Rabastens-de-Bigorre
+OCESN433768R0300334412,Gare de Agen,Gare de Montauban-Ville-Bourbon,106,Bourg-la-Reine,Montauban
+OCESN433814F0100134418,Gare de Capdenac,Gare de Rodez,86,Capdenac-Gare,Saint-Christophe-Vallon
+OCESN433952R0100134422,Gare de Brive-la-Gaillarde,Gare de Capdenac,148,Brive-la-Gaillarde,Capdenac-Gare
+OCESN433952R0200234423,Gare de Cambrai Ville,Gare de St Quentin,101,Villers-Guislain,Pontarlier
+OCESN435001R0200234433,Gare de Boulogne Ville,Gare de Calais Fréthun,30,Fréthun,Fréthun
+OCESN435005R0500534435,Gare de Calais Fréthun,Gare de Rang du Fl. Verton Ber,96,Fréthun,Rang-du-Fliers
+OCESN435011R0400434439,Gare de Lille Flandres,Gare de Mouscron / Moeskroen,49,Lille,Mouscron - Moeskroen
+OCESN435012R0200234440,Gare de Douai,Gare de Lille Flandres,118,Douai,Lille
+OCESN435020R0200234448,Gare de Cambrai Ville,Gare de Valenciennes,95,Villers-Guislain,Denain
+OCESN435036R0200234462,Gare de Aulnoye Aymeries,Gare de Jeumont,50,Aulnoye-Aymeries,Jeumont
+OCESN435040R0300334466,Gare de Aulnoye Aymeries,Gare de Maubeuge,28,Aulnoye-Aymeries,Maubeuge
+OCESN435042R0200234468,Gare de Maubeuge,Gare de St Quentin,116,Maubeuge,Pontarlier
+OCESN435050R0200234476,Gare de Aulnoye Aymeries,Gare de Busigny,82,Aulnoye-Aymeries,Busigny
+OCESN435052R0200234478,Gare de Amiens,Gare de Arras,104,Amiens,Arras
+OCESN435054R0200234480,Gare de Aulnoye Aymeries,Gare de Hirson,104,Aulnoye-Aymeries,Hirson
+OCESN435056R0200234483,Gare de Lille Flandres,Gare de Valenciennes,127,Lille,Denain
+OCESN435058R0200234485,Gare de Jeumont,Gare de Maubeuge,15,Jeumont,Maubeuge
+OCESN435100R0200234532,Gare de Jeumont,Gare de Valenciennes,128,Jeumont,Denain
+OCESN435115R0200234547,Gare de Charleroi Sud,Gare de Maubeuge,60,Charleroi,Maubeuge
+OCESN435124R0300334556,Gare de Calais Ville,Gare de Hazebrouck,109,Calais,Hazebrouck
+OCESN435134R0300334566,Gare de Arras,Gare de St Pol sur Ternoise,63,Arras,Saint-Pol-sur-Ternoise
+OCESN435160R0100134586,Gare de Abbeville,Gare de Amiens,56,Abbeville,Amiens
+OCESN435163R0200234589,Gare de Arras,Gare de Lens,42,Arras,Lens
+OCESN435168R0200234594,Gare de Arras,Gare de Lille Flandres,99,Arras,Lille
+OCESN435188R0100134612,Gare de Amiens,Gare de Lille Flandres,223,Amiens,Lille
+OCESN435190R0100134614,Gare de Albert,Gare de Douai,119,Leval-Trahegnies,Douai
+OCESN435192R0200234616,Gare de Amiens,Gare de Douai,164,Amiens,Douai
+OCESN435194R0100134618,Gare de Albert,Gare de Arras,62,Leval-Trahegnies,Arras
+OCESN435214R0400434638,Gare de Dunkerque,Gare de Lille Flandres,150,Dunkerque,Lille
+OCESN437027R0100134687,Gare de Caen,Gare de Cherbourg,174,Caen,Cherbourg-en-Cotentin
+OCESN438001R0300334690,Gare de Evreux,Normandie,84,Nonancourt,Normandie
+OCESN438003R0200234693,Gare de Le Mans,Gare de Tours,133,Le Mans,Tours
+OCESN439451R0200234695,Gare de Amiens,Gare de Rouen-Rive-Droite,186,Amiens,Rouen
+OCESN441002R0300334697,Gare de La Roche-sur-Yon,Gare de La Rochelle-Ville,120,La Roche-sur-Yon,La Rochelle
+OCESN444500R0100134700,Gare de Angers-St-Laud,Gare de Sablé-sur-Sarthe,83,Angers,Juigné-sur-Sarthe
+OCESN444512R0100134707,Gare de Le Mans,Gare de Nogent-le-Rotrou,95,Le Mans,Nogent-le-Rotrou
+OCESN444514R0100134709,Gare de Connerré-Beillé,Gare de Le Mans,50,Beillé,Le Mans
+OCESN444518R0100134712,Gare de Laval,Gare de Le Mans,135,Laval,Le Mans
+OCESN444520R0100134713,Gare de Angers-St-Laud,Gare de Saumur,95,Angers,Saumur
+OCESN444528R0100134718,Gare de Angers-St-Laud,Gare de Cholet,100,Angers,Cholet
+OCESN444531R0100134721,Gare de Beauvais-Gare-SNCF,Gare de Persan-Beaumont,90,Beauvais,Persan
+OCESN447026R0200234731,Gare de Tergnier,Laon-Gare-Routière-Poma,67,Tergnier,Lambatara
+OCESN447138R0300334736,Gare de Amiens,Gare de Tergnier,159,Amiens,Tergnier
+OCESN447142R0300334737,Gare de Amiens,Gare de St Quentin,93,Amiens,Pontarlier
+OCESN447172R0200234750,Gare de Creil,Gare de Laon,171,Creil,Laon
+OCESN447222R0500534757,Gare de Creil,Laon-Gare-Routière-Poma,200,Creil,Lambatara
+OCESN447224R0300334758,Gare de St Quentin,Gare de Tergnier,28,Pontarlier,Tergnier
+OCESN447331R0700734760,Gare de Creil,Gare de St-Just-SNCF,56,Creil,De Pere
+OCESN447526R0200234793,Gare de Amiens,Gare de St-Just-SNCF,87,Amiens,De Pere
+OCESN447528R0400434794,Gare de Amiens,Gare de Creil,95,Amiens,Creil
+OCESN447573R0400434832,Gare de Abancourt,Le Tréport-Mers-Les-B,83,Abancourt,Le Tréport
+OCESN447580R0300334841,Gare de Angoulême,Gare de Poitiers,158,Angoulême,Poitiers
+OCESN450226R0200234881,Gare de La Rochelle-Ville,Gare de Saintes,98,La Rochelle,Saintes
+OCESN451200R0200234895,Gare de La-Rochelle-Pt-Dauphine,Gare de Rochefort,64,La Rochelle,Saint-Bonnet-de-Rochefort
+OCESN451202R0200234897,Gare de La Rochelle-Ville,Gare de St-Mariens-St-Yzan,184,La Rochelle,Forest - Vorst
+OCESN451203R0200234898,Gare de La Rochelle-Ville,Gare de La-Rochelle-Pt-Dauphine,9,La Rochelle,La Rochelle
+OCESN451204R0400434899,Gare de La-Rochelle-Pt-Dauphine,Gare de Saintes,133,La Rochelle,Saintes
+OCESN451208R0100134905,Gare de Niort,Gare de Saintes,95,Niort,Saintes
+OCESN451462R0100134908,Gare de Niort,Gare de Royan,139,Niort,Royan
+OCESN451467R0100134909,Gare de Angoulême,Gare de Saintes,98,Angoulême,Saintes
+OCESN451508R0100134910,Gare de Angoulême,Gare de Royan,145,Angoulême,Royan
+OCESN451509R0200234911,Gare de Breil-sur-Roya,Gare de Tende,40,Touët-de-l'Escarène,Tende
+OCESN453001R0200234916,Gare de Cannes,Gare de Grasse,50,Cannes,Vallauris
+OCESN453005R0200234920,Gare de Marseille-St-Charles,Gare de Toulon,125,Marseille,Toulon
+OCESN453006R0200234921,Gare de Les Arcs-Draguignan,Gare de St-Raphaël-Valescure,30,Les Arcs,Agou Yiboe
+OCESN453008R0300334923,Gare de Nice-Ville,Gare de Sospel,65,Nice,Sospel
+OCESN453012R0200234927,Gare de Nice-Ville,Gare de Touet-de-l'Escarène,65,Nice,Touët-de-l'Escarène
+OCESN453014R0200234929,Gare de Avignon-Centre,Gare de Miramas,100,Morières-lès-Avignon,Miramas
+OCESN453030R0200234937,Aix-Gare-Routière,Gare de Marseille-St-Charles,55,Aix-en-Provence,Marseille
+OCESN454000R0100134938,Aix-Gare-Routière,Gare de Gardanne,20,Aix-en-Provence,Gardanne
+OCESN454001R0100134939,Gare de Marseille-St-Charles,Gare de Sisteron,175,Marseille,Sisteron
+OCESN454005R0100134943,Gare de Marseille-St-Charles,Gare de Martigues,70,Marseille,Martigues
+OCESN454006R0100134944,Roanne-Gare-Routière,Saint-Etienne-Chtx GR,119,Roanne,Saint-Étienne
+OCESN456000R0100134946,Lyon-Perrache-Gare-Rout,Roanne-Gare-Routière,142,Lyon,Roanne
+OCESN457402R0100134962,Gare de Clelles-Mens,Gare de Veynes-Dévoluy,56,Clelles,Veynes
+OCESN460400R0100134969,Gare de Gap,Gare de Veynes-Dévoluy,30,Gap,Veynes
+OCESN460401R0100134970,Gare de La Roche-sur-Foron,Gare de St-Gervais-L-B-Le-Fayet,108,La Roche-sur-Foron,Saint-Gervais-les-Bains
+OCESN461008R0100134982,Gare de Annecy,Gare de La Roche-sur-Foron,55,Annecy,La Roche-sur-Foron
+OCESN461102R0200234992,Gare de Chedde,Gare de St-Gervais-L-B-Le-Fayet,10,Passy,Saint-Gervais-les-Bains
+OCESN464001R0100135035,Gare de Sarrebourg,Gare de Strasbourg,59,Avricourt,Strasbourg
+OCESN830103F0300335081,Gare de Krimmeri-Meinau,Gare de Strasbourg,7,Strasbourg,Strasbourg
+OCESN830200F0200235157,Gare de Metz-Ville,Gare de Strasbourg,86,Strasbourg,Strasbourg
+OCESN830300F0400435159,Gare de Strasbourg,Gare de Wissembourg,58,Strasbourg,Wissembourg
+OCESN830502F0300335258,Gare de Krimmeri-Meinau,Gare de Sarreguemines,92,Strasbourg,Sarreguemines
+OCESN830917F1201235539,Gare de Colmar,Gare de Strasbourg,53,Colmar,Strasbourg
+OCESN831318F0200235610,Gare de Obernai,Gare de Strasbourg,31,Obernai,Strasbourg
+OCESN831720F0200235851,Gare de St-Dié-des-Vosges,Gare de Strasbourg,112,Sainte-Marguerite,Strasbourg
+OCESN831807F0200236003,Gare de Mulhouse,Gare de Strasbourg,61,Mulhouse,Strasbourg
+OCESN832300F0300336086,Gare de Erstein,Gare de Mulhouse,53,Erstein,Mulhouse
+OCESN832303F0300336094,Gare de Mulhouse,Gare de Sélestat,40,Mulhouse,SELESTAT
+OCESN832308F2902936107,Gare de Lutterbach Tram-train,Gare de Mulhouse-Gare-Centrale,19,Lutterbach,Mulhouse
+OCESN832500F0200236292,Gare de Mulhouse-Gare-Centrale,Gare de Thann-Saint-Jacques,46,Mulhouse,Thann
+OCESN832602F0200236303,Gare de Mulhouse-Gare-Centrale,Gare de Thann,41,Mulhouse,Thann
+OCESN832604F0200236305,Gare de Mulhouse,Gare de Thann-Saint-Jacques,32,Mulhouse,Thann
+OCESN832760F0300336438,Gare de Mulhouse,Gare de Willer-sur-Thur,36,Mulhouse,Willer-sur-Thur
+OCESN832765F0200236444,Gare de Mulhouse,Gare de Thann,26,Mulhouse,Thann
+OCESN832766F0400436448,Gare de Mulhouse,Gare de Wesserling,47,Mulhouse,Fellering
+OCESN832771F0400436455,Gare de Niederbronn,Gare de Strasbourg,53,Niederbronn-les-Bains,Strasbourg
+OCESN832901F0300336568,Gare de Conflans-Jarny,Gare de Nancy-Ville,51,Jarny,Nancy
+OCESN833203F0800836633,Gare de Longuyon,Gare de Thionville,39,Longuyon,Thionville
+OCESN833308F0200236650,Gare de Longwy,Gare de Thionville,55,Longwy,Thionville
+OCESN833341F0200236653,Gare de Bar-le-Duc,Gare de Lunéville,98,Bar-le-Duc,Lunéville
+OCESN833602F0400436749,Gare de Lunéville,Gare de Revigny,108,Lunéville,Revigny-sur-Ornain
+OCESN833606F0700736755,Gare de Epernay,Gare de Nancy-Ville,123,Épernay,Nancy
+OCESN833618F1101136781,Gare de Epernay,Gare de Lunéville,165,Épernay,Lunéville
+OCESN833618F1601636779,Gare de Epernay,Gare de Metz-Ville,117,Épernay,Strasbourg
+OCESN833652F0300336809,Gare de Lunéville,Gare de Toul,68,Lunéville,Toulouse
+OCESN833661F0500536810,Gare de Epinal,Gare de Metz-Ville,120,Nomexy,Strasbourg
+OCESN834010F0800836812,Gare de Metz-Ville,Gare de Remiremont,135,Strasbourg,Remiremont
+OCESN834026F0600636832,Gare de Metz-Ville,Gare de Sarrebourg,62,Strasbourg,Avricourt
+OCESN834351F0200236965,Gare de Metz-Ville,Gare de Sarreguemines,62,Strasbourg,Sarreguemines
+OCESN834850F0100137008,Gare de Nancy-Ville,Gare de Strasbourg,89,Nancy,Strasbourg
+OCESN835010F0600637052,Gare de Lunéville,Gare de Strasbourg,67,Lunéville,Strasbourg
+OCESN835014F1001037069,Gare de Lunéville,Gare de Metz-Ville,73,Lunéville,Strasbourg
+OCESN835190F0400437220,Gare de Nancy-Ville,Gare de Toul,23,Nancy,Toulouse
+OCESN836352F0500537458,Gare de Culmont-Chalindrey,Gare de Vittel,49,Culmont,Vittel
+OCESN836402F0100137486,Gare de Paris-Est,Gare de Vittel,230,Paris,Vittel
+OCESN836404F1201237491,Gare de Charleville-Mézières,Gare de Longuyon,60,Charleville-Mézières,Longuyon
+OCESN838232F0400437701,Gare de Charleville-Mézières,Gare de Thionville,96,Charleville-Mézières,Thionville
+OCESN838234F0400437707,Gare de Champagne-Ardenne,Gare de Charleville-Mézières,71,Bezannes,Charleville-Mézières
+OCESN838340F0100137763,Gare de Champagne-Ardenne,Gare de Reims,12,Bezannes,Reims
+OCESN838342F0500537769,Gare de Château-Thierry,Gare de Reims,66,Château-Thierry,Reims
+OCESN838501F0400437819,Gare de Bar-le-Duc,Gare de Paris-Est,150,Bar-le-Duc,Paris
+OCESN839101F0100137930,Gare de Château-Thierry,Gare de Paris-Est,53,Château-Thierry,Paris
+OCESN839101F0300337926,Gare de Bar-le-Duc,Gare de Château-Thierry,95,Bar-le-Duc,Château-Thierry
+OCESN839101F1001037925,Gare de Châlons-en-Champagne,Gare de Paris-Est,101,Châlons-en-Champagne,Paris
+OCESN839106F1601637950,Gare de Paris-Est,Gare de St-Dizier,140,Paris,Bayard-sur-Marne
+OCESN839106F1701737957,Gare de Epernay,Gare de Paris-Est,84,Épernay,Paris
+OCESN839106F2002037956,Gare de Château-Thierry,Gare de St-Dizier,85,Château-Thierry,Bayard-sur-Marne
+OCESN839130F0600638014,Gare de Paris-Est,Gare de Strasbourg,359,Paris,Strasbourg
+OCESN839131F1001038023,Gare de Paris-Est,Gare de Sarrebourg,270,Paris,Avricourt
+OCESN839162F0500538088,Gare de Nancy-Ville,Gare de Paris-Est,199,Nancy,Paris
+OCESN839163F0200238094,Gare de Bar-le-Duc,Gare de Strasbourg,158,Bar-le-Duc,Strasbourg
+OCESN839163F0700738097,Gare de Paris-Est,Gare de Troyes,90,Paris,Troyes
+OCESN839400F0600638175,Gare de Culmont-Chalindrey,Gare de Paris-Est,188,Culmont,Paris
+OCESN839412F0300338207,Gare de Chaumont,Gare de Culmont-Chalindrey,33,Chaumont,Culmont
+OCESN839501F2102138232,Gare de Chaumont,Gare de Paris-Est,145,Chaumont,Paris
+OCESN839505F2202238265,Gare de Mulhouse,Gare de Paris-Est,294,Mulhouse,Paris
+OCESN839550F5505538288,Gare de Mulhouse,Gare de Troyes,182,Mulhouse,Troyes
+OCESN839550F6106138292,Gare de Chaumont,Gare de Mulhouse,137,Chaumont,Mulhouse
+OCESN839552F3203238324,Gare de Belfort-Ville,Gare de Paris-Est,247,Belfort,Paris
+OCESN839553F4704738345,Gare de Belfort-Ville,Gare de Troyes,163,Belfort,Troyes
+OCESN839555F5005038379,Gare de Longueville (S.-et-M.),Gare de Mulhouse,234,Longueville,Mulhouse
+OCESN839556F5205238394,Gare de Belfort-Ville,Gare de Chaumont,105,Belfort,Chaumont
+OCESN839558F3103138444,Gare de Dijon-Ville,Gare de Paris-Est,223,Dijon,Paris
+OCESN839584F2302338502,Gare de Culmont-Chalindrey,Gare de Dijon-Ville,46,Culmont,Dijon
+OCESN839591F0300338525,Gare de Châlons-en-Champagne,Gare de Reims,44,Châlons-en-Champagne,Reims
+OCESN839660F0200238611,Gare de Reims,Gare de St-Dizier,93,Reims,Bayard-sur-Marne
+OCESN839710F0100138643,Gare de Culmont-Chalindrey,Gare de Reims,171,Culmont,Reims
+OCESN839800F0100138647,Gare de Chaumont,Gare de Reims,130,Chaumont,Reims
+OCESN839801F0100138650,Gare de Culmont-Chalindrey,Gare de St-Dizier,89,Culmont,Bayard-sur-Marne
+OCESN839802F0300338652,Gare de Dijon-Ville,Gare de Reims,216,Dijon,Reims
+OCESN839831F0100138699,Gare de Dijon-Ville,Gare de St-Dizier,128,Dijon,Bayard-sur-Marne
+OCESN839831F0400438700,Gare de Epernay,Gare de Reims,35,Épernay,Reims
+OCESN839900F0300338718,Gare de Champagne-Ardenne,Gare de Sedan,105,Bezannes,Sedan
+OCESN840800F0400438804,Gare de Aulnoye Aymeries,Gare de Valenciennes,29,Aulnoye-Aymeries,Denain
+OCESN841500F0200239125,Gare de Maubeuge,Gare de Valenciennes,42,Maubeuge,Denain
+OCESN841500F0300339127,Gare de Hirson,Gare de Valenciennes,90,Hirson,Denain
+OCESN841600F0300339165,Gare de Busigny,Gare de Maubeuge,36,Busigny,Maubeuge
+OCESN841700F0100139198,Gare de Aulnoye Aymeries,Gare de Tergnier,71,Aulnoye-Aymeries,Tergnier
+OCESN841702F0200239200,Gare de Aulnoye Aymeries,Gare de St Quentin,48,Aulnoye-Aymeries,Pontarlier
+OCESN841704F0200239202,Gare de Lille Flandres,Gare de Maubeuge,72,Lille,Maubeuge
+OCESN841800F0700739230,Gare de Aulnoye Aymeries,Gare de Lille Flandres,60,Aulnoye-Aymeries,Lille
+OCESN841800F0800839231,Gare de Jeumont,Gare de Lille Flandres,81,Jeumont,Lille
+OCESN841802F0200239236,Gare de Hirson,Gare de Lille Flandres,108,Hirson,Lille
+OCESN841900F1201239356,Gare de Charleville-Mézières,Gare de Lille Flandres,146,Charleville-Mézières,Lille
+OCESN841904F0800839366,Gare de Béthune,Gare de Lille Flandres,39,Béthune,Lille
+OCESN842401F0200239532,Gare de Calais Ville,Gare de Rang du Fl. Verton Ber,68,Calais,Rang-du-Fliers
+OCESN842600F0200239604,Gare de Calais Ville,Gare de Etaples Le Touquet,62,Calais,Étaples
+OCESN842606F0100139608,Gare de Cambrai Ville,Gare de Douai,34,Villers-Guislain,Douai
+OCESN843300F0100139861,Gare de Douai,Gare de Valenciennes,38,Douai,Denain
+OCESN843500F0300339917,Gare de Douai,Gare de Lens,31,Douai,Lens
+OCESN843600F0100139940,Gare de Lille Flandres,Gare de St Quentin,107,Lille,Pontarlier
+OCESN843800F0300340024,Gare de Cambrai Ville,Gare de Lille Flandres,59,Villers-Guislain,Lille
+OCESN843818F0400440034,Gare de Douai,Gare de St Quentin,93,Douai,Pontarlier
+OCESN843841F0200240067,Gare de Lille Flandres,Gare de Tourcoing,14,Lille,Tourcoing
+OCESN844051F0200240199,Gare de Boulogne Ville,Gare de Lille Europe,72,Fréthun,Lille
+OCESN844400F0100140255,Gare de Calais Ville,Gare de Lille Europe,49,Calais,Lille
+OCESN844400F0200240254,Gare de Arras,Gare de Calais Fréthun,67,Arras,Fréthun
+OCESN844401F0300340256,Gare de Lille Europe,Gare de Rang du Fl. Verton Ber,94,Lille,Rang-du-Fliers
+OCESN844402F0100140258,Gare de Calais Fréthun,Gare de Lille Europe,29,Fréthun,Lille
+OCESN844404F0100140260,Gare de Dunkerque,Gare de Lille Europe,31,Dunkerque,Lille
+OCESN844500F0200240278,Gare de Amiens,Gare de Dunkerque,104,Amiens,Dunkerque
+OCESN844550F0100140299,Gare de Calais Ville,Gare de Dunkerque,50,Calais,Dunkerque
+OCESN844600F0300340301,Gare de Dunkerque,Gare de Hazebrouck,36,Dunkerque,Hazebrouck
+OCESN844702F0100140321,Gare de Lille Flandres,Gare de St Omer,50,Lille,Derby
+OCESN844800F0300340323,Gare de Calais Ville,Gare de Lille Flandres,75,Calais,Lille
+OCESN844810F0400440327,Gare de Arras,Gare de Hazebrouck,58,Arras,Hazebrouck
+OCESN846400F0300340446,Gare de Arras,Gare de Dunkerque,93,Arras,Dunkerque
+OCESN846411F0200240449,Gare de Arras,Gare de Béthune,36,Arras,Béthune
+OCESN846432F0200240474,Gare de Hazebrouck,Gare de Lens,42,Hazebrouck,Lens
+OCESN846435F0300340477,Gare de Béthune,Gare de Lens,17,Béthune,Lens
+OCESN846449F0400440507,Gare de Arras,Gare de Calais Ville,123,Arras,Calais
+OCESN846540F0100140528,Gare de Hirson,Gare de Laon,51,Hirson,Laon
+OCESN846607F0200240545,Gare de Beauvais-Gare-SNCF,Gare de Paris Gare du Nord,73,Beauvais,Paris
+OCESN847401F0300340552,Gare de Paris Gare du Nord,Gare de Persan-Beaumont,63,Paris,Persan
+OCESN847405F1901940554,Gare de Creil,Gare de Paris Gare du Nord,21,Creil,Paris
+OCESN847463F0100140680,Gare de Abancourt,Gare de Creil,103,Abancourt,Creil
+OCESN847500F0200240694,Gare de Abancourt,Gare de Beauvais-Gare-SNCF,48,Abancourt,Beauvais
+OCESN847502F0300340696,Gare de Compiègne,Gare de Paris Gare du Nord,56,Compiègne,Paris
+OCESN847802F0100140821,Gare de Compiègne,Gare de Creil,37,Compiègne,Creil
+OCESN847877F0200240926,Gare de Paris Gare du Nord,Gare de Tergnier,88,Paris,Tergnier
+OCESN847933F2102141026,Gare de Creil,Gare de St Quentin,104,Creil,Pontarlier
+OCESN847947F0200241054,Gare de Abbeville,Gare de Albert,80,Abbeville,Leval-Trahegnies
+OCESN848348F0100141087,Gare de Amiens,Gare de Compiègne,60,Amiens,Compiègne
+OCESN848410F0300341123,Gare de Paris Gare du Nord,Gare de St-Just-SNCF,64,Paris,De Pere
+OCESN848501F0200241178,Gare de Clermont-de-l'Oise,Gare de Paris Gare du Nord,50,Agnetz,Paris
+OCESN848527F0400441270,Gare de Amiens,Gare de Laon,84,Amiens,Laon
+OCESN848601F0600641435,Gare de Laon,Gare de Tergnier,26,Laon,Tergnier
+OCESN848603F0200241437,Gare de Lille Flandres,Gare de Rouen-Rive-Droite,168,Lille,Rouen
+OCESN848904F0700741615,Gare de Abancourt,Gare de Amiens,35,Abancourt,Amiens
+OCESN848979F0100141662,Gare de Aulnoye Aymeries,Gare de Laon,111,Aulnoye-Aymeries,Laon
+OCESN849300F0400441671,Gare de Laon,Gare de Paris Gare du Nord,90,Laon,Paris
+OCESN849900F0800841766,Gare de Crépy-en-Valois,Gare de Laon,69,Crépy-en-Valois,Laon
+OCESN849901F0300341767,Gare de Paris-St-Lazare,Gare de Vernon-Giverny,60,Paris,Vernon
+OCESN850016F0200241928,Gare de Oissel,Gare de Paris-St-Lazare,94,Glos-sur-Risle,Paris
+OCESN850021F0200241936,Gare de Mantes-la-Jolie,Gare de Vernon-Giverny,17,Mantes-la-Ville,Vernon
+OCESN850032F0200241937,Gare de Le Havre,Gare de Montivilliers,15,Fécamp,Montivilliers
+OCESN850200F0100141957,Gare de Le Havre,Gare de Rolleville,26,Fécamp,Rolleville
+OCESN850250F0200241998,Gare de Fécamp,Gare de Le Havre,46,Fécamp,Fécamp
+OCESN850302F0100142015,Gare de Le Havre,Gare de Rouen-Rive-Droite,61,Fécamp,Rouen
+OCESN850400F0100142047,Gare de Elbeuf-St-Aubin,Gare de Yvetot,63,Saint-Aubin-lès-Elbeuf,Yvetot
+OCESN850600F0100142071,Gare de Rouen-Rive-Droite,Gare de Yvetot,34,Rouen,Yvetot
+OCESN850670F0200242112,Gare de Evreux,Normandie,69,Nonancourt,Normandie
+OCESN851001F0100142116,Gare de Paris-St-Lazare,Gare de Serquigny,105,Paris,Serquigny
+OCESN851020F0100142181,Gare de Bueil,Gare de Mantes-la-Jolie,15,Bueil,Mantes-la-Ville
+OCESN851072F0100142240,Gare de Dieppe,Gare de Rouen-Rive-Droite,63,Dieppe,Rouen
+OCESN851700F0100142346,Gare de Evreux,Normandie,52,Nonancourt,Normandie
+OCESN852313F0100142557,Gare de Caen,Gare de Lisieux,33,Caen,Lisieux
+OCESN852331F0400442564,Gare de Caen,Gare de Coutances,75,Caen,Coutances
+OCESN852610F0100142760,Gare de Caen,Gare de St-Lô,51,Caen,Blois
+OCESN852712F0300342815,Gare de Caen,Gare de Dol,167,Caen,Dol-de-Bretagne
+OCESN852808F0500542822,Gare de Dol,Gare de Granville,59,Dol-de-Bretagne,Granville
+OCESN852826F0200242830,Gare de Argentan,Gare de Granville,83,Flers,Granville
+OCESN853016F0400442857,Gare de Caen,Gare de Granville,103,Caen,Granville
+OCESN853412F0200242859,Gare de Alençon,Gare de Caen,71,Les Ventes-de-Bourse,Caen
+OCESN853602F0200242937,Gare de Argentan,Gare de Caen,40,Flers,Caen
+OCESN853707F0400442957,Gare de Rennes,Gare de Retiers,42,Rennes,Retiers
+OCESN854007F0300342962,Gare de Janzé,Gare de Rennes,36,Janzé,Rennes
+OCESN854008F0300342963,Gare de Dol,Gare de Rennes,33,Dol-de-Bretagne,Rennes
+OCESN854197F0400442993,Gare de Montreuil-sur-Ille,Gare de Rennes,30,Montreuil-sur-Ille,Rennes
+OCESN854207F0500542994,Gare de Rennes,Gare de St-Malo,55,Rennes,Mesnil-Roc'h
+OCESN854300F0400443020,Gare de Lannion,Gare de Plouaret-Trégor,16,Lannion,Plouaret
+OCESN854610F0200243101,Gare de Callac,Gare de Carhaix,26,Callac,Carhaix-Plouguer
+OCESN855303F0200243328,Gare de Callac,Gare de Guingamp,41,Callac,Bourbriac
+OCESN855347F0200243349,Gare de Guingamp,Gare de Paimpol,47,Bourbriac,Paimpol
+OCESN855402F0200243370,Gare de La Brohinière,Gare de Rennes,32,Gaël,Rennes
+OCESN855504F0200243397,Gare de Brest,Gare de Lannion,91,Brest,Lannion
+OCESN855781F0200243600,Gare de Brest,Gare de Rennes,139,Brest,Rennes
+OCESN855806F0400443615,Gare de Quimper,Gare de Vannes,86,Bannalec,Vannes
+OCESN856595F0400443896,Gare de Quimper,Gare de Rennes,141,Bannalec,Rennes
+OCESN856608F0200243897,Gare de Château-du-Loir,Gare de Le Mans,50,Blois,Le Mans
+OCESN857051F0200243996,Gare de Alençon,Gare de Le Mans,53,Les Ventes-de-Bourse,Le Mans
+OCESN857150F0200244042,Gare de Alençon,Gare de Tours,145,Les Ventes-de-Bourse,Tours
+OCESN857233F0400444058,Gare de Alençon,Gare de Château-du-Loir,106,Les Ventes-de-Bourse,Blois
+OCESN857274F0200244064,Gare de Le Mans,Gare de Nantes,94,Le Mans,Nantes
+OCESN857301F0500544067,Gare de Angers-St-Laud,Gare de Nantes,43,Angers,Nantes
+OCESN857301F0700744068,Gare de Le Croisic,Gare de Le Mans,177,Le Croisic,Le Mans
+OCESN857375F0400444145,Gare de Angers-St-Laud,Gare de Le Mans,66,Angers,Le Mans
+OCESN857404F0200244151,Gare de Le Mans,Gare de Sablé-sur-Sarthe,22,Le Mans,Juigné-sur-Sarthe
+OCESN857446F0100144211,Gare de Laval,Gare de Rennes,55,Laval,Rennes
+OCESN857653F0200244305,Gare de Le Mans,Gare de Rennes,103,Le Mans,Rennes
+OCESN857690F0200244322,Gare de Laval,Gare de Nantes,101,Laval,Nantes
+OCESN857704F0800844332,Gare de Le Croisic,Gare de Rennes,222,Le Croisic,Rennes
+OCESN857773F0800844388,Gare de Nantes,Gare de St-Nazaire,51,Nantes,Saint-Nazaire
+OCESN858003F0200244403,Gare de Le Croisic,Gare de Nantes,74,Le Croisic,Nantes
+OCESN858050F0200244427,Gare de Nantes,Gare de Redon,58,Nantes,Langon
+OCESN858202F0400444476,Gare de Nantes,Gare de Quimper,174,Nantes,Bannalec
+OCESN858244F0200244510,Gare de Brest,Gare de Nantes,203,Brest,Nantes
+OCESN858284F0200244568,Gare de Nantes,Gare de Savenay,34,Nantes,Savenay
+OCESN858402F0200244643,Gare de Nantes,Gare de Saumur,86,Nantes,Saumur
+OCESN858703F0300344670,Gare de Cholet,Gare de Saumur,85,Cholet,Saumur
+OCESN858798F0200244675,Gare de La Roche-sur-Yon,Gare de Nantes,55,La Roche-sur-Yon,Nantes
+OCESN858800F0500544676,Gare de Les Sables-d'Olonne,Gare de Nantes,87,Les Sables-d'Olonne,Nantes
+OCESN858850F0700744697,Gare de Chantonnay,Gare de La Roche-sur-Yon,31,Chantonnay,La Roche-sur-Yon
+OCESN859070F0200244785,Gare de Les Sables-d'Olonne,Gare de Saumur,158,Les Sables-d'Olonne,Saumur
+OCESN859083F0200244796,Gare de Nantes,Gare de Ste-Pazanne,32,Nantes,Sainte-Pazanne
+OCESN859198F0100144855,Gare de Nantes,Gare de Pornic,60,Nantes,Pornic
+OCESN859252F0200244877,Gare de Ancenis,Gare de Nantes,28,Nort-sur-Erdre,Nantes
+OCESN859405F0300344948,Gare de Nantes,Gare de Sucé-Sur-Erdre,27,Nantes,Sucé-sur-Erdre
+OCESN859500F0200244971,Gare de Nantes,Gare de Nort-sur-Erdre,40,Nantes,Nort-sur-Erdre
+OCESN859501F0200244972,Gare de Châteaubriant-TT,Gare de Nantes,67,Nort-sur-Erdre,Nantes
+OCESN859600F0200245047,Gare de Clisson,Gare de Nantes,29,Clisson,Nantes
+OCESN859745F0100145095,Gare de Nantes,Gare de Orléans,170,Nantes,Orléans
+OCESN860001F0300345164,Gare de Le Croisic,Gare de Orléans,258,Le Croisic,Orléans
+OCESN860003F1301345174,Gare de Le Croisic,Gare de Tours,190,Le Croisic,Tours
+OCESN860003F2102145170,Gare de Nantes,Gare de Tours,93,Nantes,Tours
+OCESN860013F0800845188,Gare de Angers-St-Laud,Gare de Tours,78,Angers,Tours
+OCESN860109F0200245198,Gare de Saumur,Gare de Tours,51,Saumur,Tours
+OCESN860129F0200245215,Gare de Thouars,Gare de Tours,78,Thouars,Tours
+OCESN860158F0100145225,Gare de Bressuire,Gare de Tours,103,Bressuire,Tours
+OCESN860171F0100145235,Gare de Angers-St-Laud,Gare de Thouars,68,Angers,Thouars
+OCESN860190F0200245245,Gare de Blois-Chambord,Gare de Orléans,49,Blois,Orléans
+OCESN860252F0400445259,Gare de Orléans,Gare de St-Pierre-des-Corps,58,Orléans,Saint-Pierre-des-Corps
+OCESN860297F0100145275,Gare de Reignac,Gare de Tours,45,Reignac-sur-Indre,Tours
+OCESN860366F0300345299,Gare de Paris-Austerlitz,Gare de Vendôme,139,Paris,Vendôme
+OCESN860600F0200245368,Gare de Châteaudun,Gare de Paris-Austerlitz,95,Châteaudun,Paris
+OCESN860604F0200245369,Gare de Châteaudun,Gare de Paris-Gare-de-Lyon,97,Châteaudun,Paris
+OCESN860610F0500545374,Gare de Paris-Gare-de-Lyon,Gare de Vendôme,132,Paris,Vendôme
+OCESN860611F0700745377,Gare de Paris-Bercy,Gare de Vendôme,149,Paris,Vendôme
+OCESN860616F0600645387,Gare de Châteaudun,Gare de Voves,21,Châteaudun,Les Villages-Vovéens
+OCESN860632F0200245401,Gare de Tours,Gare de Voves,137,Tours,Les Villages-Vovéens
+OCESN860653F0200245410,Gare de Bléré-la-Croix,Gare de Tours,28,La Croix-en-Touraine,Tours
+OCESN860701F0200245425,Gare de St-Aignan-Noyers,Gare de Tours,57,Noyers-sur-Cher,Tours
+OCESN860716F0400445435,Gare de Tours,Gare de Vierzon,87,Tours,Vierzon
+OCESN860733F0600645446,Gare de Bourges,Gare de Tours,110,Bourges,Tours
+OCESN860800F0300345460,Gare de Nevers,Gare de Tours,146,Nevers,Tours
+OCESN860840F0400445478,Gare de Saumur,Gare de Thouars,30,Saumur,Thouars
+OCESN860988F0100145504,Gare de Montluçon-Ville,Gare de Vallon-en-Sully,31,Villefranche-d'Allier,Vallon-en-Sully
+OCESN861111F0500545516,Gare de Commentry,Gare de Vallon-en-Sully,47,Louroux-de-Bouble,Vallon-en-Sully
+OCESN861112F0500545519,Gare de Commentry,Gare de St-Amand-Montrond-Orval,98,Louroux-de-Bouble,Orval
+OCESN861112F0600645518,Gare de Bourges,Gare de Commentry,121,Bourges,Louroux-de-Bouble
+OCESN861116F0500545525,Gare de Salbris,Gare de Valençay,87,Salbris,Valençay
+OCESN861290F0200245558,Gare de Bourges,Gare de Orléans,73,Bourges,Orléans
+OCESN861302F0200245560,Gare de Orléans,Gare de Vierzon,51,Orléans,Vierzon
+OCESN861304F0400445562,Gare de Nevers,Gare de Orléans,132,Nevers,Orléans
+OCESN861363F0800845597,Gare de Nevers,Gare de Vierzon,69,Nevers,Vierzon
+OCESN861391F1701745615,Gare de Argenton-sur-Creuse,Gare de Orléans,117,Argenton-sur-Creuse,Orléans
+OCESN861404F0500545624,Gare de Châteauroux,Gare de Orléans,95,Valençay,Orléans
+OCESN861410F0700745625,Gare de Limoges-Bénédictins,Gare de Orléans,203,Limoges,Orléans
+OCESN861430F0100145665,Gare de Limoges-Bénédictins,Gare de Vierzon,129,Limoges,Vierzon
+OCESN861452F0100145681,Gare de Argenton-sur-Creuse,Gare de Limoges-Bénédictins,74,Argenton-sur-Creuse,Limoges
+OCESN861464F0800845697,Gare de Chartres,Gare de Voves,23,Chartres,Les Villages-Vovéens
+OCESN862303F0200245752,Gare de Angers-St-Laud,Gare de Chartres,163,Angers,Chartres
+OCESN862531F0300345943,Gare de Poitiers,Gare de Tours,74,Poitiers,Tours
+OCESN863031F0200245966,Gare de Niort,Gare de Poitiers,59,Niort,Poitiers
+OCESN863442F0100146049,Gare de La Rochelle-Ville,Gare de Poitiers,100,La Rochelle,Poitiers
+OCESN863442F0200246048,Gare de La Rochelle-Ville,Gare de Niort,44,La Rochelle,Niort
+OCESN863466F0100146088,Gare de La Roche-sur-Yon,Gare de Tours,199,La Roche-sur-Yon,Tours
+OCESN863720F0200246099,Gare de La Rochelle-Ville,Gare de Rochefort,30,La Rochelle,Saint-Bonnet-de-Rochefort
+OCESN864000F0100146109,Gare de Bordeaux-St-Jean,Gare de Saintes,99,Bordeaux,Saintes
+OCESN864200F0200246146,Gare de Royan,Gare de Saintes,26,Royan,Saintes
+OCESN864322F0100146152,Gare de Angoulême,Gare de La-Rochelle-Pt-Dauphine,138,Angoulême,La Rochelle
+OCESN864622F0100146207,Gare de Angoulême,Gare de La Rochelle-Ville,126,Angoulême,La Rochelle
+OCESN864623F0300346208,Gare de Bordeaux-St-Jean,Gare de La-Rochelle-Pt-Dauphine,164,Bordeaux,La Rochelle
+OCESN864800F0200246244,Gare de Bordeaux-St-Jean,Gare de La Rochelle-Ville,162,Bordeaux,La Rochelle
+OCESN864801F0100146250,Gare de Angoulême,Gare de Bordeaux-St-Jean,89,Angoulême,Bordeaux
+OCESN865010F0400446288,Gare de Bordeaux-St-Jean,Gare de Libourne,35,Bordeaux,Libourne
+OCESN865040F0400446302,Gare de Angoulême,Gare de Coutras,55,Angoulême,Saint-Hilaire-Peyroux
+OCESN865060F0300346320,Gare de Bordeaux-St-Jean,Gare de Coutras,47,Bordeaux,Saint-Hilaire-Peyroux
+OCESN865071F0400446323,Gare de Bordeaux-St-Jean,Gare de St-Mariens-St-Yzan,43,Bordeaux,Forest - Vorst
+OCESN865101F0100146345,Gare de Bordeaux-St-Jean,Gare de Brive-la-Gaillarde,143,Bordeaux,Brive-la-Gaillarde
+OCESN865202F0100146375,Gare de Bordeaux-St-Jean,Gare de Périgueux,82,Bordeaux,Marsac-sur-l'Isle
+OCESN865202F0400446374,Gare de Bordeaux-St-Jean,Gare de Condat-le-Lardin,121,Bordeaux,Le Lardin
+OCESN865202F0600646373,Gare de Bordeaux-St-Jean,Gare de Tulle,193,Bordeaux,Saint-Priest-de-Gimel
+OCESN865250F0300346387,Gare de Condat-le-Lardin,Gare de Périgueux,34,Le Lardin,Marsac-sur-l'Isle
+OCESN865411F0300346422,Gare de Mussidan,Gare de Périgueux,30,Mussidan,Marsac-sur-l'Isle
+OCESN865450F0200246451,Gare de Bordeaux-St-Jean,Gare de Limoges-Bénédictins,145,Bordeaux,Limoges
+OCESN865550F0200246458,Gare de Bergerac,Gare de Bordeaux-St-Jean,76,Cours-de-Pile,Bordeaux
+OCESN865601F0200246483,Gare de Bordeaux-St-Jean,Gare de Sarlat,144,Bordeaux,Sarlat-la-Canéda
+OCESN865702F0100146517,Gare de Bordeaux-St-Jean,Gare de Le Buisson,110,Bordeaux,Le Buisson-de-Cadouin
+OCESN865706F0400446519,Gare de Le Buisson,Gare de Périgueux,53,Le Buisson-de-Cadouin,Marsac-sur-l'Isle
+OCESN865800F0100146551,Gare de Agen,Gare de Limoges-Bénédictins,216,Bourg-la-Reine,Limoges
+OCESN865818F0100146562,Gare de Monsempron-Libos,Gare de Périgueux,104,Monsempron-Libos,Marsac-sur-l'Isle
+OCESN865820F0200246565,Gare de Bordeaux-St-Jean,Gare de Morcenx,60,Bordeaux,Morcenx
+OCESN866021F0500546607,Gare de Bordeaux-St-Jean,Gare de Pauillac,59,Bordeaux,Pauillac
+OCESN866102F0300346631,Gare de Lesparre,Gare de Pessac,72,Naujac-sur-Mer,Pessac
+OCESN866104F0300346633,Gare de Bordeaux-St-Jean,Gare de Macau,41,Bordeaux,Macau
+OCESN866171F0200246664,Gare de Macau,Gare de Pessac,34,Macau,Pessac
+OCESN866173F0200246665,Gare de Arcachon,Gare de Bordeaux-St-Jean,52,Arcachon,Bordeaux
+OCESN866300F0200246689,Gare de Biganos-Facture,Gare de Bordeaux-St-Jean,29,Biganos,Bordeaux
+OCESN866323F0700746709,Gare de Bordeaux-St-Jean,Gare de Hendaye,178,Bordeaux,Hendaye
+OCESN866411F0400446745,Gare de Bayonne,Gare de Dax,44,Bayonne,Dax
+OCESN866506F0200246772,Gare de Bayonne,Gare de Hendaye,37,Bayonne,Hendaye
+OCESN866516F0300346778,Gare de Agen,Gare de Marmande,36,Bourg-la-Reine,Sainte-Bazeille
+OCESN866832F0200246845,Gare de Bordeaux-St-Jean,Gare de Marmande,67,Bordeaux,Sainte-Bazeille
+OCESN866860F0300346854,Gare de Agen,Gare de Langon,69,Bourg-la-Reine,Langon
+OCESN866882F0300346861,Gare de Bayonne,Gare de Tarbes,145,Bayonne,Rabastens-de-Bigorre
+OCESN867002F0400446865,Gare de Bordeaux-St-Jean,Gare de Pau,132,Bordeaux,Paris
+OCESN867168F0100146889,Gare de Bordeaux-St-Jean,Gare de Tarbes,188,Bordeaux,Rabastens-de-Bigorre
+OCESN867180F0300346891,Gare de Bordeaux-St-Jean,Gare de Lourdes,174,Bordeaux,Lourdes
+OCESN867212F0300346894,Gare de Le Dorat,Gare de Poitiers,60,Le Dorat,Poitiers
+OCESN868003F0500546986,Gare de Limoges-Bénédictins,Gare de St-Junien,38,Limoges,SAINT JUNIEN
+OCESN868101F0100147043,Gare de Limoges-Bénédictins,Gare de St-Yrieix-la-Perche,39,Limoges,SAINT-YRIEIX-LA-PERCHE
+OCESN868301F0100147111,Gare de Eymoutiers-Vassiviere,Gare de Limoges-Bénédictins,45,Eymoutiers,Limoges
+OCESN868650F0100147258,Gare de Limoges-Bénédictins,Gare de Montluçon-Ville,131,Limoges,Villefranche-d'Allier
+OCESN868701F0100147264,Gare de Felletin-Gare,Gare de Guéret,52,Felletin,Guéret
+OCESN868710F0100147271,Gare de Bordeaux-St-Jean,Gare de Montluçon-Ville,259,Bordeaux,Villefranche-d'Allier
+OCESN868800F0200247299,Gare de Bordeaux-St-Jean,Gare de Guéret,208,Bordeaux,Guéret
+OCESN868800F0700747298,Gare de Bordeaux-St-Jean,Gare de Ussel,262,Bordeaux,Maussac
+OCESN868812F0100147316,Gare de Périgueux,Gare de Ussel,169,Marsac-sur-l'Isle,Maussac
+OCESN868819F0100147320,Gare de La Souterraine,Gare de Limoges-Bénédictins,47,La Souterraine,Limoges
+OCESN869001F1001047334,Gare de Châteauroux,Gare de Limoges-Bénédictins,86,Valençay,Limoges
+OCESN869010F0100147342,Gare de Rodez,Gare de Toulouse-Matabiau,137,Saint-Christophe-Vallon,Toulouse
+OCESN870000F0200247406,Gare de Carmaux,Gare de Toulouse-Matabiau,76,Carmaux,Toulouse
+OCESN870003F0700747411,Gare de Brive-la-Gaillarde,Gare de Rodez,145,Brive-la-Gaillarde,Saint-Christophe-Vallon
+OCESN870150F0900947472,Gare de Colomiers,Gare de Toulouse-Matabiau,22,Colomiers,Toulouse
+OCESN870321F0400447545,Gare de L'Isle-Jourdain (Gers),Gare de Saint-Cyprien-Arènes,33,L'isle Jourdain,Toulouse
+OCESN870405F0800847554,Gare de Colomiers,Gare de Saint-Cyprien-Arènes,13,Colomiers,Toulouse
+OCESN870500F0200247569,Gare de Carcassonne,Gare de Toulouse-Matabiau,74,Carcassonne,Toulouse
+OCESN870604F0300347622,Gare de Capdenac,Gare de Toulouse-Matabiau,137,Capdenac-Gare,Toulouse
+OCESN871201F0300347639,Gare de Tessonnières,Gare de Toulouse-Matabiau,53,Gaillac,Toulouse
+OCESN871202F0600647641,Gare de Aurillac,Gare de Clermont-Ferrand,152,Aurillac,Chamalières
+OCESN871206F0700747650,Gare de Arvant,Gare de Clermont-Ferrand,47,Bournoncle-Saint-Pierre,Chamalières
+OCESN871209F0900947657,Gare de Pamiers,Gare de Toulouse-Matabiau,57,Pamiers,Toulouse
+OCESN871405F0700747674,Gare de Latour-de-Carol-Enveitg,Gare de Toulouse-Matabiau,174,Enveitg,Toulouse
+OCESN871470F0400447721,Gare de Foix,Gare de Latour-de-Carol-Enveitg,105,Vitry-sur-Seine,Enveitg
+OCESN871470F0700747720,Gare de Brive-la-Gaillarde,Gare de Toulouse-Matabiau,147,Brive-la-Gaillarde,Toulouse
+OCESN871600F0500547750,Gare de Cahors,Gare de Toulouse-Matabiau,74,Cahors,Toulouse
+OCESN871601F0100147754,Gare de Montauban-Ville-Bourbon,Gare de Toulouse-Matabiau,43,Montauban,Toulouse
+OCESN871604F0300347759,Gare de Brive-la-Gaillarde,Gare de Cahors,66,Brive-la-Gaillarde,Cahors
+OCESN871608F0400447764,Gare de Agen,Gare de Toulouse-Matabiau,81,Bourg-la-Reine,Toulouse
+OCESN871800F0300347799,Gare de St-Sulpice (Tarn),Gare de Toulouse-Matabiau,24,Saint-Sulpice-la-Pointe,Toulouse
+OCESN872404F0600647877,Gare de Muret,Gare de Toulouse-Matabiau,19,Muret,Toulouse
+OCESN872600F0500547912,Gare de Boussens,Gare de Toulouse-Matabiau,58,Boussens,Toulouse
+OCESN872602F0800847916,Gare de Montréjeau-Gourdan-Pol,Gare de Toulouse-Matabiau,86,Gourdan-Polignan,Toulouse
+OCESN872613F0700747941,Gare de Tarbes,Gare de Toulouse-Matabiau,109,Rabastens-de-Bigorre,Toulouse
+OCESN872701F1901947979,Gare de Clermont-Ferrand,Gare de Durtol-Nohanent,13,Chamalières,Durtol
+OCESN873245F0200248171,Gare de Clermont-Ferrand,Gare de St-Germain-des-Fossés,40,Chamalières,Saint-Germain Des Fossés
+OCESN873351F0900948230,Gare de Clermont-Ferrand,Gare de Nevers,106,Chamalières,Nevers
+OCESN873352F0500548231,Gare de Clermont-Ferrand,Gare de Vic-le-Comte,21,Chamalières,Vic-le-Comte
+OCESN873600F0200248257,Gare de Brioude,Gare de Clermont-Ferrand,67,Brioude,Chamalières
+OCESN873650F0800848273,Gare de Clermont-Ferrand,Gare de Issoire,40,Chamalières,Issoire
+OCESN873664F0500548280,Gare de Clermont-Ferrand,Gare de Le Lioran,111,Chamalières,Laveissière
+OCESN873813F0200248332,Gare de Brive-la-Gaillarde,Gare de Neussargues,168,Brive-la-Gaillarde,Neussargues-Moissac
+OCESN873921F0400448351,Gare de Clermont-Ferrand,Gare de Nîmes,307,Chamalières,Nîmes
+OCESN873990F0300348362,Gare de Nevers,Gare de Vic-le-Comte,124,Nevers,Vic-le-Comte
+OCESN874002F1201248372,Gare de Moulins-sur-Allier,Gare de Vic-le-Comte,92,Villeneuve-sur-Allier,Vic-le-Comte
+OCESN874002F1901948373,Gare de St-Germain-des-Fossés,Gare de Vic-le-Comte,66,Saint-Germain Des Fossés,Vic-le-Comte
+OCESN874009F0900948388,Gare de Issoire,Gare de Moulins-sur-Allier,113,Issoire,Villeneuve-sur-Allier
+OCESN874108F0500548392,Gare de Issoire,Gare de Riom-Châtel-Guyon,57,Issoire,Riom
+OCESN874110F0400448395,Gare de Riom-Châtel-Guyon,Gare de Vic-le-Comte,38,Riom,Vic-le-Comte
+OCESN874111F0300348396,Gare de Issoire,Gare de St-Germain-des-Fossés,88,Issoire,Saint-Germain Des Fossés
+OCESN874123F0400448401,Gare de Gannat,Gare de Issoire,81,Gannat,Issoire
+OCESN874130F0500548407,Gare de Gannat,Gare de Vic-le-Comte,66,Gannat,Vic-le-Comte
+OCESN874131F0500548409,Gare de Brioude,Gare de Gannat,100,Brioude,Gannat
+OCESN874210F0300348410,Gare de Brioude,Gare de Moulins-sur-Allier,149,Brioude,Villeneuve-sur-Allier
+OCESN874221F0800848412,Gare de Clermont-Ferrand,Gare de Dijon-Ville,260,Chamalières,Dijon
+OCESN875500F1101148421,Gare de Dijon-Ville,Gare de Moulins-sur-Allier,178,Dijon,Villeneuve-sur-Allier
+OCESN875500F1801848422,Gare de Clermont-Ferrand,Gare de Lyon-Perrache,171,Chamalières,Lyon
+OCESN875700F0900948434,Gare de Narbonne,Gare de Perpignan,46,Tuchan,Cases-de-Pène
+OCESN876100F0200248467,Gare de Lunel,Gare de Narbonne,100,Lunel-Viel,Tuchan
+OCESN876102F0300348469,Gare de Montpellier-Saint-Roch,Gare de Narbonne,71,Montpellier,Tuchan
+OCESN876108F0200248476,Gare de Cerbère,Gare de Narbonne,87,Cerbère,Tuchan
+OCESN876119F0200248477,Gare de Montpellier-Saint-Roch,Gare de Perpignan,130,Montpellier,Cases-de-Pène
+OCESN876121F0200248480,Gare de Nîmes,Gare de Toulouse-Matabiau,210,Nîmes,Toulouse
+OCESN876204F0500548493,Gare de Montpellier-Saint-Roch,Gare de Toulouse-Matabiau,176,Montpellier,Toulouse
+OCESN876204F0800848490,Gare de Carcassonne,Gare de Narbonne,36,Carcassonne,Tuchan
+OCESN876216F0200248506,Gare de Carcassonne,Gare de Nîmes,140,Carcassonne,Nîmes
+OCESN876224F0100148510,Gare de Perpignan,Gare de Toulouse-Matabiau,154,Cases-de-Pène,Toulouse
+OCESN876250F0700748513,Gare de Cerbère,Gare de Toulouse-Matabiau,199,Cerbère,Toulouse
+OCESN876252F0300348519,Gare de Carcassonne,Gare de Perpignan,91,Carcassonne,Cases-de-Pène
+OCESN876254F0100148527,Gare de Avignon-Centre,Gare de Sète,109,Morières-lès-Avignon,Sète
+OCESN876301F1301348553,Gare de Montpellier-Saint-Roch,Gare de Nîmes,43,Montpellier,Nîmes
+OCESN876301F1401448555,Gare de Avignon-Centre,Gare de Montpellier-Saint-Roch,76,Morières-lès-Avignon,Montpellier
+OCESN876302F0600648557,Gare de Avignon-Centre,Gare de Narbonne,144,Morières-lès-Avignon,Tuchan
+OCESN876304F1501548566,Gare de Nîmes,Gare de Sète,66,Nîmes,Sète
+OCESN876309F0400448572,Gare de Lunel,Gare de Sète,54,Lunel-Viel,Sète
+OCESN876330F0400448600,Gare de Montpellier-Saint-Roch,Gare de Sète,23,Montpellier,Sète
+OCESN876334F0100148601,Gare de Lunel,Gare de Montpellier-Saint-Roch,20,Lunel-Viel,Montpellier
+OCESN876335F0200248602,Gare de Avignon-Centre,Gare de Nîmes,37,Morières-lès-Avignon,Nîmes
+OCESN876400F0300348616,Gare de Nîmes,Gare de Perpignan,160,Nîmes,Cases-de-Pène
+OCESN876401F0900948621,Gare de Narbonne,Gare de Nîmes,98,Tuchan,Nîmes
+OCESN876405F2202248643,Gare de Cerbère,Gare de Nîmes,197,Cerbère,Nîmes
+OCESN876406F1001048646,Gare de Avignon-Centre,Gare de Perpignan,196,Morières-lès-Avignon,Cases-de-Pène
+OCESN876407F0400448657,Gare de Avignon-Centre,Gare de Cerbère,238,Morières-lès-Avignon,Cerbère
+OCESN876408F2502548664,Gare de Béziers,Gare de Marseille-St-Charles,171,Béziers,Marseille
+OCESN876530F0900948772,Gare de Marseille-St-Charles,Gare de Narbonne,188,Marseille,Tuchan
+OCESN876532F2102148779,Gare de Marseille-St-Charles,Gare de Montpellier-Saint-Roch,119,Marseille,Montpellier
+OCESN876542F3003048800,Gare de Cerbère,Gare de Montpellier-Saint-Roch,154,Cerbère,Montpellier
+OCESN876604F0700748840,Gare de Génolhac,Gare de Nîmes,77,Génolhac,Nîmes
+OCESN877500F0400448869,Gare de La Bastide-St-Laurent,Gare de Nîmes,114,Bordeaux,Nîmes
+OCESN877527F0600648902,Gare de Nîmes,Gare de Vauvert,24,Nîmes,Vauvert
+OCESN877550F0600648916,Gare de Béziers,Gare de St-Chély-d'Apcher,244,Béziers,Saint-Chély-d'Apcher
+OCESN878950F0500548989,Gare de Béziers,Gare de Millau,117,Béziers,Millau
+OCESN878950F0700748990,Gare de Millau,Gare de St-Chély-d'Apcher,111,Millau,Saint-Chély-d'Apcher
+OCESN878956F0200248993,Gare de Montpellier-Saint-Roch,Gare de St-Chély-d'Apcher,297,Montpellier,Saint-Chély-d'Apcher
+OCESN878969F0400449003,Gare de Marseille-St-Charles,Gare de Miramas,33,Marseille,Miramas
+OCESN879102F0300349012,Gare de Avignon-Centre,Gare de Orange,26,Morières-lès-Avignon,Orange
+OCESN879218F0200249021,Gare de Avignon-Centre,Gare de Avignon-TGV,5,Morières-lès-Avignon,Avignon
+OCESN879301F0200249023,Gare de Avignon-Centre,Gare de Carpentras,28,Morières-lès-Avignon,Carpentras
+OCESN879302F0200249024,Gare de Avignon-TGV,Gare de Carpentras,41,Avignon,Carpentras
+OCESN879305F0200249030,Gare de Avignon-TGV,Gare de Marseille-St-Charles,133,Avignon,Marseille
+OCESN879606F1001049186,Gare de Cavaillon,Gare de Marseille-St-Charles,70,Cavaillon,Marseille
+OCESN879660F0100149261,Gare de Gardanne,Gare de Marseille-St-Charles,36,Gardanne,Marseille
+OCESN880106F0500549348,Gare de Aix-en-Provence,Gare de Manosque-Gréoux,45,Aix-en-Provence,Manosque
+OCESN880670F0200249467,Gare de Manosque-Gréoux,Gare de Marseille-St-Charles,95,Manosque,Marseille
+OCESN880671F0300349469,Gare de Aubagne,Gare de Marseille-St-Charles,31,Aubagne,Marseille
+OCESN881005F0400449474,Gare de Aubagne,Gare de Marseille-Blancarde,22,Aubagne,Marseille
+OCESN881060F0300349503,Gare de Cannes,Gare de Menton,69,Cannes,Menton
+OCESN881106F0100149530,Gare de Antibes,Gare de Grasse,41,Antibes,Vallauris
+OCESN881139F0200249555,Gare de Cannes,Gare de Les Arcs-Draguignan,55,Cannes,Les Arcs
+OCESN881251F0300349560,Gare de Cannes,Gare de St-Raphaël-Valescure,38,Cannes,Agou Yiboe
+OCESN881270F0200249568,Gare de Hyères,Gare de Marseille-St-Charles,84,Hyères,Marseille
+OCESN881600F0100149625,Gare de Hyères,Gare de Toulon,21,Hyères,Toulon
+OCESN881646F0500549709,Gare de Les Arcs-Draguignan,Gare de Toulon,60,Les Arcs,Toulon
+OCESN881652F0300349716,Gare de Carnoules,Gare de Toulon,31,Carnoules,Toulon
+OCESN881669F0500549733,Gare de Marseille-St-Charles,Gare de Menton,205,Marseille,Menton
+OCESN881751F0500549749,Gare de Ambérieu-en-Bugey,Gare de Mâcon-Ville,54,Ambérieu-en-Bugey,Mâcon
+OCESN882103F0200249751,Gare de Ambérieu-en-Bugey,Gare de Bourg-en-Bresse,23,Ambérieu-en-Bugey,Montluel
+OCESN882106F0200249754,Gare de Bourg-en-Bresse,Gare de Mâcon-Ville,29,Montluel,Mâcon
+OCESN882110F0200249756,Gare de Chambéry-Chal.-les-Eaux,Gare de Moûtiers-Salins-Brides,80,Chambéry,Moûtiers
+OCESN883103F0400449775,Gare de Aix-les-Bains-le-Revard,Gare de Bourg-St-Maurice,129,Lovagny,Bourg-Saint-Maurice
+OCESN883115F0400449778,Gare de Ambérieu-en-Bugey,Gare de Chambéry-Chal.-les-Eaux,73,Ambérieu-en-Bugey,Chambéry
+OCESN883600F0200249926,Gare de Chambéry-Chal.-les-Eaux,Gare de Grenoble,53,Chambéry,Gières
+OCESN883701F0200249938,Gare de Annecy,Gare de St-Gervais-L-B-Le-Fayet,97,Annecy,Saint-Gervais-les-Bains
+OCESN884117F0300349977,Gare de Bellegarde-s-V. Gare,Gare de La Roche-sur-Foron,65,Valserhône,La Roche-sur-Foron
+OCESN884608F0700750018,Gare de Grenoble U.-Gières,Gare de Valence-Ville,97,Gières,Valence
+OCESN885100F0300350078,Gare de Grenoble U.-Gières,Gare de St-Marcellin,53,Gières,Marcellina
+OCESN885103F0200250079,Gare de St-Marcellin,Gare de Valence-Ville,39,Marcellina,Valence
+OCESN885104F0200250080,Gare de Grenoble,Gare de St-Marcellin,40,Gières,Marcellina
+OCESN885111F0200250083,Gare de Grenoble U.-Gières,Gare de Rives,43,Gières,Rives
+OCESN885401F0500550114,Gare de Grenoble U.-Gières,Gare de St-André-le-Gaz,69,Gières,Saint-André-le-Gaz
+OCESN885409F0200250117,Gare de Grenoble,Gare de St-André-le-Gaz,62,Gières,Saint-André-le-Gaz
+OCESN885413F0400450120,Gare de Grenoble,Gare de Rives,30,Gières,Rives
+OCESN885456F0400450135,Gare de Gap,Gare de Grenoble,181,Gap,Gières
+OCESN885601F0200250144,Gare de Clelles-Mens,Gare de Grenoble,71,Clelles,Gières
+OCESN885601F0300350143,Gare de Grenoble,Gare de Veynes-Dévoluy,134,Gières,Veynes
+OCESN885605F0600650145,Gare de Chambéry-Chal.-les-Eaux,Gare de Rives,90,Chambéry,Rives
+OCESN885735F0600650201,Gare de Lyon-Part-Dieu,Gare de Mâcon-Ville,62,Lyon,Mâcon
+OCESN886003F0300350227,Gare de Lyon-Perrache,Gare de Mâcon-Ville,60,Lyon,Mâcon
+OCESN886007F0300350228,Gare de Lyon-Perrache,Gare de Valence-Ville,70,Lyon,Valence
+OCESN886102F0200250248,Gare de Lyon-Part-Dieu,Gare de Valence-Ville,71,Lyon,Valence
+OCESN886105F0200250254,Gare de Mâcon-Ville,Gare de Valence-Ville,138,Mâcon,Valence
+OCESN886111F0300350266,Gare de Marseille-St-Charles,Gare de Valence-Ville,145,Marseille,Valence
+OCESN886170F0500550345,Gare de Mâcon-Ville,Gare de Pierrelatte,189,Mâcon,Pierrelatte
+OCESN886172F0400450353,Gare de Avignon-Centre,Gare de Mâcon-Ville,235,Morières-lès-Avignon,Mâcon
+OCESN886174F0700750356,Gare de Avignon-Centre,Gare de Valence-Ville,89,Morières-lès-Avignon,Valence
+OCESN886175F0700750362,Gare de Avignon-Centre,Gare de Lyon-Perrache,168,Morières-lès-Avignon,Lyon
+OCESN886176F0600650366,Gare de Firminy,Gare de Lyon-Perrache,82,Firminy,Lyon
+OCESN886201F0600650414,Gare de Firminy,Gare de St-Etienne-Châteaucreux,22,Firminy,Saint-Étienne
+OCESN886201F1001050412,Gare de Lyon-Perrache,Gare de St-Etienne-Châteaucreux,55,Lyon,Saint-Étienne
+OCESN886233F0700750473,Gare de Givors-Ville,Gare de Lyon-Perrache,25,Givors,Lyon
+OCESN886295F0200250552,Gare de Bourg-en-Bresse,Gare de Oyonnax,53,Montluel,Oyonnax
+OCESN886401F0200250553,Gare de Lyon-Perrache,Gare de Oyonnax,130,Lyon,Oyonnax
+OCESN886407F0600650559,Gare de Bourg-en-Bresse,Gare de Lyon-Perrache,65,Montluel,Lyon
+OCESN886415F0100150564,Gare de Bourg-en-Bresse,Gare de Lyon-Part-Dieu,42,Montluel,Lyon
+OCESN886461F0200250566,Gare de Lyon-Perrache,Gare de Roanne,89,Lyon,Bully
+OCESN886602F0100150569,Gare de Ambérieu-en-Bugey,Gare de St-Etienne-Châteaucreux,97,Ambérieu-en-Bugey,Saint-Étienne
+OCESN886700F0500550628,Gare de Ambérieu-en-Bugey,Gare de Givors-Ville,64,Ambérieu-en-Bugey,Givors
+OCESN886702F0800850635,Gare de Lyon-Part-Dieu,Gare de St-Etienne-Châteaucreux,46,Lyon,Saint-Étienne
+OCESN886710F0800850648,Gare de Givors-Ville,Gare de Lyon-Part-Dieu,17,Givors,Lyon
+OCESN886710F1501550647,Gare de Ambérieu-en-Bugey,Gare de Lyon-Part-Dieu,41,Ambérieu-en-Bugey,Lyon
+OCESN886726F0900950677,Gare de Roanne,Gare de St-Etienne-Châteaucreux,73,Bully,Saint-Étienne
+OCESN886900F0200250872,Gare de Lyon-Perrache,Gare de Vienne,34,Lyon,Poitiers
+OCESN887101F0200250909,Gare de Vienne,Gare de Villefranche-sur-Saône,74,Poitiers,Villefranche-sur-Saône
+OCESN887102F0200250910,Gare de Mâcon-Ville,Gare de Vienne,98,Mâcon,Poitiers
+OCESN887103F0300350911,Gare de Lyon-Perrache,Gare de Villefranche-sur-Saône,36,Lyon,Villefranche-sur-Saône
+OCESN887103F0400450912,Gare de Lyon-Perrache,Gare de St-André-le-Gaz,56,Lyon,Saint-André-le-Gaz
+OCESN887300F0400450987,Gare de Bourgoin-Jallieu,Gare de Lyon-Perrache,37,Bourgoin-Jallieu,Lyon
+OCESN887302F0400450989,Gare de Die,Gare de Romans-Bourg-de-Péage,83,Saint-Dié-des-Vosges,Romans-sur-Isère
+OCESN889200F0300351037,Gare de Lyon-Perrache,Gare de Sathonay-Rillieux,19,Lyon,Sathonay-Camp
+OCESN889409F1001051050,Gare de Montbrison,Gare de St-Etienne-Châteaucreux,40,Montbrison,Saint-Étienne
+OCESN889901F0200251142,Gare de Boën,Gare de St-Etienne-Châteaucreux,53,Boën-sur-Lignon,Saint-Étienne
+OCESN889905F0200251146,Gare de Le Puy-en-Velay,Gare de St-Etienne-Châteaucreux,113,Saint-Vincent,Saint-Étienne
+OCESN889950F0200251173,Gare de Bas-Monistrol,Gare de St-Etienne-Châteaucreux,55,Bas-en-Basset,Saint-Étienne
+OCESN889990F0200251219,Gare de Lyon-St-Paul,Gare de Sain-Bel,42,Caluire-et-Cuire,Sainte-Anne-de-Bellevue
+OCESN890000F0200251226,Gare de L'Arbresle,Gare de Lyon-St-Paul,37,L'Arbresle,Caluire-et-Cuire
+OCESN890004F0200251230,Gare de Lozanne,Gare de Tassin,25,Lozanne,Tassin-la-Demi-Lune
+OCESN890200F0200251308,Gare de Brignais,Gare de Lyon-St-Paul,25,Brignais,Caluire-et-Cuire
+OCESN890300F0200251328,Gare de Laroche-Migennes,Gare de Paris-Gare-de-Lyon,125,Migennes,Paris
+OCESN891000F0800851371,Gare de Montereau,Gare de Paris-Gare-de-Lyon,57,Montereau-Fault-Yonne,Paris
+OCESN891003F1001051378,Gare de Laroche-Migennes,Gare de Paris-Bercy,124,Migennes,Paris
+OCESN891024F0400451438,Gare de Corbigny,Gare de Paris-Bercy,213,Corbigny,Paris
+OCESN891200F0900951550,Gare de Corbigny,Gare de Paris-Gare-de-Lyon,215,Corbigny,Paris
+OCESN891200F2202251554,Gare de Auxerre-St-Gervais,Gare de Paris-Bercy,105,Auxerre,Paris
+OCESN891204F1201251557,Gare de Clamecy,Gare de Paris-Bercy,165,Corbigny,Paris
+OCESN891204F2002051567,Gare de Clamecy,Gare de Paris-Gare-de-Lyon,159,Corbigny,Paris
+OCESN891204F2702751556,Gare de Avallon,Gare de Paris-Bercy,158,Avallon,Paris
+OCESN891206F0800851575,Gare de Avallon,Gare de Paris-Gare-de-Lyon,160,Avallon,Paris
+OCESN891206F1501551577,Gare de Auxerre-St-Gervais,Gare de Paris-Gare-de-Lyon,119,Auxerre,Paris
+OCESN891221F0700751602,Gare de Auxerre-St-Gervais,Gare de Dijon-Ville,114,Auxerre,Dijon
+OCESN891350F0600651732,Gare de Chalon-sur-Saône,Gare de Dijon-Ville,43,Allerey-sur-Saône,Dijon
+OCESN891400F0200251766,Gare de Is-sur-Tille,Gare de Les Laumes-Alésia,76,Marcilly-sur-Tille,Venarey-les-Laumes
+OCESN891751F0300351843,Gare de Bourg-en-Bresse,Gare de Dijon-Ville,102,Montluel,Dijon
+OCESN891800F0500551854,Gare de Chalon-sur-Saône,Gare de Mâcon-Ville,39,Allerey-sur-Saône,Mâcon
+OCESN891981F0400451902,Gare de Corbigny,Gare de Laroche-Migennes,113,Corbigny,Migennes
+OCESN892400F0200251922,Gare de Dijon-Ville,Gare de Montchanin,45,Dijon,Montchanin
+OCESN893003F0700751967,Gare de Dijon-Ville,Gare de Le Creusot,53,Dijon,Le Creusot
+OCESN893009F0900951979,Gare de Autun,Gare de Dijon-Ville,91,Torcy,Dijon
+OCESN893020F0300352003,Gare de Chalon-sur-Saône,Gare de Montchanin,39,Allerey-sur-Saône,Montchanin
+OCESN893051F0300352024,Gare de Etang,Gare de Montchanin,30,Verneuil-l'Étang,Montchanin
+OCESN893080F0200252057,Gare de Autun,Gare de Nevers,94,Torcy,Nevers
+OCESN893201F0300352115,Gare de Montchanin,Gare de Paray-le-Monial,43,Montchanin,Paray-le-Monial
+OCESN893301F0200252132,Gare de Decize,Gare de Moulins-sur-Allier,75,Decize,Villeneuve-sur-Allier
+OCESN893610F0300352155,Gare de Cosne-sur-Loire,Gare de Nevers,48,La Charité-sur-Loire,Nevers
+OCESN893750F0200252161,Gare de Cosne-sur-Loire,Gare de Decize,89,La Charité-sur-Loire,Decize
+OCESN893760F0400452179,Gare de Belfort-Ville,Gare de Besançon-Viotte,71,Belfort,Besançon
+OCESN894000F0300352200,Gare de Dijon-Ville,Gare de Dole-Ville,28,Dijon,Montmirey-la-Ville
+OCESN894200F0500552239,Gare de Belfort-Ville,Gare de Epinal,92,Belfort,Nomexy
+OCESN894602F0200252398,Gare de Belfort-Ville,Gare de Montbéliard-Ville,15,Belfort,Belfort
+OCESN894831F0200252407,Gare de Delle,Gare de Meroux,17,Delle,Meroux-Moval
+OCESN895000F0400452425,Gare de Besançon-Mouillère,Gare de Le Valdahon,43,Besançon,Valdahon
+OCESN895225F0300352479,Gare de Besançon-Mouillère,Gare de Morteau,82,Besançon,Morteau
+OCESN895302F0400452484,Gare de Besançon-Viotte,Gare de Saint-Claude,148,Besançon,Saint-Claude
+OCESN895522F0200252510,Gare de Dole-Ville,Gare de Pontarlier,75,Montmirey-la-Ville,Boujailles
+OCESN895702F0500552519,Gare de Andelot,Gare de Dole-Ville,41,Andelot-en-Montagne,Montmirey-la-Ville
+OCESN895714F0600652522,Gare de Besançon-Viotte,Gare de Lyon-Perrache,176,Besançon,Lyon
+OCESN895800F0500552541,Gare de Lyon-Part-Dieu,Gare de Mouchard,128,Lyon,Mouchard
+OCESN895800F1401452539,Gare de Besançon-Viotte,Gare de Lyon-Part-Dieu,159,Besançon,Lyon
+OCESN895800F1701752543,Gare de Lyon-Perrache,Gare de Mouchard,139,Lyon,Mouchard
+OCESN895802F0700752546,Gare de Besançon-Viotte,Gare de Bourg-en-Bresse,118,Besançon,Montluel
+OCESN895819F0300352564,Gare de Belfort-Ville,Gare de Lyon-Part-Dieu,230,Belfort,Lyon
+OCESN895820F0900952566,Gare de Belfort-Ville,Gare de Bourg-en-Bresse,186,Belfort,Montluel
+OCESN895820F1801852568,Gare de Belfort-Ville,Gare de Lyon-Perrache,244,Belfort,Lyon
+OCESN895822F0500552575,Gare de Lons-le-Saunier,Gare de Lyon-Perrache,103,Lons-le-Saunier,Lyon
+OCESN895830F0200252600,Gare de Belfort-Ville,Gare de Lons-le-Saunier,144,Belfort,Lons-le-Saunier
+OCESN895880F0500552634,Gare de Besançon-Viotte,Gare de Lons-le-Saunier,89,Besançon,Lons-le-Saunier
+OCESN895940F0200252654,Gare de Bourg-en-Bresse,Gare de Mouchard,81,Montluel,Mouchard

@@ -1,0 +1,18 @@
+services:
+  data-generation:
+    build:
+      context: .
+      dockerfile: DataGenerationService/Dockerfile
+    container_name: data-generation
+    environment:
+      - DOTNET_ENVIRONMENT=Production
+
+  api:
+    build:
+      context: .
+      dockerfile: Api/Dockerfile
+    container_name: api
+    environment:
+      - DOTNET_ENVIRONMENT=Production
+    ports:
+      - "8080:8080"

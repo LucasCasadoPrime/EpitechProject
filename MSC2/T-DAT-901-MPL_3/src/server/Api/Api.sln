@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{BBA5FFB8-4BBA-4F02-B1CC-22FC97FD4306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dto", "..\Shared\Dto\Dto.csproj", "{6D4B2EC2-DB0A-470A-8AA7-C98DA2461C6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBA5FFB8-4BBA-4F02-B1CC-22FC97FD4306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA5FFB8-4BBA-4F02-B1CC-22FC97FD4306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA5FFB8-4BBA-4F02-B1CC-22FC97FD4306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA5FFB8-4BBA-4F02-B1CC-22FC97FD4306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4B2EC2-DB0A-470A-8AA7-C98DA2461C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4B2EC2-DB0A-470A-8AA7-C98DA2461C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4B2EC2-DB0A-470A-8AA7-C98DA2461C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4B2EC2-DB0A-470A-8AA7-C98DA2461C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

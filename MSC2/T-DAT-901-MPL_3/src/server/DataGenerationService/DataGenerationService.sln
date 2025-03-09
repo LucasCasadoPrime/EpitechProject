@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worker", "Worker\Worker.csproj", "{E6390F06-9C36-456C-972F-A1FC6D565FFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dto", "..\Shared\Dto\Dto.csproj", "{4C2B4E62-45B3-476C-AFD8-08F68CB142C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6390F06-9C36-456C-972F-A1FC6D565FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6390F06-9C36-456C-972F-A1FC6D565FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6390F06-9C36-456C-972F-A1FC6D565FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6390F06-9C36-456C-972F-A1FC6D565FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2B4E62-45B3-476C-AFD8-08F68CB142C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2B4E62-45B3-476C-AFD8-08F68CB142C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2B4E62-45B3-476C-AFD8-08F68CB142C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2B4E62-45B3-476C-AFD8-08F68CB142C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

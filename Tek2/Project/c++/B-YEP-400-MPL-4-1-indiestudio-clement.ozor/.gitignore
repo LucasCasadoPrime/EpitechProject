@@ -1,0 +1,9 @@
+build
+cmake-build-debug
+.idea
+.vscode
+.ccls
+.ccls-cache
+tags
+bomberman
+Makefile

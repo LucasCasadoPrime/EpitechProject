@@ -1,0 +1,61 @@
+/*
+** EPITECH PROJECT, 2020
+** tree
+** File description:
+** print tree with the size in the par
+*/
+
+void my_putchar(char);
+
+void tree(int size)
+{
+    int a = 3;
+    int b = 3;
+    int c = 5;
+    int d = 7;
+    int e = 3;
+    
+    if (size <= 0) {
+        return;
+    }
+ 
+    while (a != 0) {
+        a = a - 1;
+        my_putchar(' ');
+    }
+    my_putchar('*');
+    my_putchar('\n');
+    my_putchar(' ');
+    my_putchar(' ');
+    
+    while (b != 0) {
+        b = b - 1;
+        my_putchar('*');
+    }
+    my_putchar('\n');
+    my_putchar(' ');
+
+    while (c != 0) {
+        c = c - 1;
+        my_putchar('*');
+    }
+    my_putchar('\n');
+
+    while (d != 0) {
+        d = d - 1;
+        my_putchar('*'); 
+    }
+    my_putchar('\n');
+
+    while (e != 0) {
+        e = e - 1;
+        my_putchar(' ');
+    }
+    my_putchar('|');
+    my_putchar('\n');
+}
+
+void main(void)
+{
+    tree(1) ;
+}

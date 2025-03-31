@@ -1,0 +1,5 @@
+[postgres]
+cache-2 ansible_host=debian@192.168.79.128
+
+[redis]
+cache-1 ansible_host=debian@192.168.79.129

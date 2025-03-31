@@ -1,0 +1,6 @@
+- hosts: redis
+  become: yes
+  tasks:
+  - name: install redis on all machines
+    apt:
+      name: redis-server

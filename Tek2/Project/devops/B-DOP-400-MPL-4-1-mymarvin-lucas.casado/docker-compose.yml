@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  jenkins:
+    privileged: true
+    build: .
+    image: emnify/jenkins-casc:latest
+    volumes:
+      - ./my_marvin.yml:/var/jenkins_casc.yml
+      - ./job_dsl.groovy:/var/job_dsl.groovy
+    ports:
+      - "8080:8080"
+    environment:
+      USER_CHOCOLATEEN_PASSWORD: "lulu"
+      USER_VAUGIE_G_PASSWORD: "lulu"
+      USER_I_DONT_KNOW_PASSWORD: "lulu"
+      USER_NASSO_PASSWORD: "lulu"
+      CASC_JENKINS_CONFIG: "/var/jenkins_casc.yml"

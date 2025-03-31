@@ -1,0 +1,11 @@
+- name: tasks for role 'base'
+  hosts: all
+  become: yes
+  tasks:
+  - name: install and set
+    apt: 
+      name: git-all,
+            zsh
+    
+
+      

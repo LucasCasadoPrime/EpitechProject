@@ -1,0 +1,16 @@
+name: Repo Tests
+on: [push]
+jobs:
+  Clean-repository:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: "TESTS > CLEAN REPOSITORY"
+        run: "bash ${GITHUB_WORKSPACE}/.github/clean-repository.sh"
+
+  Basic-protocol-working:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: "TESTS > BASIC PROTOCOL WORKING"
+        run: "bash ${GITHUB_WORKSPACE}/.github/basic-protocol-working.sh"

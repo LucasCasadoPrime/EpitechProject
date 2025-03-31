@@ -1,0 +1,28 @@
+- hosts: postgres
+  become: yes
+  tasks:
+  - name: install postgres
+    apt:
+      name: postgresql, 
+            postgresql-client,
+            postgresql-contrib,
+            python3-pip,
+            acl
+
+  - name: Create postgres user for my app
+    become_user: postgres
+    become: yes
+    postgresql_user:
+      db: test 
+      name: "myappuser"
+      password: "supersecretpassword"
+      priv: CREATE USER davide WITH PASSWORD 'jw8s0F4' 
+
+  # - name: Ensure we have access from the new user
+  #   become: yes
+  #   become_user: postgres
+  #   postgresql_privs:
+  #     db: mydatabase
+  #     role: myappuser
+  #     objs: ALL_IN_SCHEMA
+  #     privs: SELECT,INSERT,UPDATE,DELETE
